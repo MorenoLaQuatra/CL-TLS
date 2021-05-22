@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+Las protestas en el mundo árabe se contagian a Yemen Miles de yemeníes toman las calles de la capital en varias manifestaciones que piden el cambio de régimen Miles de yemeníes se manifestaron <TIMEX3 tid="t1" type="DATE" value="2011-01-26">ayer</TIMEX3> por las calles de Saná , la capital del país , exigiendo una mejora de sus condiciones de vida y el fin a <TIMEX3 tid="t3" type="DURATION" value="P32Y">los 32 años</TIMEX3> de presidencia de Ali Abdalá Saleh .
+Como en el caso de Túnez , que les ha servido de inspiración , los yemeníes se quejan de la carestía de los alimentos , de la corrupción y del nepotismo .
+Pero la fragilidad del Estado , con un movimiento separatista en el Sur , una insurrección en el Norte y los tentáculos de Al Qaeda aprovechando la ausencia del Gobierno central en la mayor parte del país ; hace que Yemen corra el riesgo de convertirse en una nueva Somalia más que en otro Túnez .
+" La gente se manifiesta por la falta de trabajo y de justicia " , explica Jaled desde Saná .
+" Además , <TIMEX3 tid="t5" type="SET" value="P1D" quant="EVERY">cada día</TIMEX3> hay más víctimas tanto civiles como militares en el sur " , añade este hombre que a pesar de su formación universitaria lleva meses en el paro .
+La oposición parlamentaria , que intenta capitalizar el efecto Túnez ante las elecciones <TIMEX3 tid="t7" type="DATE" value="2011-04">del próximo abril</TIMEX3> , convocó cuatro manifestaciones en otros tantos puntos de la capital yemení con el fin de dividir a las fuerzas policiales .
+Desde el derrocamiento de Zine el Abidine Ben Ali ( al que las protestas obligaron a abandonar Túnez y refugiarse en Arabia Saudí ) , estudiantes y activistas han llevado a cabo numerosas protestas en diversas ciudades , pero la de <TIMEX3 tid="t9" type="DATE" value="2011-01-26">ayer</TIMEX3> fue la más concurrida y la que más directamente cuestionó a Saleh , algo que hasta <TIMEX3 tid="t10" type="DATE" value="PRESENT_REF">ahora</TIMEX3> pocos se atrevían a hacer en público .
+" Sólo aceptaremos que se vaya el presidente " , declaró el diputado independiente Ahmed Hashid , citado por la agencia Reuters .
+A pesar del despliegue policial , no hay constancia de incidentes significativos .
+Saleh , de <TIMEX3 tid="t14" type="DURATION" value="P68Y">68 años</TIMEX3> , intentaba rebajar la tensión anunciando , <TIMEX3 tid="t11" type="DATE" value="2011-01-23">el pasado domingo</TIMEX3> , un aumento de los salarios para todos los funcionarios y miembros de las Fuerzas de Seguridad .
+También ha negado que planee instalar a su hijo Ahmad en la presidencia , como denuncia la oposición .
+Este cabo que llegó al poder en Yemen del Norte en <TIMEX3 tid="t16" type="DATE" value="1978">1978</TIMEX3> , logró ser elegido presidente en <TIMEX3 tid="t17" type="DATE" value="1999">1999</TIMEX3> , tras la unificación con el sur del país , y fue reelegido en <TIMEX3 tid="t18" type="DATE" value="2006">2006</TIMEX3> .
+Aunque su mandato concluye en <TIMEX3 tid="t19" type="DATE" value="2013">2013</TIMEX3> , una enmienda constitucional que <TIMEX3 tid="t20" type="DATE" value="PRESENT_REF">actualmente</TIMEX3> debate el Parlamento contempla su elección vitalicia .
+Así que los yemeníes exhibieron <TIMEX3 tid="t21" type="DATE" value="2011-01-27">este jueves</TIMEX3> pancartas en las que se leía " Ben Ali se fue después de <TIMEX3 tid="t25" type="DURATION" value="P20Y">20 años</TIMEX3> , <TIMEX3 tid="t26" type="DURATION" value="P30Y">30 años</TIMEX3> en Yemen , ya basta " .
+Pero más allá de su apego al poder , lo que tiene a los yemeníes indignados es la vergonzosa gestión de las finanzas públicas .
+Saleh utiliza el Gobierno para comprar lealtades en detrimento de un genuino desarrollo del país .
+Lo mismo sucede con la ayuda militar que EEUU le facilita para combatir a Al Qaeda , tal como revelaron los papeles del Departamento de Estado publicados por EL PAÍS <TIMEX3 tid="t30" type="DATE" value="2010-12">el pasado diciembre</TIMEX3> .
+Mientras , la mitad de sus 23 millones de habitantes vive por debajo de la línea de pobreza ( menos de dos dólares <TIMEX3 tid="t32" type="SET" value="P1D" quant="EVERY">al día</TIMEX3> ) y carece de instalaciones sanitarias ; un tercio sufre hambre crónica .
+</TimeML>
+

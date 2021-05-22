@@ -1,0 +1,67 @@
+Para poder iniciar sesión tienes que aceptar nuestra política de privacidad. Acepto
+¿No tienes usuario? Únete
+Introduce tu usuario y contraseña
+Indica tu cuenta de correo
+¿Nos ayudas a hacer un periodismo valiente?
+Gadafi ha cometido crímenes de guerra contra su propio pueblo
+Gadafi ha cometido crímenes de guerra contra su propio pueblo
+Los testimonios recogidos durante la revuelta libia acumulan pruebas contra el dictador
+Si el régimen de Gadafi acaba siendo derrocado, el dictador libio y su círculo más íntimo pueden acabar rindiendo cuentas ante la Justicia internacional por los más que presuntos crímenes de guerra que han cometido durante la represión de las revueltas.
+Luis Moreno-Ocampo, el fiscal jefe de la Corte Penal Internacional (CPI), tiene previsto presentar el 4 de mayo ante Naciones Unidas su informe sobre los crímenes de guerra cometidos en Libia. Al principio de la rebelión, Moreno-Ocampo afirmó que estaban teniendo dificultades para investigar lo sucedido y que sería conveniente poder enviar un equipo a suelo libio para documentar los posibles crímenes.
+El régimen pasó de reprimir con armas ligeras a usar aviones y artillería
+Pero, en los últimos días, se han multiplicado los testimonios y las pruebas de que el régimen de Gadafi ha cometido numerosas atrocidades en su intento de aplastar la rebelión. Los primeros días de represión contra los manifestantes, del 17 al 23 de febrero, se basaron en el uso de armas ligeras contra los manifestantes, según los testimonios recogidos. Después el régimen pasó a emplear armas pesadas.
+Alí Zeidan, delegado de la Liga libia de Derechos Humanos ante la fiscalía de la CPI, resume los testimonios que le han llegado: "Según nuestros testigos, las fuerzas de Gadafi disparaban indiscriminadamente y sin advertencia previa contra todos los grupos de más de tres personas entre el 17 y el 23 de febrero".
+Moreno-Ocampo presentará su informe el próximo mayo en la ONU
+"Entre el 24 y el 28 de febrero, Gadafi utilizó helicópteros y aviones de combate para bombardear a la población civil, especialmente en Trípoli. Según los testimonios que hemos recogido, instantes después de los bombardeos, pasaban camiones que se llevaban a los muertos, e incluso a los heridos, para hacer desaparecer las huellas de la masacre. Es urgente investigar, porque es muy probable que podamos encontrar fosas comunes en el extrarradio. Si no, hay riesgo de desaparición de las pruebas", cuenta Zeidan.
+Un médico de Misrata, citado por la agencia AFP, afirmaba el 6 de marzo que la ciudad había sido bombardeada con obuses por las tropas de Gadafi y que había 21 muertos: "La inmensa mayoría son civiles. No sé con qué atacaron, pero no son armas de fuego".
+The Independent informó el 9 de marzo de un ataque aéreo sobre una camioneta Toyota en el que murió una familia de cuatro miembros, con dos niños. Ocurrió en una carretera a 12 kilómetros de Ras Lanuf.
+«Las pruebas pueden desaparecer. Es urgente investigar», advierte un activista
+El 24 de febrero, un libio identificado como Adel, residente en Trípoli, dijo a la cadena de televisión CBS que los soldados de Gadafi estaban rematando a libios de la oposición heridos y se llevaban sus cadáveres de los hospitales.
+"Según nuestros datos, se desconoce el paradero de al menos 600 personas, que han sido detenidas por todo el país en solo una semana. Estamos elaborando una lista con nombres y apellidos", afirmó a Público Nassera Dutour, presidenta de la Federación Euromediterránea contra la Desaparición Forzosa.
+Un hombre mostraba, el 6 de marzo en Le Monde, la foto de su hermano Ahamd Ramadan, habitante de Ben Jawad, desaparecido con varios otros a bordo de un vehículo de tropas de Gadafi.
+Heitham Gheriani, médico en el hospital de Ras Lanuf, afirmó la semana pasada a The Guardian que el centro había sido alcanzado por fuego de artillería y de mortero y que estaba parcialmente destrozado. La devastación encontrada en el centro de la ciudad de Zauiya hace pensar que ha sufrido un asalto indiscriminado. El fuego de los tanques y la artillería ha destruido edificios enteros en una ciudad de 250.000 personas.
+Radio Francia Internacional recogió el testimonio de un grupo de trabajadores tunecinos que fueron torturados antes de ser liberados los primeros días. "Estábamos encerrados como en unas cabinas y nos daban golpes con cachiporras", afirmó uno de ellos.
+Te necesitamos en La República
+En la República de Público queremos fortalecer nuestro periodismo internacional. Únete para conocer la realidad de las personas, sin importar dónde estén.
+Únete a La República de Público
+Más noticias de Internacional
+Solo las personas que pertenecen a la República de Público pueden escribir comentarios y debatir nuestras noticias. Nuestro objetivo es crear un debate enriquecedor y libre de trolls. Únete aquí para expresar tu opinión en un medio que le da valor a sus lectores y al intercambio de ideas con el respeto como principio fundamental. Si ya formas parte, solo tienes que iniciar sesión.
+Si únicamente quieres leer los comentarios que se han publicado, puedes registrarte aquí para poder hacerlo.
+Recuerda las normas de la comunidad.
+Para poder comentar en esta noticia antes tienes que unirte a la República de Público, puedes hacerlo aquí.
+Me encanta: <%= comment.actions.love %>
+Me parto: <%= comment.actions.laugh %>
+Flipo: <%= comment.actions.dizzy %>
+Me entristece: <%= comment.actions.cry %>
+Me cabrea: <%= comment.actions.pout %>
+Qué aburrimiento: <%= comment.actions.sleep %>
+Sin palabras: <%= comment.actions.mute %>
+Me encanta: <%= comment.actions.love %>
+Me parto: <%= comment.actions.laugh %>
+Flipo: <%= comment.actions.dizzy %>
+Me entristece: <%= comment.actions.cry %>
+Me cabrea: <%= comment.actions.pout %>
+Qué aburrimiento: <%= comment.actions.sleep %>
+Sin palabras: <%= comment.actions.mute %>
+Me encanta: <%= children.actions.love %>
+Me parto: <%= children.actions.laugh %>
+Flipo: <%= children.actions.dizzy %>
+Me entristece: <%= children.actions.cry %>
+Me cabrea: <%= children.actions.pout %>
+Qué aburrimiento: <%= children.actions.sleep %>
+Sin palabras: <%= children.actions.mute %>
+Me encanta: <%= children.actions.love %>
+Me parto: <%= children.actions.laugh %>
+Flipo: <%= children.actions.dizzy %>
+Me entristece: <%= children.actions.cry %>
+Me cabrea: <%= children.actions.pout %>
+Qué aburrimiento: <%= children.actions.sleep %>
+Sin palabras: <%= children.actions.mute %>
+Recuerda las normas de la comunidad.
+En las redes
+Hoy en portada
+No te puedes perder
+DISPLAY CONNECTORS, SL.
+Nos batimos contra la corrupción
+En Público destapamos las primeras noticias sobre la trama criminal de las cloacas hace cinco años, cuando otros medios no se atrevían a hacerlo. Hemos descubierto fondos reservados, empresas pantalla, espionaje, extorsión... Pero aún queda mucho por desentrañar. Por 6 euros al mes, tú puedes ayudarnos a hacer el periodismo de investigación que estás necesitando. Únete a La República de Público.
+Si ya eres miembro inicia sesión y disfruta de las ventajas

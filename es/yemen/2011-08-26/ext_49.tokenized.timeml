@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+En varias ciudades del país Cientos de miles de personas protestan en Yemen contra el régimen de Saleh Cientos de miles de manifestantes salen a las calles en Yemen para protestas contra Saleh .
+| Ap Afp | Saná ( Yemen ) Cientos de miles de personas se han manifestado <TIMEX3 tid="t1" type="DATE" value="2011-08-26">este viernes</TIMEX3> en Yemen para exigr el fin del régimen del presidente Ali Abdulá Saleh , invocando la victoria de la rebelión en Libia , según ha podido constatar la agencia Afp y varios testigos .
+" Oh Alá , tú que has dado la victoria a nuestros hermanos en Libia , bendicenos dándonos la victoria " , cantaba el pueblo tras el rezo de <TIMEX3 tid="t3" type="DATE" value="2011-08-26">este viernes</TIMEX3> en Saná .
+Un número similar de personas se han manifestado en Taiz ( suroeste ) , la segunda ciudad del país , al igual que en otras localidades como Al Bayda ( sur ) o Hudeida ( oeste ) , según varios testigos .
+Varios miles de partidarios del presidente Saleh se han manifestado paralelamente en la plaza de Sabiine , en saná , para pedir el retorno al país del jefe de Estado , tratado desde <TIMEX3 tid="t5" type="DATE" value="2011-06" mod="START">principios de junio</TIMEX3> en Arabia Saudí tras ser gravemente herido en un atentado contra su palacio .
+Saleh , que hace frente a un movimiento de contestación desde mediados de <TIMEX3 tid="t6" type="DATE" value="2011-01">enero</TIMEX3> , ha declarado <TIMEX3 tid="t7" type="DATE" value="PAST_REF">recientemente</TIMEX3> su intención de volver a Yemen .
+A pesar de su ausencia prolongada , Saleh no ha concedido casi poder a su vicepresidente Abed rabbo Mansour Hadi .
+En cambio , su familia si lo ejerce , y controla casi todo el ejército y las fuerzas de seguridad .
+</TimeML>
+

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+<TIMEX3 tid="t1" type="DURATION" value="P1D">Un día</TIMEX3> después de firmar su renuncia en Riad Cuatro manifestantes muertos por disparos de fieles al dictador Saleh Manifestantes anti gubernamentales yemeníes protestan ante el acuerdo firmado por Saleh en Saná .
+| Afp Afp | Saná Cuatro manifestantes han perdido la vida <TIMEX3 tid="t2" type="DATE" value="2011-11-24">este jueves</TIMEX3> por disparos de partidarios del presidente saliente Ali Abdulá Saleh durante una manifestación en la que se reclamaba justicia , tras la firma , <TIMEX3 tid="t4" type="DATE" value="2011-11-23">ayer miércoles</TIMEX3> , de un acuerdo sobre el traspaso de poder , según una fuente médica .
+Los manifestantes protestaban contra el hecho de que el plan firmado en Arabia Saudí acuerda la inmunidad del dictador Saleh y de toda su familia .
+Además de los muertos , hay varios heridos , según las fuentes médicas del hospital de campaña instalado en la llamada Plaza del Cambio , donde los detractores de Saleh acampan desde <TIMEX3 tid="t7" type="DATE" value="2011-02">hace nueve meses</TIMEX3> para pedir el fin de un régimen que duraba ya <TIMEX3 tid="t10" type="DURATION" value="P33Y">33 años</TIMEX3> .
+</TimeML>
+

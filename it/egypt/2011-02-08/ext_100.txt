@@ -1,0 +1,61 @@
+Para poder iniciar sesión tienes que aceptar nuestra política de privacidad. Acepto
+¿No tienes usuario? Únete
+Introduce tu usuario y contraseña
+Indica tu cuenta de correo
+¿Nos ayudas a hacer un periodismo valiente?
+¿Es Mubarak el hombre más rico del mundo?
+¿Es Mubarak el hombre más rico del mundo?
+La fortuna del 'rais' puede llegar hasta los 51.000 millones de euros
+Nada distingue a simple vista al número 28 de Wilton Place, en el corazón del lujoso barrio londinense de Belgravia, de los edificios vecinos. Tienen fachadas idénticas y están valorados, de media, en unos 800.000 euros. Pero hace unos días se manifestaron frente a su puerta decenas de personas, exigiendo la dimisión de Hosni Mubarak y sacando a la luz pública que su hijo Gamal, al que pretendía dejar la presidencia de Egipto en herencia, es el dueño de esta exclusiva residencia.
+"La propiedad de Wilton Place es probablemente la punta del iceberg [de la fortuna de los Mubarak]", ha declarado a The Guardian Christopher Davidson, profesor de Política de Oriente Próximo de la Universidad de Durham.
+Davidson estima que la fortuna de la familia Mubarak oscila entre los 40.000 y los 70.000 millones de dólares (29.000 y 51.000 millones de euros), lo que convertiría al dictador egipcio en el hombre más rico del mundo, por delante del magnate mexicano Carlos Slim.
+Mubarak empezó a enriquecerse en el Ejército en los años setenta, gracias a las ingentes comisiones que recibía por los contratos armamentísticos, señala Amaney Jamal, profesor de Ciencia Política de Princeton. Tras llegar al poder, la corrupción y el nepotismo han permitido que su fortuna y la de su círculo íntimo aumente año tras año. También, que el dinero acumulado burlase las fronteras, en previsión de que un día el pueblo egipcio se hartase del saqueo de las arcas públicas.
+"Es un patrón común entre los dictadores de Oriente Próximo. [Invierten en el extranjero] porque así sus bienes no pueden ser incautados durante una transición", dice Jamal.
+Los tentáculos de los Mubarak llegan a numerosas multinacionales extranjeras
+Los tentáculos de los Mubarak llegan a numerosas multinacionales extranjeras que operan en Egipto, gracias a la ley que las obliga a ceder el 20% de sus acciones a un socio local. Llegan también a complejos hoteleros de cinco estrellas en el mar Rojo y a pomposas residencias en Estados Unidos, Gran Bretaña, Francia, España, Alemania y el Golfo Pérsico, según un informe de la consultora IHS Global Insight. Pero la parte más valiosa del tesoro del rais se cree escondida en paraísos fiscales. "La mayor parte de su dinero está en cuentas suizas", explica Davidson, aunque reconoce que debido al secreto bancario de este país "es difícil conocer las cifras exactas".
+El cálculo de Davidson sobre la fortuna de la familia presidencial egipcia es compartido grosso modo por el profesor de Princeton y por Aladdin Elaasar, autor del ensayo El último faraón: Mubarak y el incierto futuro de Egipto en la era Obama.
+Por el contrario, los expertos de Forbes discrepan. Mubarak nunca ha sido incluido en su lista anual de las mayores fortunas del mundo y considera "muy improbable" que el valor total de sus bienes esté "ni siquiera cerca de los 70.000 millones de dólares mencionados". Aun así, admite que las fortunas de reyes y líderes políticos "son más difíciles de rastrear".
+Te necesitamos en La República
+En la República de Público queremos fortalecer nuestro periodismo internacional. Únete para conocer la realidad de las personas, sin importar dónde estén.
+Únete a La República de Público
+Más noticias de Internacional
+Solo las personas que pertenecen a la República de Público pueden escribir comentarios y debatir nuestras noticias. Nuestro objetivo es crear un debate enriquecedor y libre de trolls. Únete aquí para expresar tu opinión en un medio que le da valor a sus lectores y al intercambio de ideas con el respeto como principio fundamental. Si ya formas parte, solo tienes que iniciar sesión.
+Si únicamente quieres leer los comentarios que se han publicado, puedes registrarte aquí para poder hacerlo.
+Recuerda las normas de la comunidad.
+Para poder comentar en esta noticia antes tienes que unirte a la República de Público, puedes hacerlo aquí.
+Me encanta: <%= comment.actions.love %>
+Me parto: <%= comment.actions.laugh %>
+Flipo: <%= comment.actions.dizzy %>
+Me entristece: <%= comment.actions.cry %>
+Me cabrea: <%= comment.actions.pout %>
+Qué aburrimiento: <%= comment.actions.sleep %>
+Sin palabras: <%= comment.actions.mute %>
+Me encanta: <%= comment.actions.love %>
+Me parto: <%= comment.actions.laugh %>
+Flipo: <%= comment.actions.dizzy %>
+Me entristece: <%= comment.actions.cry %>
+Me cabrea: <%= comment.actions.pout %>
+Qué aburrimiento: <%= comment.actions.sleep %>
+Sin palabras: <%= comment.actions.mute %>
+Me encanta: <%= children.actions.love %>
+Me parto: <%= children.actions.laugh %>
+Flipo: <%= children.actions.dizzy %>
+Me entristece: <%= children.actions.cry %>
+Me cabrea: <%= children.actions.pout %>
+Qué aburrimiento: <%= children.actions.sleep %>
+Sin palabras: <%= children.actions.mute %>
+Me encanta: <%= children.actions.love %>
+Me parto: <%= children.actions.laugh %>
+Flipo: <%= children.actions.dizzy %>
+Me entristece: <%= children.actions.cry %>
+Me cabrea: <%= children.actions.pout %>
+Qué aburrimiento: <%= children.actions.sleep %>
+Sin palabras: <%= children.actions.mute %>
+Recuerda las normas de la comunidad.
+En las redes
+Hoy en portada
+No te puedes perder
+DISPLAY CONNECTORS, SL.
+Nos batimos contra la corrupción
+En Público destapamos las primeras noticias sobre la trama criminal de las cloacas hace cinco años, cuando otros medios no se atrevían a hacerlo. Hemos descubierto fondos reservados, empresas pantalla, espionaje, extorsión... Pero aún queda mucho por desentrañar. Por 6 euros al mes, tú puedes ayudarnos a hacer el periodismo de investigación que estás necesitando. Únete a La República de Público.
+Si ya eres miembro inicia sesión y disfruta de las ventajas

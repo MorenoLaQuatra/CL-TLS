@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+Boutique le Point
+Syrie : l' armée pilonne Rastane , mobilisation en hommage à Alep
+Les forces gouvernementales bombardaient violemment la ville rebelle de Rastane dans le centre de la Syrie , où de nouvelles manifestations sont prévues <TIMEX3 tid="t1" type="DATE" value="2012-05-18">vendredi</TIMEX3> en hommage aux étudiants d' Alep , deuxième ville du pays , mobilisés en force malgré la répression .
+Les violences se poursuivent sous les yeux des observateurs de l' ONU , déployés en vertu du plan de paix de l' émissaire Kofi Annan pour surveiller une trêve sans cesse violée depuis plus d' <TIMEX3 tid="t2" type="DURATION" value="P1M">un mois</TIMEX3> .
+Les militants , qui tentent désespérément de prendre à témoin les plus de 250 observateurs , ont appelé à manifester comme <TIMEX3 tid="t5" type="SET" value="XXXX-WXX-5" quant="EVERY" freq="1W">chaque vendredi</TIMEX3> pour réclamer la chute du régime du président Bachar al
+- Assad et rendre hommage aux étudiants d' Alep qui ont manifesté la veille par milliers en présence des Casques bleus .
+Une vidéo diffusée par les militants montre un grand nombre d' étudiants insultant M. Assad ou entourant un véhicule marqué du logo de l' ONU en criant " Le peuple veut la chute du régime " .
+Une autre vidéo montre des jeunes assis à l' arrière d' une voiture conduite par un observateur de l' ONU et filmant des membres des forces de l' ordre armés de bâtons frappant brutalement des étudiants .
+" Partons , partons , ils vont nous arrêter , nous sommes sous ta protection " , crient les jeunes à l' adresse de l' observateur après l' avoir pris à témoin de la scène .
+L' Université d' Alep , la deuxième de Syrie , est le centre nerveux de la mobilisation dans cette ville du nord restée longtemps à l' écart de la révolte lancée <TIMEX3 tid="t8" type="DATE" value="2011-03" mod="MORE_THAN">il y a plus de 14 mois</TIMEX3> .
+<TIMEX3 tid="t11" type="DATE" value="2012-05-03">Le 3 mai</TIMEX3> , quatre étudiants avaient été tués par les forces gouvernementales qui ont semé la terreur dans la cité universitaire .
+A Damas , des dizaines de manifestants sont déjà sortis dans les quartiers traditionnellement hostiles au régime , selon l' Observatoire syrien des droits de l' Homme ( OSDH ) .
+Toujours à Alep , un officier a été tué <TIMEX3 tid="t14" type="DATE" value="2012-05-18">vendredi</TIMEX3> dans l' explosion d' une bombe .
+L' OSDH a dénoncé " le silence des observateurs internationaux qui n' ont rien fait pour arrêter le bombardement continu " sur Rastane , ville rebelle pilonnée <TIMEX3 tid="t15" type="DATE" value="2012-05-18">vendredi</TIMEX3> par les troupes du régime qui tentent depuis des mois de la reprendre aux insurgés , qualifiés de " bande de criminels " par le président Assad .
+Selon l' ONG , l' armée veut " détruire progressivement " la ville en brisant le moral des habitants à coups de bombardements .
+Plusieurs quartiers de Homs étaient la cible d' obus de mortier de l' armée .
+De son côté , la Ligue syrienne de défense des droits de l' Homme a fait état <TIMEX3 tid="t16" type="DATE" value="2012-05-18">vendredi</TIMEX3> de la condamnation à mort pour " haute trahison " d' un militant syrien , Mohammed Abdelmaoula al
+- Hariri , " sauvagement torturé " depuis son arrestation en <TIMEX3 tid="t17" type="DATE" value="2012-04">avril</TIMEX3> .
+Malgré ces violations systématiques du cessez-le-feu , les grandes puissances s' accrochent au plan Annan , faute de plan B , selon des diplomates .
+La communauté internationale s' en tient au plan " parce qu' il n' y a pas d' alternative crédible " , estime l' ambassadeur allemand à l' ONU Peter Wittig .
+La Mission de supervision de l' ONU ( MISNUS ) sera <TIMEX3 tid="t21" type="DATE" value="FUTURE_REF">bientôt</TIMEX3> à effectif plein ( 300 observateurs militaires ) mais les Occidentaux parlent déjà de ne pas renouveler son mandat de <TIMEX3 tid="t25" type="DURATION" value="P90D">90 jours</TIMEX3> , qui expire <TIMEX3 tid="t19" type="DATE" value="2012-07-21">le 21 juillet</TIMEX3> .
+Cette mission est d' autant plus délicate que des attentats meurtriers à Damas et Alep revendiqués par des groupuscules obscurs s' ajoutent aux violences quotidiennes .
+Le secrétaire général de l' ONU Ban Ki
+- moon a imputé <TIMEX3 tid="t28" type="DATE" value="2012-05-17">jeudi</TIMEX3> au réseau extrémiste Al-Qaïda la responsabilité de récents attentats comme ceux qui ont fait 55 morts dans la capitale <TIMEX3 tid="t26" type="DATE" value="2012-05-10">le 10 mai</TIMEX3> .
+Avec un régime fort du soutien de la Russie et qui s' accroche plus que jamais au pouvoir , le règlement de la crise semble de plus en plus éloigné avec les divisions apparues <TIMEX3 tid="t31" type="DATE" value="PAST_REF">récemment</TIMEX3> au sein de l' opposition , déjà fragmentée .
+Le chef du Conseil national syrien ( CNS ) , principale coalition de l' opposition , Burhan Ghalioun , s' est dit prêt <TIMEX3 tid="t32" type="DATE" value="2012-05-17">jeudi</TIMEX3> à démissionner dès qu' un successeur aura été nommé , à la suite de critiques liées à sa réélection <TIMEX3 tid="t33" type="DURATION" value="P2D">deux jours</TIMEX3> plus tôt .
+Il a affirmé ne pas vouloir être " le candidat de la division " , après que les Comités locaux de coordination ( LCC ) , qui animent la contestation sur le terrain , ont menacé de se retirer du CNS , dénonçant un " monopole " du pouvoir au sein de cette instance .
+Les détracteurs du CNS lui reprochent essentiellement la grande influence des Frères musulmans et son manque de coordination avec les militants sur le terrain .
+Le président Assad , qui se prévaut de ces divisions pour minimiser l' ampleur de la contestation , avait affirmé <TIMEX3 tid="t34" type="DATE" value="2012-W20">cette semaine</TIMEX3> à une chaîne de télévision russe que les législatives du <TIMEX3 tid="t35" type="DATE" value="2012-05-07">7 mai</TIMEX3> , boycottées par l' opposition , avaient montré que les Syriens soutenaient son régime face aux " terroristes " .
+En <TIMEX3 tid="t39" type="DURATION" value="P14M">14 mois</TIMEX3> , plus de 12.000 personnes ont été tuées en Syrie , en majorité des civils , selon l' OSDH .
+Des dizaines de milliers de Syriens se sont en outre réfugiés dans les pays voisins .
+Agrandir le texte
+Réduire le texte
+Ajouter aux favoris
+Envoyer par email
+Consultez les articles de la rubrique International , suivez les informations en temps réel et accédez à nos analyses de l' actualité .
+Joe Biden , président d' une Amérique fracturéeTrump , <TIMEX3 tid="t40" type="DURATION" value="P4Y">quatre ans</TIMEX3> de plus ?
+Le Monde en 2030
+Expérience
+Le Point Nous sommes OJD
+Les forums du Point
+Plan du site
+Charte de modération
+Politique de protection
+des données à caractère personnel
+* Champs obligatoires Avec un compte LePoint.fr : Créez un compte afin d' accéder à la version numérique du magazine et à l' intégralité des contenus du Point inclus dans votre offre .
+Pour ce faire , renseignez votre numéro d' abonné dans les paramètres de création de compte .
+Vous avez un compte Facebook ?
+Connectez
+- vous plus rapidement Vous avez un compte Facebook ?
+Créez
+votre compte plus rapidement
+Veuillez saisir l' adresse mail qui a servi à créer votre compte LePoint.fr Merci d' avoir partagé cet article avec vos amis Merci de compléter ce formulaire Cet article a été ajouté dans vos favoris .
+</TimeML>
+

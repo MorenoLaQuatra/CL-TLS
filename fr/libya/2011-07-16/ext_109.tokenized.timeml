@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+Libye : Kadhafi menace , l' Otan répond La réponse n' a pas mis de temps à arriver .
+<TIMEX3 tid="t1" type="DURATION" value="PTXH">Quelques heures</TIMEX3> après un nouveau discours retransmis par hautparleurs à des milliers de Libyens rassemblés à Zawiyah , à l' ouest de Tripoli , l' Otan a répondu par des raids aériens sur le quartier Aïn Zara , grande banlieue de Tripoli .
+Vers <TIMEX3 tid="t2" type="TIME" value="2011-07-16T24:00">minuit</TIMEX3> et pendant plus d' <TIMEX3 tid="t3" type="DURATION" value="PT1H">une heure</TIMEX3> , plus d' une dizaine d' explosions ont retenties , " bruits sourds mais puissants " , selon l' envoyé spécial d' Europe 1 .
+" La télévision d' état libyenne a annoncé la mort de militaires et de civils , sans en préciser le nombre " , a -t -il ajouté .
+Un Kadhafi " extrêmement agressif " <TIMEX3 tid="t4" type="DATE" value="2011-07-16">Samedi</TIMEX3> , dans une manifestation regroupant des milliers de ses partisans sur la grand-place de Zawiyah , Mouammar Kadhafi s' est à nouveau adressé au peuple et a encore attaqué l' Otan , l'"agresseur colonialiste croisé " .
+" Ils me demandent de quitter la Libye , c' est drôle .
+Je ne quitterai pas la terre de mes ancêtres " , a -t -il encore dit , visiblement sans la moindre intention de déposer les armes .
+Dans les haut-parleurs , la voix du Guide suprême était " extrêmement agressive " , selon l' envoyé spécial d' Europe 1 en Libye qui a pu assister à la manifestation .
+" Je ne quitterai pas le peuple qui s' est sacrifié pour moi .
+Je me défendrai jusqu' à la dernière goutte de mon sang " , a déclaré Kadhafi , traqué depuis <TIMEX3 tid="t5" type="DURATION" value="P5M">cinq mois</TIMEX3> par l' Alliance atlantique et une rébellion armée .
+Un <TIMEX3 tid="t6" type="DATE" value="2011-07-10">dimanche</TIMEX3> de combats à Brega Dans l' est du pays , d' intenses combats de rue ont repris <TIMEX3 tid="t7" type="DATE" value="2011-07-10">dimanche</TIMEX3> entre les rebelles libyens et les forces loyales dans un quartier du port pétrolier de Brega .
+" Quelques petits groupes ont réussi à pénétrer à l' intérieur ( de la ville ) , mais nous ne contrôlons pas encore toute " la cité , a déclaré Mohammed Zawi , un porte-parole des troupes rebelles .
+Environ 3.000 soldats loyalistes contrôlent depuis <TIMEX3 tid="t9" type="DATE" value="2011-04">avril ce</TIMEX3> port situé à 800 km à l' est de Tripoli et à 240 km au sud-ouest de Benghazi , la " capitale " de la rébellion .
+</TimeML>
+

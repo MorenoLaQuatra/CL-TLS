@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+<TIMEX3 tid="t2" type="DATE" value="2012-03-15">Aujourd'hui</TIMEX3> , 15 mars , marque le premier anniversaire du début du soulèvement en Syrie .
+<TIMEX3 tid="t5" type="DURATION" value="P1Y">Un an</TIMEX3> après les premières manifestations dans la capitale Damas et dans la ville de Daraa [ en français ] , la lutte de l' opposition syrienne contre le régime Assad continue , dans l' ambivalence de la communauté internationale face à ce conflit .
+Sur Twitter , les Syriens en révolte et leurs alliés utilisent les hahstags # Syria et # March15 pour commémorer <TIMEX3 tid="t6" type="DATE" value="2012-03-15">ce jour</TIMEX3> , la mémoire de leurs martyrs et résumer leur ressenti sur l' année qui vient de s' écouler .
+@SYRIAslyJana : <TIMEX3 tid="t8" type="DATE" value="2012-03-15">aujourd'hui</TIMEX3> est # March15 en # Syria … <TIMEX3 tid="t7" type="DATE" value="2011">il y a 1 an</TIMEX3> , la lutte pour une #
+Syria digne et libre a commencé , les promesses que nous avons faites tiennent toujours .
+@AmalHanano : #
+March15 , le jour où nous avons finalement su ce que cela signifiait d' être Syrien .
+L' an prochain , tu seras une fête nationale : l' Aïd Thawrat al
+- Karameh .
+#
+Syria @JudieHOMS
+: # Mar15 et nous luttons toujours pour nos droits humains essentiels en tant que Syriens à l' intérieur de la # syria .
+Puissent nos 10 000 martyrs reposer en paix .
+@RaghdaSalama :
+<TIMEX3 tid="t14" type="DATE" value="2010">Il y a un an</TIMEX3> , les Syriens ont commencé à paver la route vers la liberté .
+10 000 vies ont été perdues .
+Et nous sommes tous en train de regarder .
+#
+Syria
+@Maysaloon : Je me souviens de la première manifestation contre le régime où je me suis rendue à Londres .
+Je ne me suis jamais sentie plus vivante et plus heureuse de ma vie .
+@DarthNader : Ce qui a commencé dans l' espoir est devenu sombre réalisme tandis que de plus en plus de gens sont découvert les extrémités auxquelles le régime était prêt pour écraser la dissidence .
+# Mar15 @abuhatem : <TIMEX3 tid="t20" type="DATE" value="2009">Il y a un an</TIMEX3> , j' étais très optimiste pour la Syrie , <TIMEX3 tid="t22" type="DURATION" value="P1Y">un an</TIMEX3> plus tard , j' ai des sentiments mitigés et je suis conscient des difficultés énormes , mais je soutiens toujours la rev[olution ] @RazanSpeaksI
+Je n' arrive même pas à me forcer à dire quelque chose de " poétique " , parce que la réalité est bien éloignée de ça .
+#
+Syria
+</TimeML>
+

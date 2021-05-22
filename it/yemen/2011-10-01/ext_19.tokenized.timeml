@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+La revolución árabe se estrella en Yemen El presidente Saleh se aferra al poder mientras apoya a Washington contra Al Qaeda .
+Los jóvenes temen una guerra civil tras <TIMEX3 tid="t1" type="DURATION" value="P8M">ocho meses</TIMEX3> de protestas El corazón de Saná , como el de Yemen , está dividido .
+A un lado de la calle Al Zubeiri , el principal eje comercial de la capital , se encuentran los soldados de la Guardia Republicana , a las órdenes del hijo del presidente .
+Al otro , los de la Primera División Acorazada , que se pasaron a la revolución junto a su jefe , el general Ali Mohsen .
+Pero las tablas son solo aparentes .
+<TIMEX3 tid="t2" type="DURATION" value="P8M">Ocho meses</TIMEX3> después de que se iniciara el movimiento popular contra Ali Abdalá Saleh , el astuto mandatario ha logrado capear el temporal y hay signos de que se está consolidando tanto política como militarmente .
+" No , no es cierto que el presidente esté ganando la partida " , protesta Ayub Abdalá , un estudiante de Comercio de <TIMEX3 tid="t4" type="DURATION" value="P21Y">21 años</TIMEX3> , en el terreno liberado en el que se ha convertido la acampada por el cambio .
+Ayub , que duerme en su casa pero viene <TIMEX3 tid="t7" type="SET" value="P1D" quant="EVERY">todos los días</TIMEX3> , se muestra convencido de que más <TIMEX3 tid="t6" type="DATE" value="FUTURE_REF">pronto</TIMEX3> o más tarde " la revolución " , como los yemeníes llaman a la protesta popular , " va a conseguir su objetivo " .
+Igual que él , varios miles de entusiastas mantienen viva a diario la llama del descontento , que los <TIMEX3 tid="t8" type="DATE" value="2011-09-30">viernes</TIMEX3> moviliza a centenares de miles .
+Y sin embargo , <TIMEX3 tid="t10" type="DURATION" value="P2W">las dos últimas semanas</TIMEX3> han sido descorazonadoras .
+El intento de los activistas de extender su protesta más allá del puñado de calles que ocupan en los aledaños de la Universidad de Saná , al oeste de la ciudad , se topó con una brutal respuesta de las tropas leales al régimen ( muy superiores en potencia de fuego ) y dejó 83 muertos .
+Durante los días siguientes , esa cifra se duplicó .
+Cuando parecía a punto de estallar una guerra civil , el repentino regreso de Saleh desde Arabia Saudí cambió la ecuación .
+El presidente , que permanecía en el país vecino desde el atentado que casi le cuesta la vida <TIMEX3 tid="t13" type="DATE" value="2011-06-03">el 3 de junio</TIMEX3> , rompió un pacto no escrito con los mediadores internacionales .
+EE UU , la UE y el Consejo de Cooperación del Golfo ( CCG ) esperaban que su estancia en Riad facilitara una transición pacífica del poder según un plan preparado antes del ataque , que él mismo aceptó y luego se negó a firmar .
+Incluso <TIMEX3 tid="t14" type="DATE" value="PRESENT_REF">ahora</TIMEX3> asegura que está de acuerdo con el proyecto y que quiere irse , pero a renglón seguido añade condiciones imposibles .
+La última , que se retiren de la calle las fuerzas de sus dos principales rivales políticos y personales , las tropas del general Ali Mohsen y la milicia del jeque tribal Hamid al Ahmar .
+" El presidente no está ganando la partida " , protesta un estudiante en Saná " Son tácticas dilatorias .
+No se quiere ir " , concluye un embajador europeo que en <TIMEX3 tid="t15" type="DATE" value="2011-04">abril</TIMEX3> puso todas sus esperanzas en la hoja de ruta apadrinada por el CCG .
+" Es hora de alcanzar una solución " , aseguraba por su parte el enviado especial de la ONU , Jamal Benomar , <TIMEX3 tid="t16" type="DATE" value="2011-09-30">el viernes</TIMEX3> por <TIMEX3 tid="t17" type="TIME" value="2011-09-30TNI">la noche</TIMEX3> , horas antes de abandonar Saná con las manos vacías .
+Tanto Benomar como los diplomáticos extranjeros temen que el encastillamiento de Saleh precipite la temida guerra civil .
+Sin embargo , el presidente se mueve como pez en el agua en situaciones de crisis .
+Por un lado , trata de convencer a EE UU de que es imprescindible en la lucha contra Al Qaeda y que sin él , Yemen se sumirá en el caos .
+" No parece una casualidad que hayan matado <TIMEX3 tid="t18" type="DATE" value="PRESENT_REF">ahora</TIMEX3> a el Aulaki " , apunta un activista , convencido de que el mandatario trata de anotarse puntos ante Washington .
+Por otro , Saleh intenta explotar las divisiones de la oposición , un conjunto de grupos variopintos , con intereses opuestos , y que solo comparten el deseo de desbancarle del poder .
+De hecho , tanto entre los opositores como entre los miembros del régimen hay partidarios y contrarios al plan para una transición pacífica .
+Mientras que el vicepresidente , el ministro de Exteriores y uno de los principales asesores de Saleh son favorables a que firme y se retire de la vida política , el general Ali Mohsen y el jeque Hamid no tienen demasiado interés en un acuerdo del que no sacan beneficio .
+Para algunos activistas , esos dirigentes , que representan los poderes tradicionales del Ejército y la tribu , han secuestrado su protesta .
+" Están retrasando el triunfo de la revolución " , lamenta Rana Jarhum sin perder la esperanza .
+Ante la fuerza de las armas , pesa poco el apoyo de los desprestigiados partidos políticos a la solución dialogada que también prefieren los jóvenes .
+" <TIMEX3 tid="t19" type="DATE" value="2011-10-01">El día</TIMEX3> de los 83 muertos , los soldados de Ali Mohsen dieron un pretexto a las fuerzas de Saleh para atacarnos .
+Al final , perdimos el terreno conquistado y pagamos por sus errores " , se queja Mohamed al Usta .
+" No es casualidad que hayan matado <TIMEX3 tid="t20" type="DATE" value="PRESENT_REF">ahora</TIMEX3> a El Aulaki " , alega un activista " Si no fuera por Ali Mohsen , no estaríamos aquí " , le recuerda Mohamed Shoufan , en referencia a la protección que el general disidente ofrece a los manifestantes .
+En lo que todos están de acuerdo es que no quieren a otro rojo en el poder , en referencia al significado en árabe de Ahmar , el nombre de la tribu a la que pertenecen tanto el presidente como el general Ali Mohsen y el jeque Hamid .
+Por <TIMEX3 tid="t22" type="DATE" value="PRESENT_REF">ahora</TIMEX3> , no parece cercano <TIMEX3 tid="t21" type="DATE" value="2011-10-01">el día</TIMEX3> en que vayan a conseguirlo .
+</TimeML>
+

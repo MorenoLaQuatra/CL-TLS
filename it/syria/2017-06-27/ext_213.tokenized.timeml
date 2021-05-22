@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+EE.UU .
+alerta de preparativos para ataque químico en Siria y acusa al régimen El Gobierno de EE.UU .
+alertó <TIMEX3 tid="t1" type="DATE" value="2017-06-27">hoy</TIMEX3> que ha identificado « potenciales preparativos » del régimen del presidente sirio , Bachar Al Asad , para llevar a cabo un nuevo ataque con armas químicas en ese país y sostuvo que , si eso ocurre , el mandatario y sus Fuerzas Armadas « pagarán un alto precio » .
+En un comunicado , el portavoz de la Casa Blanca , Sean Spicer , precisó que las actividades detectadas son « similares » a los preparativos que el régimen sirio realizó antes del ataque químico <TIMEX3 tid="t3" type="DATE" value="2017-04-04">del pasado 4 de abril</TIMEX3> .
+La Casa Blanca no detalla en el comunicado dónde ni cuándo ha detectado esos « potenciales preparativos » del régimen sirio para un nuevo ataque con armas químicas , del que señala que « probablemente conllevaría el asesinato en masa de civiles , incluidos niños inocentes » .
+« Como hemos manifestado previamente , Estados Unidos está en Siria para eliminar al Estado Islámico de Irak y Siria .
+No obstante , si Asad lleva a cabo otro asesinato en masa usando armas químicas , él y sus fuerzas armadas pagarán un alto precio » , indicó Spicer .
+Tras el ataque químico ocurrido en el norte de Siria a <TIMEX3 tid="t6" type="DATE" value="2017-04" mod="START">principios del pasado abril</TIMEX3> , del que Occidente culpa al régimen de Asad , el presidente de EE.UU . , Donald Trump , ordenó un bombardeo unilateral contra una base aérea de la ciudad de Homs controlada por el Gobierno sirio .
+Ese bombardeo supuso el primer ataque directo de Washington al régimen de Damasco en <TIMEX3 tid="t7" type="DURATION" value="P6Y">seis años</TIMEX3> de conflicto y también frustró aparentemente el proceso de deshielo entre Trump y el presidente ruso , Vladímir Putin .
+Trump y Putin prevén tener su primer encuentro bilateral la <TIMEX3 tid="t9" type="DATE" value="FUTURE_REF">próxima</TIMEX3> semana , en el marco de la cumbre de líderes del G20 a la que ambos asistirán en Hamburgo ( Alemania ) .
+EFE
+Russell Westbrook gana el premio MVP de la NBA Santos afirma que desarme de las FARC es la noticia más esperada en <TIMEX3 tid="t11" type="DURATION" value="P50Y">50 años</TIMEX3> D.R. © ® La República EC .
+Todos los derechos reservados .
+</TimeML>
+

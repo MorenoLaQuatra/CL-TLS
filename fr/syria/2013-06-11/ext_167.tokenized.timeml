@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+Syrie .
+Qui veut la division du pays ?
+Deux experts ont disséqué pour le quotidien beyrouthin
+L' Orient
+- Le Jour les enjeux et les conséquences de l' éclatement du régime de Damas et ses retombées sur les pays les plus fragiles du Proche-Orient .
+La menace est là .
+Fictive ou réelle , elle est <TIMEX3 tid="t1" type="DATE" value="PRESENT_REF">désormais</TIMEX3> sur toutes les lèvres .
+Plusieurs dirigeants arabes , turcs et du reste du monde ont mis en garde contre l' éclatement de la Syrie où une guerre civile fait rage depuis <TIMEX3 tid="t2" type="DURATION" value="P2Y" mod="MORE_THAN">plus de deux ans</TIMEX3> .
+Au Liban , le leader druze Walid Joumblatt a <TIMEX3 tid="t3" type="DATE" value="PAST_REF">récemment</TIMEX3> dénoncé la politique du président Bachar
+El
+- Assad qui vise à diviser le pays .
+<TIMEX3 tid="t4" type="DATE" value="PAST_REF">Auparavant</TIMEX3> , le chef du Hezbollah , Hassan Nasrallah , a accusé les Occidentaux de vouloir la partition de la Syrie .
+Pour Fabrice Balanche , maître de conférences à l' université Lyon 2 et membre du groupe de recherches et d' études sur la Méditerranée et le Moyen
+- Orient à la Maison de l' Orient , " la Syrie est <TIMEX3 tid="t5" type="DATE" value="2013-06-11">aujourd'hui</TIMEX3> , de fait , divisée en trois zones : le Nord - Est dominé par les milices kurdes , le Nord globalement tenu par l' opposition arabe , la région côtière et le Sud entre les mains du régime .
+Ces lignes de front ne bougent pratiquement pas depuis <TIMEX3 tid="t6" type="DURATION" value="P1Y">une année</TIMEX3> .
+Les forces de Bachar
+El
+- Assad reprennent quelques territoires comme Qousseir [ dans le nord du pays ] , la rébellion s' empare d' un aéroport militaire supplémentaire dans le Nord , mais dans l' ensemble nous avons une opposition Syrie du Nord contre Syrie du Sud qui s' installe dans le temps .
+" Bien que la partition ne soit pas l' objectif des deux principaux belligérants , elle peut résulter de la défaite de l' un des deux camps sans que l' autre ne puisse totalement le vaincre .
+" Prenons le cas de l' effondrement éventuel du régime de Bachar
+El
+- Assad .
+Le président de la Syrie , sa famille et les hauts responsables peuvent espérer trouver refuge à l' étranger ( Iran , Russie ou Amérique latine ) , mais qu' adviendra - t - il des cadres moyens de son régime et des centaines de milliers d' exécutants , agents des services de renseignements ( moukhabarate ) , soldats , paramilitaires ( chabbiha ) et même les simples fonctionnaires , alaouites ou non , qui participent ou sont accusés de participer à la répression par les oppositions ?
+" se demande ainsi M. Balanche .
+Pour sa part , le politologue libanais et enseignant à l' Université américaine de Paris Ziad Majed propose plusieurs scénarios , en examinant les positions des belligérants , le déroulement des combats , de même que la carte des massacres commis par les chabbiha du régime."D' abord le scénario A qu' Assad essaye de défendre jusqu' au bout : une survie politique et une participation à une transition politique en tant qu' acteur incontournable dans une Syrie qui reste unifiée .
+Ceci consiste à défendre le contrôle de Damas sans lequel ce scénario n' est ni possible ni sensé .
+Or le contrôle de Damas nécessite l' occupation par le feu de ses quartiers Sud et de ses banlieues rebelles , et le contrôle de l' accès direct à la capitale à partir du littoral , bastion du régime .
+Cet accès passant obligatoirement par Homs explique la violence des combats dans cette ville et alentour ( et la participation du Hezbollah aux combats depuis <TIMEX3 tid="t9" type="DATE" value="2012-07">juillet 2012</TIMEX3> ) .
+Il explique également certains massacres visant à vider des villages de cette même région de leurs populations sunnites .
+Pour le reste , l' important pour le régime est de rendre la vie impossible dans les autres régions " libérées " .
+Assad veut également pousser une partie de la population à regretter l' ancienne stabilité."Toujours selon M. Majed , le scénario B , si Damas devient indéfendable ou si elle tombe , consiste à se replier vers le littoral ( élargi ) en " annexant " Homs et une partie du rif de Hama [ deux villes sunnites proches du littoral habité majoritairement par les alaouites ] .
+Assad devra se montrer capable de défendre une enclave ayant une bonne infrastructure et ayant les moyens d' autosuffisance économique .
+Ni partition ni victoire " Ceci suppose néanmoins que les alaouites suivent Assad et le maintiennent comme leader de leur " territoire " , ce qui n' est pas à mon avis évident .
+Une grande partie d' entre eux se battent à ses côtés <TIMEX3 tid="t10" type="DATE" value="2013-06-11">aujourd'hui</TIMEX3> par esprit de " assabiyya " [ communautarisme ] et avec la conviction de garder le pouvoir .
+En revanche , le fait de se battre en retrait pour une enclave qui leur était acquise et de mettre leurs villes et villages directement sous le feu me semble difficile à tenir sur le long terme sans que des tensions internes et des demandes de comptes n' émergent " , explique le politologue libanais .
+Du côté de l' opposition
+– soutenant la lutte armée – , " il me semble qu' il y a un seul scénario : combattre jusqu' à la chute du régime .
+Cela implique la prise de Damas puis la reconquête de Homs avec le refus de toute création d' une ligne de démarcation menant à une possible partition " , affirme M. Majed .
+Il existe en outre un quatrième scénario , de facto , qui n' est ni la partition ni la victoire décisive d' un camp sur l' autre .
+C' est la continuation dans une configuration comme celle que nous vivons <TIMEX3 tid="t11" type="DATE" value="PRESENT_REF">actuellement</TIMEX3> : le régime maintient son contrôle de Damas , prend ce qui reste de Homs , perd une partie de ce qui reste de ses positions dans le Sud , l' Est et le Nord , sans pour autant s' effondrer .
+" Nous pourrions alors aller vers l' installation d' un effroyable statu quo auquel le monde peut s' habituer " , avertit Ziad Majed .
+Parler de partition de la Syrie , c' est aussi parler d' instabilité régionale .
+Ce qui , pour Ziad Majed , diminue encore plus la durabilité d' un scénario pareil .
+Dans ce cas , la Turquie ( pour des raisons confessionnelles mais surtout nationalistes
+– Turcs / Kurdes ) , l' Irak ( déjà en instabilité et en mobilisations et contre-mobilisations confessionnelles et ethniques
+– sunnites / chiites et Arabes / Kurdes ) , le Liban et même la Jordanie peuvent subir les ondes de choc et connaître de fortes turbulences politiques .
+Pour M. Majed , l' Irak et le Liban sont les deux scènes les plus " volatiles " vu leurs démographies confessionnelles , la fragilité de leurs consensus nationaux et leurs terrains fertiles pour les confrontations irano
+- saoudiennes qui pourront s' intensifier .
+Carte
+des communautées syriennes
+Carte
+des communautées syriennes
+– Voir cette carte en plus grand Longtemps le quotidien francophone de Beyrouth , né en 1970 d' une fusion entre L' Orient et Le Jour , a été la parfaite illustration du " Liban de papa " francophone et chrétien que la guerre civile allait tourner en dérision .
+Le départ AUTRICHE .
+Retrait des soldats du plateau du Golan SYRIE .
+" L' armée lance une opération majeure à Alep " ROYAUME
+- UNI .
+Epreuve de force au G8 à propos de la Syrie SYRIE .
+Les Kurdes entrent dans la bataille contre les djihadistes
+View
+the discussion thread .
+Découvrez toutes nos offres d' abonnement à partir de 1 € Créez votre compte pour profiter de l' édition abonnés sur le site et les applications Découvrez tous nos hors-séries , livres , DVD , accessoires , produits ...
+</TimeML>
+

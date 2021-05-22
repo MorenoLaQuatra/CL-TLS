@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+Boutique le Point
+Egypte : les Frères
+musulmans revendiquent la victoire à la présidentielle Les Frères musulmans ont revendiqué <TIMEX3 tid="t2" type="DATE" value="2012-06-11">lundi</TIMEX3> la victoire de leur candidat Mohammad Morsi à l' élection présidentielle en Egypte , annonce aussitôt contestée par son rival Ahmad Chafiq , une ancienne figure du régime de Moubarak renversé en <TIMEX3 tid="t4" type="DATE" value="2011-02">février 2011</TIMEX3> .
+<TIMEX3 tid="t5" type="DATE" value="FUTURE_REF">Le futur</TIMEX3> président , quel qu' il soit , disposera toutefois d' une marge de manoeuvre très réduite face à la junte aux commandes du pays depuis la chute de Moubarak qui s' est attribué de vastes prérogatives peu avant la fermeture des bureaux de vote <TIMEX3 tid="t7" type="TIME" value="2012-06-17TEV">dimanche soir</TIMEX3> .
+" Le docteur Mohammad Morsi est le premier président de la république élu par le peuple " , a affirmé sur son compte Twitter le Parti de la liberté et de la justice ( PLJ ) , bras politique des Frères musulmans , présidé par M. Morsi .
+Sa campagne a ensuite annoncé que M. Morsi avait obtenu 52 % des voix contre 48 % pour M. Chafiq .
+Cette annonce a aussitôt été rejetée par le camp de M. Chafiq , un général à la retraite et ancien Premier ministre de Moubarak considéré comme le candidat de l' armée .
+" Nous la rejetons totalement " a déclaré à la presse un responsable de la campagne de M. Chafiq , Mahmoud Barakeh .
+" Nous sommes étonnés par ce comportement bizarre qui revient à détourner le résultat de l' élection " , a -t -il ajouté .
+Un autre responsable de la campagne Mahmoud Farrag , a affirmé que M. Chafiq avaient recueilli 51,6 % des voix selon des résultats partiels en provenance des bureaux de vote .
+Après l' annonce de sa victoire , M. Morsi a remercié lors d' une allocution dans son QG ceux qui ont voté pour lui et s' est engagé à travailler " main dans la main avec les Egyptiens pour un avenir meilleur , pour la liberté , la démocratie et la paix " .
+Il a aussi promis de " servir tous les Egyptiens " quelles que soient leur obédiences politiques ou religieuses .
+Les résultats officiels doivent être annoncés <TIMEX3 tid="t11" type="DATE" value="2012-06-14">jeudi</TIMEX3> par la Commission électorale .
+Peu après l' allocution de M. Morsi , des centaines de ses supporteurs ont afflué sur l' emblématique place
+Tahrir , épicentre de la contestation qui a chassé M. Moubarak du pouvoir , pour fêter la " victoire " de leur candidat .
+Les nouveaux pouvoirs de l' armée ont été vivement dénoncés par les Frères musulmans et les partis de la mouvance révolutionnaire qui les ont assimilés à un coup d' Etat .
+Le Conseil suprême des forces armées ( CSFA ) a notamment annoncé dans une Déclaration constitutionnelle amendée qu' il exercerait le pouvoir législatif jusqu' à l' élection d' une nouvelle Assemblée du peuple .
+La chambre des députés , dominée par les Frères musulmans , a en effet été dissoute <TIMEX3 tid="t12" type="DATE" value="2012-06-16">samedi</TIMEX3> en application d' un arrêt de la Haute cour constitutionnelle pour un vice juridique dans la loi électorale .
+Le nouveau scrutin ne pourra toutefois pas avoir lieu avant la rédaction d' une nouvelle constitution par une commission ad hoc et son adoption " par voie de référendum " , précise le texte .
+La rédaction de la nouvelle constitution sera confiée à une " commission constitutionnelle représentant tous les segments de la société " et qui disposera de <TIMEX3 tid="t13" type="DURATION" value="P3M">trois mois</TIMEX3> pour terminer ses travaux , ajoute le texte .
+Le CSFA s' accorde en outre un droit de veto sur tout article qu' il estime " contraire aux intérêts suprêmes du pays " .
+La Déclaration stipule aussi que le CSFA du maréchal Hussein Tantaoui " dans sa composition actuelle a pouvoir de décision pour tout ce qui relève des forces armées , la nomination de ses commandants et la prolongation de leur service " .
+Les mesures annoncées par les militaires <TIMEX3 tid="t14" type="DATE" value="2012-06-17">dimanche</TIMEX3> et la dissolution de la Chambre ont éclipsé le scrutin présidentiel qui s' est déroulé <TIMEX3 tid="t15" type="DATE" value="2012-06-16">samedi</TIMEX3> et <TIMEX3 tid="t16" type="DATE" value="2012-06-17">dimanche</TIMEX3> sans accroc majeur .
+Les bureaux de vote ont fermé leurs portes à <TIMEX3 tid="t18" type="TIME" value="2012-06-17T22:00">22h00</TIMEX3> ( <TIMEX3 tid="t17" type="TIME" value="2012-06-17T20:00">20h00 GMT</TIMEX3> ) , soit <TIMEX3 tid="t20" type="DURATION" value="PT2H">deux heures</TIMEX3> plus tard que prévu afin de favoriser la participation .
+Quelque 50 millions d' électeurs étaient appelés à voter .
+Le dépouillement a commencé aussitôt après .
+Ancien commandant en chef de l' armée de l' air , M. Chafiq , <TIMEX3 tid="t24" type="DURATION" value="P70Y">70 ans</TIMEX3> , a fait campagne sur le thème de la stabilité , chère à de nombreux Egyptiens après plus d' <TIMEX3 tid="t23" type="DURATION" value="P1Y">un an</TIMEX3> d' une transition politique chaotique .
+Il est soutenu par de nombreux Coptes ( chrétiens d' Egypte ) , inquiets d' une victoire islamiste .
+M. Morsi , un ingénieur de <TIMEX3 tid="t27" type="DURATION" value="P60Y">60 ans</TIMEX3> , a de son côté cherché à gommer son image d' islamiste conservateur pour se présenter comme le seul recours des partisans de la " révolution " contre un retour de l' ancien régime .
+M. Moubarak , <TIMEX3 tid="t33" type="DURATION" value="P84Y">84 ans</TIMEX3> , est détenu dans une aile médicalisée de la prison de Tora , au sud du Caire , après sa condamnation <TIMEX3 tid="t29" type="DATE" value="2012-06-02">le 2 juin</TIMEX3> à la perpétuité pour son rôle dans la répression de la révolte de <TIMEX3 tid="t28" type="DATE" value="2011">2011</TIMEX3> .
+Agrandir le texte
+Réduire le texte
+Ajouter aux favoris
+Envoyer par email
+Consultez les articles de la rubrique International , suivez les informations en temps réel et accédez à nos analyses de l' actualité .
+Trump , <TIMEX3 tid="t34" type="DURATION" value="P4Y">quatre ans</TIMEX3> de plus ?
+Le Monde en 2030Turquie : jusqu' où ira Erdogan ?
+Expérience
+Le Point Nous sommes OJD
+Les forums du Point
+Plan du site
+Charte de modération
+Politique de protection
+des données à caractère personnel
+* Champs obligatoires Avec un compte LePoint.fr : Créez un compte afin d' accéder à la version numérique du magazine et à l' intégralité des contenus du Point inclus dans votre offre .
+Pour ce faire , renseignez votre numéro d' abonné dans les paramètres de création de compte .
+Vous avez un compte Facebook ?
+Connectez
+- vous plus rapidement Vous avez un compte Facebook ?
+Créez
+votre compte plus rapidement
+Veuillez saisir l' adresse mail qui a servi à créer votre compte LePoint.fr Merci d' avoir partagé cet article avec vos amis Merci de compléter ce formulaire Cet article a été ajouté dans vos favoris .
+</TimeML>
+

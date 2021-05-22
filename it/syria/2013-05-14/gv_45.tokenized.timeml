@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+<TIMEX3 tid="t1" type="DURATION" value="P2Y" mod="MORE_THAN">Más de dos años</TIMEX3> después del inicio del alzamiento en Siria , mientras sigue la lucha , una nueva Siria franca y creativa surgió después de décadas de silencio y aislamiento .
+Desde huelgas hasta sentadas , desde canciones creativas y pancartas a un sinnúmero de manifestaciones ciudadanas , la resistencia <TIMEX3 tid="t3" type="SET" value="P1D">diaria</TIMEX3> contra la tiranía sigue , en su gran mayoría ignorada por los medios de comunicación masivos .
+Hace <TIMEX3 tid="t4" type="DURATION" value="PXM" mod="APPROX">unos pocos meses</TIMEX3> que estoy trabajando con un grupo de periodistas sirios , escritores , programadores y diseñadores radicados dentro y fuera de Siria en un proyecto de medios de comunicación digital centrado en contar la historia de la revuelta en Siria .
+Estamos listos para lanzar el " Syria Untold " ( Siria no Contada ) .
+<TIMEX3 tid="t6" type="DATE" value="2013-05-14">El 14 de Mayo</TIMEX3> es nuestro gran día .
+Nuestro proyecto combina un conjunto de contenidos de los medios sociales y la información reunida y compartida por activistas de base con contenidos originales creados por nuestro equipo .
+Tenemos dos versiones , en inglés y árabe .
+Nos centraremos en la historia de la revuelta a través de campañas de base , de la desobediencia civil , arte y creatividad .
+Historias que en general no son divulgadas por los medios de comunicación masivos .
+La historia de la resistencia <TIMEX3 tid="t7" type="SET" value="P1D">diaria</TIMEX3> que continúa a pesar de la militarización creciente del país y de los intentos del régimen de silenciar toda forma de expresión ciudadana .
+Queremos destacar esas historias y ayudar a otros a entenderlas dentro del contexto .
+Syria Untold se ha asociado con Global Voices Online .
+Las publicaciones de Syria Untold serán editadas por los editores de Global Voices y traducidas por los traductores voluntarios , como parte del interés de GV en destacar las voces ciudadanas y las iniciativas de base .
+Necesitamos de la ayuda de todos para hacerlo realidad , ¡ así que esten atentos para # syriauntold !
+Sobre Syria Untold : Syria Untold es un proyecto independiente de los medios de comunicación digital , que examina la lucha en Siria y las diversas formas de resistencia .
+Somos un equipo de escritores sirios , periodistas , programadores y diseñadores radicados dentro y fuera del país , intentando recalcar la narrativa de la revolución siria , que los hombres y mujeres sirios están escribiendo día tras día .
+A través de las campañas de base , de las formas emergentes de auto gestión y auto gobierno y un sinfín de manifestaciones de creatividad ciudadana , una nueva Siria , sin pelos en la lengua emergió , después de décadas de represión y paralización .
+Con los medios de comunicación masivos centrandose cada vez más en los aspectos militares y geoestratégicos y menos en la dinámica interna se viene desarrollando en el país , creemos que hay muchos aspectos de la lucha en Siria que se quedan descubiertos , muchas historias que no nos gustaría ver olvidadas .
+Bienvenidos a las historias de resistencia <TIMEX3 tid="t8" type="SET" value="P1D">diaria</TIMEX3> y creatividad .
+Bienvenidos a " Syria Untold " .
+</TimeML>
+

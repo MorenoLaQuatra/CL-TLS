@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+El chico que se quemó e incendió el mundo árabe <TIMEX3 tid="t1" type="DATE" value="2010">Hace un año</TIMEX3> , un joven desconocido de Sidi Bouzid , un pueblo olvidado del interior de Túnez , no pudo más .
+Su nombre era Mohamed Bouazizi , un diplomado en informática en paro que se ganaba la vida gracias a su puesto ambulante de frutas y verduras con el que sostenía a su madre y a sus tres hermanas .
+Sin embargo , la policía le requisó el puesto porque no pagaba licencia ( o , más propiamente , la pequeña mordida que exigían los agentes ) .
+Cuando , ingenuamente , fue a reclamar a las autoridades , fue humillado y abofeteado por una inspectora municipal .
+Y fue entonces cuando decidió rociarse con gasolina y quemarse a lo bonzo delante del ayuntamiento .
+Su gesto de rabia e impotencia ante <TIMEX3 tid="t3" type="DATE" value="FUTURE_REF">un futuro</TIMEX3> sin perspectivas provocó una ola de simpatía entre sus vecinos , que se manifestaron en solidaridad con él y para denunciar a las autoridades .
+Pero la manifestación fue reprimida por la policía , y como reacción a esa violencia , las protestas se extendieron , también con violencia , como un reguero de pólvora , por varias localidades vecinas , y llegaron hasta la capital , Túnez .
+Fue el inicio de la " revolución de los jazmines " que acabó <TIMEX3 tid="t5" type="DATE" value="2011-01-14">el 14 de enero</TIMEX3> , con la huida del dictador Ben Alí .
+Y el inicio de las llamadas " primaveras árabes " que hemos observado atónitos estos <TIMEX3 tid="t7" type="DURATION" value="PXM">últimos meses</TIMEX3> .
+La familia de Bouazizi Nosotros visitamos la casa donde vivía Bouazizi y su familia a <TIMEX3 tid="t8" type="DATE" value="2011-01" mod="END">finales de enero</TIMEX3> .
+Era una vivienda muy humilde , situada en un barrio también humilde de Sidi Bouzid .
+Recuerdo todavía el frío polar que hacía en la casa , calentada solo por un pequeño brasero .
+Entrevistamos entonces a su madre y a sus tres hermanas , que nos hablaron del carácter humilde de Mohamed , de cómo había asumido el papel de cabeza de familia tras la muerte de su padre , y de cómo su obsesión era que las tres hermanas pudieran estudiar .
+De ahí que , cuando le quitaron su puesto de frutas y verduras , se sintiera tan desesperado , y que al pegarle una mujer ( en un pequeño pueblo de un país musulmán ) se sintiera tan humillado .
+<TIMEX3 tid="t9" type="DURATION" value="P1Y">Un año</TIMEX3> después de que Mohamed Bouazizi se quemara a lo bonzo ha habido varios homenajes en Sidi Bouzid a su figura .
+Le han dado el Premio Sajarov del Parlamento Europeo a título póstumo , y para siempre será un símbolo de las Primaveras Árabes , un símbolo de la lucha por la democracia y de la aspiración de los pueblos a la libertad .
+Túnez después de su muerte En Túnez , por primera vez en la Historia , han elegido una Asamblea Constituyente y un nuevo gobierno en unas elecciones libres y democráticas .
+Y en otros países árabes ya no están dictadores como Mubarak ( Egipto ) , Gadafi ( Libia ) o Saleh ( Yemen ) .
+La llama que él prendió sigue extendiéndose en muchos países del mundo árabe .
+La familia de Bouazizi ya no vive en Sidi Bouzid .
+Su madre y sus tres hermanas se han trasladado a otra vivienda , algo mejor ( pero sin pasarse ) , cerca de la capital , Túnez .
+La razón , nos dijeron cuando fuimos a verlas en <TIMEX3 tid="t10" type="DATE" value="2011-10">octubre</TIMEX3> , antes de las elecciones , fue el cansancio por las repetidas visitas de la prensa y de autoridades varias ( entre ellas el secretario general de la ONU , Ban Ki Moon ) , y el hecho de que todas esas visitas habían empezado a levantar las suspicacias de algunos vecinos , que pensaban que la familia estaba haciéndose rica con su fama .
+Su madre lo negó rotundamente , aunque nos reconoció que alguien de Al Yazira les había dado algo de dinero .
+Casi con toda seguridad , a Bouazizi nunca se le pasó por la cabeza que su gesto desesperado acabaría provocando lo que ha provocado .
+Y mucho menos que con ese gesto terminaría convirtiéndose en parte de la historia de su país y del mundo árabe .
+Me gusta pensar que él estaría alucinando al ver cómo las autoridades del país <TIMEX3 tid="t11" type="DATE" value="2011-12-17">hoy</TIMEX3> le rinden homenajes y que su nombre está impreso hasta en una calle de París .
+Él solo quería poder seguir vendiendo sus frutas y verduras en el mercado , que le dejaran en paz y que sus hermanas pudieran seguir estudiando .
+En fin , me gusta pensar que , a veces , la Historia con mayúsculas también la escribe gente como él .
+Mohamed Bouazizi , el hombre que prendió la mecha en Túnez Los jazmines de 20.000 tunecinos acaban con el saqueo de Ben Alí Los ganadores del Premio Sajarov lo dedican a los " mártires " de <TIMEX3 tid="t12" type="DATE" value="2011-SP">la primavera</TIMEX3> árabe Policías se unen a civiles en las manifestaciones en el centro de Túnez Cientos de manifestantes piden la salida de los ministros del antiguo régimen en Túnez La chispa de Túnez prende ' a lo bonzo ' entre los países árabes
+</TimeML>
+

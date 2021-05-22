@@ -1,0 +1,812 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+Les élections , l' Egypte et la démocratie
+L' argument revient en boucle , à propos de l' Egypte : les élections ne signifient pas la démocratie .
+Cela est tout à fait vrai , et en France nous en savons quelque chose .
+<TIMEX3 tid="t3" type="DATE" value="2005-05-29">Le 29 mai 2005</TIMEX3> , par une majorité de près de 55 % des voix , le peuple français a rejeté le traité instaurant une Constitution pour l' Europe .
+Malgré ce choix clair , le traité a finalement été imposé .
+En <TIMEX3 tid="t12" type="DATE" value="2012-05">mai 2012</TIMEX3> , à la suite d' une longue campagne présidentielle , le peuple français a élu François Hollande à la fonction suprême ;
+résultat , sa politique est à l' exact opposé de ses promesses et de son programme .
+Ainsi donc , les élections ne signifient pas la démocratie .
+Mais peut - on imaginer une démocratie sans élections , une démocratie qui piétine les élections ?
+On invoque souvent le fait , pour l' Egypte , que le peuple se serait exprimé dans la rue et que le président Mohammed Morsi aurait perdu sa légitimité .
+J' ai déjà abordé la crise égyptienne et je reviendrai plus longuement , notamment dans Le Monde diplomatique du mois d' <TIMEX3 tid="t13" type="DATE" value="2013-08">août</TIMEX3> , sur ses différentes facettes .
+Les responsabilités de Morsi sont écrasantes dans la crise actuelle .
+Mais l' argument de la perte de légitimité est dangereux , comme celui qui invoque les risques pour la stabilité du pays .
+Rappelons qu' il y a <TIMEX3 tid="t14" type="DATE" value="FUTURE_REF">bientôt</TIMEX3> <TIMEX3 tid="t15" type="DURATION" value="P40Y">quarante ans</TIMEX3> , l' armée chilienne renversait le président Salvador Allende , avec les mêmes arguments , et qu' elle disposait alors d' un vaste soutien dans une partie de la population .
+La question qui se pose est : qui décide ?
+Et , à chaque fois , la réponse est : l' armée ( à moins que le mouvement populaire soit assez puissant pour la balayer ) .
+Parfois , l' armée a pu jouer un rôle positif .
+Ce fut le cas lors du soulèvement des colonels contre le régime dictatorial au Portugal , la fameuses Révolution des œillets ( <TIMEX3 tid="t17" type="DATE" value="1974-04-25">25 avril 1974</TIMEX3> ) .
+Mais , dans la grande majorité des cas , les militaires arrivés au pouvoir ont imposé des régimes dictatoriaux .
+Le cas algérien est intéressant , dans la mesure où le refus du résultat des élections législatives en <TIMEX3 tid="t24" type="DATE" value="1991-12">décembre 1991</TIMEX3> n' a pas seulement conduit à la mise à l' écart des islamistes et à une sanglante guerre civile ;
+<TIMEX3 tid="t25" type="DURATION" value="P20Y" mod="MORE_THAN">plus de vingt ans</TIMEX3> après , survit un régime dont le rapport avec la démocratie et les libertés individuelles est aussi ténu qu' un fil de soie .
+Un autre exemple pertinent est celui des élections palestiniennes de <TIMEX3 tid="t28" type="DATE" value="2006-01">janvier 2006</TIMEX3> .
+Pour la première fois depuis des dizaines d' années , une élection relativement libre — elle ne peut l' être totalement sous occupation
+— avait lieu .
+Conséquence des pressions américaines et européennes sur l' Autorité , elle était supervisée de près par des centaines d' observateurs étrangers .
+Résultat : les Palestiniens envoyaient à l' Assemblée une majorité de députés du Hamas .
+Tous ceux qui s' étaient faits les apôtres de la démocratie expliquèrent alors doctement que les Palestiniens avaient mal voté , et qu' on allait donc les punir .
+Ce refus a débouché sur une guerre civile interpalestinienne et sur la coupure entre Gaza et la Cisjordanie .
+Finalement , la démocratie n' a avancé ni à Gaza ni en Cisjordanie .
+Mettre à bas les règles constitutionnelles , quelles que soient les raisons avancées , est toujours périlleux .
+Comme l' expliquait un professeur de droit allemand à ses étudiants dans <TIMEX3 tid="t31" type="DATE" value="193">les années 1930</TIMEX3> : «
+Je n' ai pas mis au rancart les moralistes imbéciles pour permettre à des Machiavel imbéciles de se pavaner .
+J' ai appris à votre génération à découvrir dans le droit l' origine malpropre de la puissance qui l' a institué , mais je vous ai aussi montré que la puissance s' en va au diable quand elle détruit le droit qui l' a fondé » ( 1 ) .
+( 1 ) Dans le roman de Manès Sperber , Et le buisson devint cendre , Odile Jacob , Paris , <TIMEX3 tid="t32" type="DATE" value="1990">1990</TIMEX3> , p. 199 .
+Partager cet article / Essayer de faire passer une autre information , offrir une autre manière de voir le Proche-Orient et ses conflits .
+Tous les points de vue et commentaires sont bienvenus , à condition qu' ils s' appuient sur des faits et qu' ils restent dans le registre de la discussion rationnelle .
+Alain Gresh est journaliste au Monde diplomatique , spécialiste du Proche-Orient .
+Pourquoi ce blog
+Lire l' article de présentation du blog Nouvelles d' Orient .
+Historiquement modérés a posteriori , les commentaires sous les billets de blog seront <TIMEX3 tid="t33" type="DATE" value="PRESENT_REF">désormais</TIMEX3> modérés a priori — un délai pourra donc s' écouler entre leur rédaction et leur publication .
+Pour toute question , écrire à site@monde-diplomatique.fr avec « Forum » en objet .
+Pour créer des paragraphes , laissez simplement des lignes vides .
+Veuillez laisser ce champ vide : Egypte : le coup d' Etat militaro - Etats - unien a réussi .
+Article mis à jour le 06 et <TIMEX3 tid="t35" type="DATE" value="2013-07-07">le 7 juillet 2013</TIMEX3>
+C' est fait !
+Le coup d' état militaro - Etats - unien vient de réussir en Egypte .
+L' armée a démis Mohammed Morsi de la présidence et lui interdit de sortir du pays .
+Systématiquement diabolisé depuis les tous premiers jours de son arrivée au pouvoir après des élections transparentes , Mohammed Morsi a fini par être éjecté après que " l' opposition " , pourtant battue aux élections en <TIMEX3 tid="t42" type="DATE" value="2012">2012</TIMEX3> , ait réussi à faire descendre des millions d' Egyptiens dans les rues .
+Morsi est accusé ( de façon ridicule mais très efficacement puisque les accusations seront médiatiquement relayées et largement amplifiées ) tour-à-tour de n' avoir pu régler , après <TIMEX3 tid="t43" type="DURATION" value="P1Y">un an</TIMEX3> d' exercice du pouvoir , les problèmes des Egyptiens , de s' accaparer de tous les pouvoirs et d' avoir fait pire sur le plan des libertés que Moubarak et tous les régimes précédents .
+Mais c' est de la Tanzanie que viendra le coup de grâce ....
+Plus intéressant encore à savoir , le général Abdul Fatah Al
+- Sissi , chef d' état
+- major de l' armée égyptienne , auteur direct du coup d' état a été en contact direct durant tout le processus de renversement du gouvernement avec Chuck Hagel , secrétaire à la défense des Etats-Unis d' Amérique ....
+Christian Mallard , chef du service étranger de la télévision publique France 3 l' affirmait <TIMEX3 tid="t46" type="DATE" value="2013-07-07">hier</TIMEX3> <TIMEX3 tid="t44" type="DATE" value="2013-07-05">le 05 juillet</TIMEX3> sur France 24 : "
+Al
+- Sissi fut en contact permanent avec Chuck Hagel " .
+Le journal Le Monde ( favorable , il faut le préciser , au coup d' état contre Morsi ) , tout en prenant soin de masquer le rôle des Etats-Unis qu' il met plutôt comme soutien aux côtés du pouvoir , nous apprend <TIMEX3 tid="t55" type="TIME" value="2013-07-08TMO">ce matin</TIMEX3> <TIMEX3 tid="t49" type="DATE" value="2013-07-07">7 juillet</TIMEX3> tout de même " des sources concordantes provenant des Frères musulmans , de l' armée et des renseignements , ont affirmé à l' agence de presse AP que la destitution du président égyptien avait été décidée par les militaires dès <TIMEX3 tid="t48" type="DATE" value="2013-06-23">le 23 juin</TIMEX3> , <TIMEX3 tid="t56" type="DURATION" value="P1W">une semaine</TIMEX3> avant la manifestation du <TIMEX3 tid="t51" type="DATE" value="2013-06-30">30 juin</TIMEX3> , qui a poussé des dizaines de millions d' Egyptiens dans la rue .
+" Claire Talon , auteure de l' article dans le Monde ajoute " à l' appui de l' hypothèse d' un coup préparé , des détails troublants ont accompagné la destitution du président .
+L' armée aurait fait filmer par ses avions les images des manifestations du <TIMEX3 tid="t57" type="DATE" value="2013-06-30">30 juin</TIMEX3> avant de les diffuser aux agences de presse .
+Les coupures d' électricité et les pénuries de gaz et d' essence ont mystérieusement cessé dès la destitution de M. Morsi , alors que ce problème avait miné sa légitimité depuis des mois .
+" ( L' article complet du Monde ici http://www.lemonde.fr/afrique/article/<TIMEX3 tid="t59" type="DATE" value="2013">2013</TIMEX3>/07/06/egypte-un-coup-d-etat-prepare-a-l-avance-par-les-militaires_3443524_3212.html ) TEXTE COMPLET
+ICI http://lajuda.blogspot.ch/<TIMEX3 tid="t61" type="DATE" value="2013">2013</TIMEX3>/07/egypte-le-coup-detat-militaro-etats.html
+La fin prématurée des Frères musulmans ?
+Lu sur OCL : " L' article que nous publions a été écrit la veille du coup d' Etat en Égypte de <TIMEX3 tid="t62" type="DATE" value="2013-07-03">ce mercredi 3 juillet</TIMEX3> .
+Malgré ses limites – nos amis de Tunisie ne sont pas d' accord « quand il assure que les revendications sociales ont baissé » dans leur pays – mais aussi , peut - on ajouter , l' absence relative des enjeux internes , sociaux , de classe , de la révolution en cours en Egypte , cet article a le mérite de présenter quelques-uns des éléments qui nous semblent décisifs de relever dans le contexte régional / global de cet échec de l' islamisme politique et aussi des dangers que signifie cette reprise en main de la situation par l' appareil militaire et disons - le tout net : de cette étrange alliance entre une grande partie des révolutionnaires avec cette armée égyptienne , structure politique et économique dirigeante de l' ancien régime dictatorial qu' ils ont pourtant combattu , qui a maintenu ses positions de pouvoir dans la société égyptienne depuis le début du processus révolutionnaire et qui se trouve être complètement liée et dépendante de la politique impérialiste des Etats-Unis dans la région .
+De toute évidence , la révolution continue .
+Lire la suite ici
+La rue égyptienne plus forte que les urnes
+Lu sur Alternative libertaire : " <TIMEX3 tid="t68" type="DURATION" value="P2Y">Deux ans</TIMEX3> et demi après l' éviction d' Hosni Moubarak ,
+la rue égyptienne a de nouveau parlé .
+Mohamed Morsi a été chassé du pouvoir après <TIMEX3 tid="t69" type="DURATION" value="P1Y">un an</TIMEX3> de règne et <TIMEX3 tid="t70" type="DURATION" value="P4D">quatre jours</TIMEX3> de manifestations d' une ampleur inégalée dans l' histoire du pays .
+Les Égyptiens et les Égyptiennes sont venu - e - s rappeler au monde qu' une élection n' est pas un chèque en blanc qui délie les représentants de toute contrainte .
+La démocratie réelle implique un contrôle des mandats par les mandants et cela ne serait rien sans la possibilité de révoquer ceux qui ont trahi leur mandat .
+Aucune constitution n' accorde ce pouvoir aux travailleurs ( en dehors de quelques « référendums révocatoires » à la sauce chaviste ) : les classes dominantes auraient bien trop peur de la spirale démocratique que cela pourrait entraîner à leurs dépens .
+Lire la suite ici
+Ne donnons pas notre pouvoir a des délégués .
+La seule souveraineté à laquelle je peux consentir est celle à laquelle je contribue .
+L' élection n' est pas une contribution citoyenne , c' est une mascarade rocambolesque , et le sera toujours , par construction .
+Changeons nos institutions pour un retour de la démocratie .
+Ne pas oublier que la crise Égyptienne , c' est aussi pour beaucoup cela : ( voir aussi article de Nafeez Ahmed sur le guardian à ce sujet ) .
+Et c' est aussi vrai pour la crise mondiale d' ailleurs :
+Un des principaux contributeur à la prospérité de l' armée égyptienne , les USA , avait salement merdé au début de de l' investiture démocrate en contradiction totale avec le discours du Caire .
+Égypte
+- Clinton rencontre les généraux après avoir encouragé la transition - Le Point ... <TIMEX3 tid="t71" type="DATE" value="2013-07-08">aujourd'hui</TIMEX3> , les Républicains tentent de reprendre la main : Le sénateur McCain appelle à suspendre l' aide militaire à l' Égypte
+- Le Figaro ... c' est à se demander si les USA ne seraient pas plus supportables , gouvernés par leur opposition ... quelle qu' elle soit .
+oui ;
+c est un coup d etat.mais morsi n a plus de legetimite peuplaire ;
+le risque est que lecoup d etat soit contre cette legetimete Les responsabilités de Morsi sont écrasantes dans la crise actuelle .
+Mais l' argument de la perte de légitimité est dangereux , comme celui qui invoque les risques pour la stabilité du pays .... Comme l' écrivait Alain Gresh sur l' autre fil , les erreurs de Morsi sont importantes :
+il a , notamment , essayé de se donner des pouvoirs extraordinaires de façon opportunistes et s' est comporté comme président des Frères et non de l' ensemble des égyptiens .
+Deux questions se posent : • 1- ces erreurs sont elles suffisantes pour que sa légitimité soit remise en cause ?
+• 2- existe t-il une " limite " aux erreurs qu' un président peut faire au delà desquelles sa légitimité peut être remise en cause ?
+Je ne pense pas que l' on puisse répondre qu' il n' y a pas de limite .
+Il existe dans certains états des procèdure de destitution " Constitutionnelle " comme c' est le cas aux USA ( Clinton a failli y goûter et Nixon a démissionné pour l' éviter ) .
+En l' absence d' une telle proccèdure , il aurait été très élégant de la part de Morsi de démissionner , afin d' éviter à l' Égypte le bain de sang <TIMEX3 tid="t72" type="DATE" value="PRESENT_REF">actuel</TIMEX3> , en raison de ses nombreuses erreurs qu' il reconnaît lui même et l' ampleur de la contestation à son encontre .
+Je répète que dans ces conditions il aurait pu se représenter pour retrouver une légitimité pleine et entière .
+Il ne l' a pas fait , c' est son droit est aussi sa dernière en tant que président .
+Ce ne sont pas des colonels qui sont à l' origine de la révolution des œillets au Portugal , mais des capitaines !
+Il faut faire un distinguo entre la haute hiérarchie militaire , très souvent corrompue et les cadres intermédiaires , souvent issus du peuple ( quasi-unique mode d' ascension sociale ) .
+Dans le cas de l' Egypte , c' est la haute hiérarchie militaire- atlantiste et corrompue- qui vient de cornaquer ce coup d' Etat .
+Une révolution renverse un pouvoir illégitime .
+Là ou il n ' y a pas de pouvoir , il ne saurait y avoir de révolution .
+Si le pouvoir est à l' armée , la révolution ne peut être que dans l' armée ... tout le reste n' est que rideau de fumée .
+Démocratie et coexistence
+Les Gazaouis , rappelle M. Gresh , ont envoyé jadis des islamistes radicaux au pouvoir .
+M. Gresh semble considérer qu' il fallait se prosterner devant ce choix .
+Mais on doit distinguer deux phénomènes : d' une part la tenue d' élections libres , bravo , et d' autre part une manifestation d' hostilité envers l' étranger dans l' élection d' extrémistes dont certains tueraient bien tous les juifs , tous , tous , tous .
+Les Gazaouis ont donc choisi le conflit , la guerre , l' absence de compromis .
+D' accord , mais alors pourquoi s' étonner que les autres réagissent comme dans un conflit ?
+Titre du Monde daté du <TIMEX3 tid="t73" type="DATE" value="2013-07-09">9 juillet</TIMEX3> : " En Egypte , les Frères
+musulmans refusent toute autocritique .
+" Oui , l' autocritique est difficile , elle n' est pas apparue depuis très longtemps dans les idéologies répandues , mais c' est une attitude qui fait progresser .
+Hélas , le machisme islamique n' est pas prêt à être autrement qu' il n' est : c' est son côté gamin .
+Pour comprendre , se poser la question : Pourquoi ?
+•
+Pourquoi les militaires ont ils repris le pouvoir ?
+Apparemment , pour prévenir une guerre civile due à la famine .
+A noter le fait que Morsi , lui aussi , était en train de mettre en place un système dictatorial quand il a été éjecté .
+A noter également le fait que ce coup d' état risque d' entraîner un conflit à l' algérienne .
+•
+Pourquoi Morsi a -t -il échoué ?
+Au motif évident que les réformes qu' il a mises en place étaient hors sujet , ou contre productives .
+Exemple :
+Nommer un tueur de touristes à la direction du tourisme à Louxor ( ! ) .
+Pendant ce temps , la situation économique du pays continuait de se dégrader , tandis que Morsi poursuivait la politique de Moubarak , le tourisme en moins , et les investisseurs en moins ( à part les qataris ) .
+On est aussi en droit de se poser une autre question : Que vont faire les militaires ?
+La réponse est hélas évidente :
+Incarcérer les islamistes ( les deux tiers de la population ... ) et les délégués syndicaux et leurs sympathisants ( le tiers restant ) .
+En résumé , les militaires n' auront d' autre choix que celui de transformer le pays en bagne .
+La perspective de nouvelles élections a été évoquée .
+Les militaires auraient d' ailleurs intérêt à les mettre en oeuvre rapidement si ils veulent éviter le bain de sang façon GIA ...
+Sauf que le peuple aura de nouveau le choix entre le sabre et le goupillon , les copains de Moubarak ou ceux de Morsi .
+Les corrompus ou les dingues ...
+Quant à la légitimité des uns ou des autres , on s' en fout un peu , puisque la population ne sait pas ce qu' elle veut ...
+Si !
+Manger .
+C' est mal barré .
+PS .
+Je ne saurais trop conseiller aux intervenants ( tes ) égyptiens ( nnes ) de ce blog d' éviter de poster tant que la situation ne se sera pas éclaircie .
+Vous semblez oublier que le gouvernement israélien a tout fait pour propulser le Hamas au pouvoir , et continue d' ailleurs en accélérant la colonisation des territoires tenus par les modérés du Fatah .
+Un peu d' objectivité ne <TIMEX3 tid="t75" type="TIME" value="2013-07-08TNI">nuit</TIMEX3> pas .
+En revanche , d' accord avec vous concernant les FM , et leur psychorigidité caricaturale .
+Force nous est de constater le fait qu' avec les religieux , on n' est jamais déçu ( y compris en Israël ou aux USA ) .
+Ceci dit , les militaires sont très bien aussi .
+A se demander pourquoi ils se pouillent avec les FM .
+je vous l' ai déjà dit , mais je le répète : vous ne connaissez rien au monde arabe , vos commentaires sur les événements en Egypte , en Turquie ou en Tunisie sont risibles pour ne pas dire plus .
+Surtout quand vous évoquez l' exemple algérien avec le GIA(ce groupe a été créé par les services de renseignement algérien pour justifier la répression des éléments modérés des islamistes qui avaient accepté les principes démocratiques ) .
+Au contraire de ce que vous prétendez , l' armée égyptienne a tout intérêt que les choses se dégradent et que des éléments extrêmistes apparaissent pour justifier une répression aveugle et une reprise en main totale de tous les secteurs du pays .
+S' il vous plaît , ayez un peu plus de modestie quant à vos jugements et propos péremptoires et définitifs surtout sur des pays pour lesquels vos connaissances sont plus que lacunaires .
+Quant au sioniste Vitigis ;
+NO comment !
+Je crois qu' il doit être bien le seul à croire à la propagande de l' état d' apartheid israelien Patrice , ce que vous dites est de bonne volonté .
+Toutefois , une petite nuance : Les fréres musulmans ne sont pas des religieux .
+Ce sont des scientifiques , des médecins , des ingénieurs ( Morsi ) , des hommes d' affaires ( Shater ) , etc ...
+Ils puisent dans l' éthique de l' islam un projet social .
+Il y a trés longtemps qu' ils auraient dû être intégré dans le jeu politique .
+Cela aurait évité durcissement et alliances ambivalantes .
+Les gens les connaissent surtout sur le terrain social et aides aux pauvres .
+Enfin , ce qui se passe ressemble à une destructions des nations arabes qui a commencé avec l' Irak , puis la Libye , la Syrie .
+Déstabiliser l' Egypte , le géant de la région , va être une sacré paire de manche , dangereuse pour toute la région .
+C' est totalement irresponsable , voire dément !
+Cordialement et ayez quelques pensées positives pour le pays des pharaons :)
+Ok , je ne connais pas l' Egypte .
+Il se trouve que je ne prise pas trop la chaleur , et encore moins le tourisme , sans parler des plats sans beurre ni crème .
+A -t -on idée de manger ça , bonguieu ?
+Il n' empêche : Tout se déroule comme annoncé ( par moi , le normand borné ) et ce , depuis <TIMEX3 tid="t76" type="DURATION" value="P1Y">un an</TIMEX3> .
+J' avoue même être étonné par la pertinence de mes prévisions , encore mieux qu' Elisabeth Tessier , qui prévoyait une super <TIMEX3 tid="t77" type="DATE" value="2012">année 2012</TIMEX3> à DSK .
+Accessoirement , concernant l' hypothèse complotiste des " GIA " créés par le FLN , autorisez moi au doute .
+Dans tous les pays islamiques apparaissent des groupes salafistes violents dont le succès est généralement proportionnel au nombre d' éléments de tension dans les pays concernés .
+Tenter d' attribuer à ce phénomène une origine américaine , ou occidentale , ou gouvernementale
+- dans - un pays - vendu - à - l' occident est recevable sous réserve d' admettre que le terrain est plus que favorable à ce type de récupération .
+La vérité est que de tels groupes émergent naturellement en cas de tension au sein d' une population fanatisée par la religion .
+En France , par exemple , la crise concourt à faire émerger les groupes catholiques radicaux .
+Mais il se trouve que la France est un pays où la religion est peu représentée , ce qui limite les dégâts .
+Ceci étant posé , la crise favorise aussi l' émergence de tout ce qu' il y a de plus nul chez l' hexagonal , confère le succès grandissant des thèses racistes et xénophobes du FN .
+Enfin , pour en revenir à l' Egypte , il me semble évident que , si des élections ne sont pas programmées rapidement , les radicaux salafistes vont passer à l' action .
+Et la majorité intégriste les suivra dès qu' elle constatera le fait que la pauvreté a encore progressé .
+<TIMEX3 tid="t81" type="DATE" value="2013-07-08">Aujourd'hui</TIMEX3> , l' armée est plébiscitée , comme l' était Morsi <TIMEX3 tid="t80" type="DATE" value="2012-07-08">il y a un an</TIMEX3> .
+Dans <TIMEX3 tid="t83" type="DURATION" value="P3M">trois mois</TIMEX3> , ne voyant toujours pas venir la bouffe , la population va soutenir le courant terroriste qui est en train de naître .
+Rendez vous dans <TIMEX3 tid="t84" type="DURATION" value="P3M">trois mois</TIMEX3> .
+OK patrice : vous aviez raison sur tout .
+il est clair que vous aviez aussi prévu ce cou^p d' état militaire , soutenu par les USA , après avoir accusé Morsi et les FM d' être des agents américains et qataris .
+De toute façon , on ne peut pas aller bien loin avec vous dans les discussions car vous êtes OBSEDE par les religions et l' islam en particulier .
+Toutes vos " analyses " sur le monde musulman ne sont que des clichés orientalistes où L' ISLAM expliquerait absolument TOUT .
+PS : quant au GIA , regardez ce reportage de Canal plus.:youtube.com / watch ?
+v = YPyCj6uREqI Le lien ne passe pas : tapez sur you tube , Algérie 2013 GIA et terroristes attentats de Paris .
+Il est toujours possible que je me trompe , mais vous avez bien compris qu' il existait un risque majeur de dictature aveugle ...
+Aveugle , mais pas sourde .
+Tout ce que nous écrivons est tracé par la CIA , la NSA , etc , c' est à dire les gens qui ont piloté ce coup d' état .
+Aux USA , même un ado débile peut se retrouver en cabane suite à un mail , ou un post Facebook suspect .
+Imaginez donc ce qu' il en est dans une dictature militaire pilotée par les US .
+En Egypte , le pire n' a pas encore commencé .
+La population soutient encore l' armée , censée lui donner à manger .
+Cherchez l' erreur .
+Le propre d' une dictature militaire est précisément : " Il n' y a pas de solution , donc , on flingue tout ce qui bouge" ... A l' aveugle ... Comme dans tous les conflits de ce genre .
+Accessoirement , Morsi était un incapable .
+Comme déjà indiqué , je n' aurais pas fait mieux .
+Seul un génie pourrait sortir l' Egypte de la merde ...
+Comme les présidentes argentine ou islandaise .
+Mais bon ....
+On est loin des capacités cognitives du pauvre Morsi .
+" il est clair que vous aviez aussi prévu ce cou^p d' état militaire , soutenu par les USA , après avoir accusé Morsi et les FM d' être des agents américains et qataris .
+" En effet , les Usa ont donné leur feu vert aux FM , et enjoint à l' armée l' ordre de laisser faire , comme ils ont donné leur feu vert à Ennahda ...
+Dans le même temps , j' ai défendu le fait que l' armée demeurait décisionnaire , et qu' elle ne laisserait pas le pays sombrer dans l' anarchie .
+Ceci dit , je pensais qu' elle dealerait avec Morsi ...
+J' ai quand même suivi votre lien concernant les GIA , et le rôle des services secrets algériens dans les massacres et les attentats .
+Là , je reconnais avoir sous-estimé la manipe .
+( même si j' en avais entendu parler ) .
+Il n' empêche : Les GIA n' étaient pas que des agents du FLN .
+99 % d' entre eux étaient sincèrement débiles .
+Ceci dit , votre lien est assez stupéfiant , et je vous en remercie .
+•
+A propos des Gazaouis , je vous rappelle que la disproportion des forces , entre Israël et le Hamas , est d' au moins 10 000 contre 1 ( compte tenu des 200 bombes nucléaires possédées par Israël ) .
+•
+Compte tenu de ce rapport de forces , vos déclarations sur les Gazaouis qui tueraient " tous " les juifs sont aussi hallucinantes que celles du déplorable Reagan qui , après la victoire des Sandinistes au Nicaragua , déclarait sans rire que les Sandinistes n' étaient qu' à 48 h de route des frontières américaines .
+•
+Par ailleurs , vous présentez les Gazaouis comme si la volonté de tuer les Israéliens ( et non pas les Juifs , comme vous le dites malhonnêtement ) leur était venue un beau <TIMEX3 tid="t91" type="TIME" value="2013-07-08TMO">matin</TIMEX3> , par méchanceté gratuite , jalousie , perversité ou folie subite ... •
+Vous oubliez simplement que si les Gazaouis sont dans cet état d' esprit à l' égard des Israéliens , c' est qu' ils ont été chassés de chez eux <TIMEX3 tid="t93" type="DATE" value="1948">il y a 65 ans</TIMEX3> ( comme les Alsaciens
+- Lorrains le furent par les Allemands en <TIMEX3 tid="t92" type="DATE" value="1871">1871</TIMEX3> ) et qu' ils sont , depuis , soumis à un blocus féroce , illégitime et contraire au droit international .
+•
+Les roquettes du Hamas sur Israël ne sont que de la légitime défense ( au demeurant ridicule par ses effets ) .
+Auriez
+- vous l' idée de condamner une femme qui donne un coup de pied à son violeur ?
+Vos infos sont souvent passionnantes , au point de me faire changer d' avis .
+Donc , encore merci , même si on est rarement d' accord .
+Mais c' est pas grave .
+Le truc , c' est qu' il était coincé politiquement , Morsi , entre les salafistes qui cherchaient à lui piquer sa base électorale , et le reste de l' opposition qui ne cherchait que le pourrissement .
+J' ai vu , en Amérique du Sud , exactement le même genre de stratégie , contre Chavez et Morales .
+En Europe , ils sont désigné comme étant des grands méchants gauchistes extrémistes dictateurs .
+Mais , dans leur pays , l' extrême gauche leur est très fortement hostile , en les accusant d' être à la solde du capitalisme .
+Heureusement , Chavez avait assez de soutien au sein de l' armée , et avait bien conseillé Morales , de comment se mettre l' armée de son côté .
+Et surtout , grâce à Bush fils , les USA avaient les yeux ailleurs , ils n' ont pas mis les ressources suffisantes pour réussir leurs coups d' état .
+Les Kirchner , en Argentine , ont aussi profité de la chose .
+S' ils avaient été attaqué aussi fort que la Cristina l' est <TIMEX3 tid="t96" type="DATE" value="PRESENT_REF">maintenant</TIMEX3> , ils n' auraient pas réussi à tenir .
+La marche a suivre est connue , depuis le coup d' état contre Allende , qui , lui , avait accepté de démissionner une fois , pour être réélu directement .
+Mais , les manifestations ont continué la même chose , jusqu' à ce que l' armée intervienne .
+Oui les élections ne veut dire démocratie , surtout dans les pays sous développer .
+Allez jetez un coup d' oeil au compte twitter de mouvement soit - disant " révolutionnaire " et " démocrate",Tamarod , c' est juste hallucinant !
+Je n' en crois pas mes yeux !
+Tristan , les violences qui ont secoué l' Amérique latine dans <TIMEX3 tid="t97" type="DATE" value="0080">les années 80</TIMEX3> , se passaient dans le contexte de tension est-ouest ( guerre froide ) .
+Noam Chomsky a écrit plusieurs ouvrages sur le sujet .
+Ce qui se passe au moyen- orient et en Afrique ressemble davantage à une recolonisation déguisée , dans un contexte de crise économique , d' endettement massif ( Gréce ) de montée du chômage , de la pauvreté , du populisme en occident .
+Le fait de ne plus faire la guerre entre soit , oblige à " délocaliser " les conflits et les guerres ailleurs .
+Cela permet de vendre des armes , s' accaparer des ressources ( Afghanistan , Irak , Libye , Mali ... ) , et d' envoyer des multinationales pour la reconstruction .
+C' est une lutte apre , avec les mêmes acteurs .
+Bravo a Sarah d' avoir pu faire evoluer Patrice , et a Patrice d' avoir su le faire !
+Au risque de me repeter , si le fait d' avoir nomme comme Gouverneur de Louxor un ancien de la Gamaa Islamiya est une faute impardonnable et incomprehensible , il est faux de le qualifier d' assassin de touristes , et de le presenter comme un des membres du commando de terroristes qui avait execute le massacre de Deir - el - Bahri ( temple d' Hatchepsout ) .
+Si vous voulez creuser sur les massacres attribués aux GIA , vous pouvez aussi regarder le documentaire intitulé : " Bentalha , autopsie d' un massacre " , toujours de Jean
+- Baptiste Rivoire .
+Vous avez raison quand vous dites que 99 % d' entre eux étaient sincèrement débiles ( je dirais plutôt 90 % ou 85 % ceci dit ;
+D ) , il y' avait aussi de vrais groupes terroristes en Algérie , mais ils ont été très vite infiltrés et en menace d' être arrêtés .
+Au niveau médiatique , je voudrais prendre l' exemple de deux livres qui ont été publiés par un ancien officier algérien : • La sale guerre , Habib Souaïdia •
+Le procès de " la sale guerre " , Habib Souaïdia : ce sont les minutes du procès en diffamation intenté par le général Khalel Nezzar à Habib Souaïdia , procès que le général a perdu .
+On notera que le fameux Mohamed Sifaoui , soi-disant réfugié politique , avait témoigné en faveur du général tortionnaire ... Je ne parle même pas de Caroline Fourest qui avait écrit des articles tentant de faire passer Habib Souaïdia pour un menteur ..
+Drôles de connivences médiatiques , et drôles de prises de positions !
+Soutenir comme ça un général qui a par exemple fait tirer sur les manifestants algériens ( beaucoup d' enfants parmi eux ) en <TIMEX3 tid="t104" type="DATE" value="1988">1988</TIMEX3> !
+Et j' en parle parce qu' en ce moment même , à l' émission C dans l' air , sur laquelle j' ai zappée , on parle de l' Egypte , et tous traitent les FM de terroristes et débitent une quantité ahurissante de contre-vérités .
+En matière de terrorisme , les manipulations sont courantes , la première d' entre elle est celle qui consiste , pour des Etats , à parler de " terroristes " alors que les pires terroristes sont souvent les Etats eux-mêmes .
+Merci pour le lien , effectivement c' est ahurissant !
+Je cite juste deux tweets : # tamarrod MB have same racism like the Nazi regime .
+They call to kill anybody wear / eat / believe / think different .
+MB are big danger for Egypt Répondre Retweeter
+Favori Plus تمرد @tamarrod <TIMEX3 tid="t105" type="TIME" value="2013-07-08T08:00">8 h</TIMEX3>
+Mensonge , on ne peut absolument pas qualifier les FM de nazis ( et encore ces comparaisons à l' aune de l' histoire occidentale , c' est curieux ) et les FM ont appelé à manifester pacifiquement !
+# tamarrod
+MB and Salafy leadrs pushed
+Morsi fans
+to carry guns and shoot the army to free Morsi !
+No one of the leaders was with the fans !
+Mensonge encore , vu qu' ils ont appelés à être pacifiques et que les FM ne sont certainement pas alliés aux salafistes qui s' étaient alliés aux opposants de Morsi , dont un bon nombre de felouls !
+Bref , c' est de la véritable propagande !
+J' aimerais vraiment avoir plus de détails sur ce mouvement " tamarod " , je suis sûre qu' on apprendra des choses curieuses au fil du temps !
+Non , l' URSS n' avait jamais revendiqué l' Amérique du Sud , les USA avaient vraiment les coudées franches .
+Cette " tention est-ouest " était aussi réelle que notre fameux " choc des civilisation " : des prétextes .
+Même Fidel , s' était retrouvé dans le bloc de l' est , vraiment par hasard .
+L' Amérique
+du Sud a passé de la colonisation espagnol , à une recolonisation anglo-saxonne , et cela , depuis les indépendances .
+Tous les conflits de l' Amérique
+du Sud étaient aussi des conflits délocalisés , souvent , entre factions anglo-saxons .
+Le maoïsme au Pérou , par exemple , durant <TIMEX3 tid="t106" type="DATE" value="0080">les années 80</TIMEX3> , ce n' était pas l' URSS , et c' était pendant l' alliance des USA avec La Chine .
+Je me demande , aussi , si le conflit en Colombie avec les FARC , ne profite pas , en premier lieu , au USA , pour garder un contrôle direct , sur ce pays très stratégique pour le contrôle du canal .
+De mon point de vue , il s' agissait de conflits purement coloniaux , faire s' affronter entre eux les colonisés , ce qui permet de les montrer comme barbares / sauvages , et présenter les interventions de la métropole , comme altruistes : le devoir de les civiliser .
+Ce que vous dites ne fait que renforcer mes sentiments d' extrêmes similitudes , dans les moyens utilisés et dans les buts recherchés .
+Voici un autre tweet très inquiétant pour <TIMEX3 tid="t110" type="DATE" value="FUTURE_REF">le futur</TIMEX3> de la démocratie en Egypte : Statement !
+# tamarrod calls the president Adly Mansour
+to close
+the MB party and isolate its member from the politic
+Ce mouvement demande la dissolution du parti des Frères musulmans , et leur bannissement de la vie politique égyptienne !
+Je n' en crois toujours pas mes yeux !
+Je n' avais pas d' a priori , ni négatif , ni positif , concernant le mouvement Tamarod , mais je dois dire que je suis très déçue et je crains le pire .
+Voici une autre déclaration ahurissante toujours sur le même compte twitter :
+# tamarrod
+The Moslim Brothers party is exactly like Hitler' s
+Nazi party , it will not kill the jews , but the egyptian nation @ Ines , ça ne vous rappelle rien ?
+C' est exactement le langage des " Eradicateurs " Algériens qui ont soutenu le coup d' état en <TIMEX3 tid="t111" type="DATE" value="1991">1991</TIMEX3> ...
+Tristan : "
+De mon point de vue , il s' agissait de conflits purement coloniaux , faire s' affronter entre eux les colonisés , ce qui permet de les montrer comme barbares / sauvages , et présenter les interventions de la métropole , comme altruistes : le devoir de les civiliser .
+" Tout à fait d' accord !
+J' ajoute qu' aujourd' hui la sphére musulmane est présentée volontairement de façon négative .
+Ceci permet des actions qui seraient répréhensibles aux yeux de l' opinion si elles n' étaient enveloppées d' un vernis pseudo-humanitaire style " droit d' ingérence " et " démocratiser " a remplacé " civilisé " .
+Enfin , il est intéréssant de remarquer que la gauche ne prend pas la défense des opprimés , les musulmans , à cause de leur religion , aggravée par le processus de diabolisation et de généralisation abusive .
+L' argutie utilisée par " Tamarod " à l' aide d' une grille de lecture nazie ne fait pas partie de l' univers linguistique et mental arabe .
+C' est assez surprenant , en effet !
+Il paraît qu' il y a plusieurs comptes twitter au nom de Tamarrod , et on ne sait s' ils reflètent les positions officielles du mouvement .
+Celui dont j' ai donné le lien a quand même plus de 60 000 followers , et un de leurs tweets indique que c' est bien ce compte-là qui est le seul valable , mais on n' en sait pas plus et on n' est sûr de rien .
+Donc informations à prendre avec précaution .
+Alain Gresh semble désespéré , incapable d' observer les superstructures culturelles arabes telles qu' elles existent réellement et en quoi elles sont un facteur de la crise de civilisation que traverse le Monde Arabe .
+Il lui faut à tout prix un Deus Ex Machina étranger .
+Toujours le même baratin épuisant et épuisé : Un autre exemple pertinent est celui des élections palestiniennes de <TIMEX3 tid="t118" type="DATE" value="2006-01">janvier 2006</TIMEX3> .
+Pour la première fois depuis des dizaines d' années , une élection relativement libre — elle ne peut l' être totalement sous occupation
+— avait lieu .
+Conséquence des pressions américaines et européennes sur l' Autorité , elle était supervisée de près par des centaines d' observateurs étrangers .
+Résultat : les Palestiniens envoyaient à l' Assemblée une majorité de députés du Hamas .
+Tous ceux qui s' étaient faits les apôtres de la démocratie expliquèrent alors doctement que les Palestiniens avaient mal voté , et qu' on allait donc les punir .
+Ce refus a débouché sur une guerre civile interpalestinienne et sur la coupure entre Gaza et la Cisjordanie .
+Finalement , la démocratie n' a avancé ni à Gaza ni en Cisjordanie .
+Vous pouvez nous rappeler le programme du Hamas ?
+Pourriez vous encore une fois faire l' éloge de ses réalisations grandiose à Gaza ?
+En tout cas ce ne sont pas les élections qu' ils promettent d' organiser pour ensuite toujours les reporter .
+Tout compte fait , oui , les Palestinien ont bien mal voté .
+Bien sur que tout le monde peut se tromper .
+Surtout la première fois .
+Surtout quand on a un choix aussi déplorable entre milices mafieuses et milices sectaires .
+Surtout quand on croit encore que des gens parlent au nom de Dieu ou que les Juifs ont des cornes .
+Mais , ça n' empêche qu' ils se sont trompé .
+Et leur ignorance n' est pas une circonstance atténuante de ce choix malheureux , c' est la raison même de l' erreur .
+Comme les Egyptiens , si les Palestiniens n' arrivent pas à réaliser un consensus national ni à éviter de s' entretuer pour le pouvoir et finalement tous si mal se gouverner , ce n' est pas à cause un sombre complot américano-sioniste .
+Ils sont pleinement responsables de ce qu' ils se font à eux-mêmes , des gouvernements qu' ils élisent et des erreurs qu' ils commettent , ce sont des êtres humains comme les autres .
+Franchement y' en a plus que marre de cette vision faussement humaniste et hypocritement raciste des Arabes qui consistent à flatter le discours paranoïaque qui les maintient dans l' obscurantisme des imams et la tyrannie des caïds .
+Marre d' entendre les disciples occidentalistes d' Edward Saïd nier le pire d' une réalité arabe dont ils ne souffrent bien sur pas , eux ont été éduqués dans des écoles occidentales , ont un bon passeport , un appartement à Paris ou une maison dans le Vermont .
+Le coup d' Etat égyptien vu de Tunisie Nidaa Tounes en a rêvé , l' Egypte l' a fait Complexes , les récents évènements en Egypte restent pourtant simples à bien des égards .
+S' agissant des deux processus révolutionnaires respectifs en Tunisie et en Egypte , un élément de taille biaise la donne dans ce dernier pays : la révolution du <TIMEX3 tid="t119" type="DATE" value="2014-02-25">25 février</TIMEX3> ne s' est jamais réellement affranchie de ce péché originel qu' est une armée toujours aussi hégémonique .
+Un vieux contentieux jamais vraiment réglé l' oppose inlassablement aux Frères .
+Les tenants du récit officiel de la « révolte populaire
+» du <TIMEX3 tid="t121" type="DATE" value="2013-07-03">3 juillet</TIMEX3> omettent de s' attarder sur le rôle littéralement providentiel de l' armée .
+Coup d' Etat post-moderne , « révolution assistée » , encadrée , ou manipulée ?
+La nature réelle de cet ovni hybride tient en grande partie à la personnalité même du général al Sissi .
+Tel un dramaturge omnipotent assénant un deus ex machina , ce sont ses hélicoptères de guerre qui ont largué à grands renfort d' effets spéciaux de laser verdoyant ces drapeaux « tombés du ciel » sur une foule certes hétéroclite .
+On en verserait presque une larme tant ce méga show fait appel aux ressorts habituels mais encore efficaces du nationalisme le plus convenu .
+Le conte de l' armée se rangeant aux côtés du peuple serait idyllique si ce n' était le long historique des armées en la matière , des bruits de bottes qui ne se sont jamais avérés très democracy - friendly .
+Nous pourrions nuancer en insistant sur le fait que l' armée a mis en place un civil pour assurer l' intérim .
+Mais quand le voile tombe sur l' épilogue , c' est bien Abdelfettah al Sissi qui prend la parole debout , entouré notamment d' hommes de religion assis , pour orchestrer une partition elle aussi bien réglée .
+Pour la révolution sans représentants des cultes , il faudra repasser .
+Et si vous aviez quelques doutes quant au caractère contre-révolutionnaire de l' opération , les arrestations massives conformément au bon vieux principe du délit d' appartenance , sont immédiatement là pour sceller le retour à la case départ , tout comme la censure de chaines religieuses mais aussi d' al Jazeera Direct .
+Suite :
+Le coup d' état égyptien , vu de Tunisie Vers une « révolution bourgeoise » ?
+La personnalité du « centriste intéressé » al Baradei donne aussi à voir quelques similitudes avec l' expérience tunisienne qui là aussi a un train d' avance .
+Après avoir lui aussi accouru pour contribuer au premier gouvernement de transition de Mohamed Ghannouchi , Ahmed Néjib Chebbi défend <TIMEX3 tid="t123" type="DATE" value="2013-07-08">aujourd'hui</TIMEX3> l' <TIMEX3 tid="t124" type="DATE" value="PRESENT_REF">actuel</TIMEX3> projet de Constitution .
+Pour trouver dans l' échiquier politique tunisien ceux qui sont les plus enthousiasmés par le mouvement Tamarrod égyptien , il faut se tourner d' abord vers tout ce qui se trouve à droite de l' ex PDP : Nidaa Tounes et l' ex Afek
+Tounes .
+C' est là un enseignement important sur les orientations idéologiques d' un mouvement qui se dit apolitique .
+L' une des interrogations persistantes autour de « Tamarrod » est en effet celle de savoir si le dénominateur commun de ses partisans c' est être anti islam politique , ou bien plus largement anti révolution elle-même , une révolution coupable d' avoir bénéficié aux Frères .
+Le soutien d' une partie de l' extrême gauche ( Front Populaire ) complique davantage encore la détermination de ce qui fait l' essence de Tamarrod , un mouvement fait à la fois de déçus du scrutin de <TIMEX3 tid="t125" type="DATE" value="2012">2012</TIMEX3> , de nostalgiques , d' opportunistes , mais aussi d' anti islamistes épidermiques tentés de fermer les yeux sur un coup de force immoral au regard de l' éthique démocratique ( recours à l' armée , alliances contre-nature , président Morsi fraîchement élu , etc. ) .
+La suite sur blog algérieinfo - saoudi.com ou sur le le tunisien nawaat.org .
+L' auteur de l' article ci-dessus : Par Seif Soudani , <TIMEX3 tid="t127" type="DATE" value="2013-07-07">7 juillet 2013</TIMEX3> , Nawaat.org Egypte : " Ils tiraient , ils avançaient , ils tiraient , ils avançaient " A la sortie de l' hôpital , une doctoresse interpelle les journalistes étrangers . "
+Et vos collègues égyptiens , où sont - ils ?
+" , demande - t - elle , en référence à l' absence manifeste de reporteurs locaux , dans les couloirs de l' hôpital .
+" Est -ce que cela n' en dit pas long sur ce qui se passe dans ce pays ?
+Est -ce que c' est ça , la fameuse ' relance de la révolution ' dont les manifestants de Tahrir ne cessent de parler " ?
+<TIMEX3 tid="t132" type="TIME" value="2013-07-08TMO">Lundi matin</TIMEX3> , la principale chaîne de l' audiovisuel public égyptien ne parlait pas des morts dans les rangs de manifestants islamistes .
+Elle se contentait d' évoquer le sort de l' officier tué par balle dans les événements de <TIMEX3 tid="t134" type="TIME" value="2013-07-08TNI">la nuit</TIMEX3> et de passer en boucle des images , impossibles à authentifier , attestant d' actes de violence de la part des islamistes .
+On y voyait notamment des officiers de police , extirper des couteaux et quelques balles , de l' intérieur de sacs qui aurait été abandonnés sur le site de la confrontation .
+La télévision égyptienne montrait aussi des images d' adolescents en train de lancer divers objets , notamment des cuvettes de toilettes , depuis le toit d' un immeuble , sur ce que l' on imagine être les forces de sécurité déployées en-dessous .
+" Regardez-moi ces terroristes , il faut les flinguer , s' emportait Ashraf
+Al
+- Khadem , le propriétaire d' une agence de voyage , qui regardait ces images , dans le lobby d' un hôtel .
+Quand on se fait agresser , tirer n' est pas un luxe , c' est un droit .
+" } Le monde <TIMEX3 tid="t136" type="DATE" value="2013-07-08">8 Juillet 2013</TIMEX3> .
+Le problème ici et qui fait que vous tournez en rond , c' est que vous simplifiez les problèmes " Morsi agent des américain " " Morsi contre les américains " Morsi = Allende " , " Morsi et FM dictateurs " etc. D' abord on peut être et agent des américains et lâché par les américain ( comme Moubarak ) .
+Et même l' emploi du terme " les américains " laisserait entendre qu' ils sont les deus ex machina de ce qui se passe au Moyen Orient - ce qui me semble loin d' être le cas - et qu' ils formeraient un groupe monolithique ... certains témoignages ou analyses , rapportent que le Pentagone aurait soutenu l' armée pendant que la Département d' Etat ( et l' ambassadrice au Caire ) soutenait Morsi
+jusqu' au bout .
+Le souci c' est que personne n' est vraiment agent des américains ( pas même dans l' armée ) mais que tous cherchent leur appui ...
+Qu' on ne peut nier que les Frères musulmans semblent avoir cherché un compromis avec les Etats Unis ( et pas seulement en Egypte ) .
+Que Morsi , après quelque velléité d' indépendance a été bien timide .
+Sinon comparer ( de près ou de loin ) les Frères musulmans aux dirigeants progressistes d' Amérique
+du Sud c' est un peu pousser le bouchon ...
+Les frères musulmans ne sont ni progressistes , ni anti impérialistes , ils ne proposent , ni n' ont jamais proposé de réformes sociales , de politiques qui n' aillent pas dans l' intérêt de la bourgeoisie égyptienne ( dont ils sont d' ailleurs issus ) .
+Qu' on ne doit pas oublier qu' en arrière plan il y a aussi une lutte d' influence entre Qatar ( qui soutenait les FM ) et l' Arabie Saoudite
+qui les combat et préfère les salafistes .
+Que ce n' est sans doute pas hasard que la chute de Morsi suit de peu celle de l' Emir du Qatar .
+Enfin on ne peut que relever que l' absence total de culture démocratique des « révolutionnaire » qui sont incapables du moindre compromis ( ils sont encore pires que les FM ) , qui ne voit l' adversaire que comme un ennemi à écraser , et qui semble vouloir illustrer jusqu' à la nausée l' adage sinistre « la fin justifie les moyens » …
+Toute chose égale par ailleurs , ils me font penser aux « révolutionnaires » syriens ( qui pourtant , à la différence des égyptiens , ont été incapables de réunir des foules nombreuses … ) , à leur infantilisme , leur croyance de représenter à eux seuls le peuple … et leur absence de prise en compte des facteurs sociaux … Le site " Tamarrod " est un faux .
+Je ne pense pas qu' on puisse dire que les manifestants n' ont pas de culture politique , c' est plutôt la manière dont ils sont présentés qui les infantilisent complétement .
+Surtout quand on parle ( ce n' est pas vous que je vise ici ) de " jeunes " et de " réseaux sociaux " , je me souviens d' observateurs en <TIMEX3 tid="t140" type="DATE" value="2011">2011</TIMEX3> qui expliquaient que grâce à Internet , les " jeunes " , étudiants , citadins , voyaient comment ça se passait en Occident et qu' il en découlait une inévitable soif de liberté ... C' est ethnocentré en plus d' être assez caricatural et de témoigner finalement d' un mépris de classe certains envers les non-jeunes ruraux et n' ayant pas forcément fait d' études .
+Pour le compte twitter de tamarod , qui est un faux apparemment , j' aimerais savoir quels seraient les tweets officiels de ce mouvement .
+Y' aurait - il toujours ces références curieuses à Hitler , et qui rappelent effectivement les éradicateurs algériens ?
+L' article sur Nidaa Tounes est intéressant , mais je pense aussi qu' un mouvement de destitution militaire ne pourra pas prendre en Tunisie : le pays n' est pas au même niveau d' instabilité que l' Egypte , et l' armée n' y a pas la même place , comme l' avait rappelé le président Marzouki <TIMEX3 tid="t141" type="DATE" value="2013-07-07">hier</TIMEX3> .
+On en a surtout marre de votre propagande sioniste et de vos arguments ecules !
+Le mot Démocratie est composé de 2 racines , Demos = Peuple , cratie = pouvoir donc c' est l' exercice d' un pouvoir par le peuple par le biais de Représentants élus ! sous cet aspect les elections sont un élément determinant en démocratie mais ne valent pas nécessairement démocratie !
+les elections démocratiques telles qu' elles sont concues càd des elections sans fraude avec la participation de partis !
+meme non démocratiques !
+Le cas du régime Algérien est trés particulier car toutes les constitutions ont consacré le régime présidentiel càd que les pouvoirs sont concentrés entre les mains du président , nomme et destitue le chef du gouvernement et le parlement n' a aucun pouvoir si ce n' est de lever la main pour dire ok à des lois concués par le Monarque !
+la victoire du FIS au 1er tour des législatives meme en cas de victoire écrasante ( non pas qu' il soit majoritaire mais tout simplement l' abstention a battu des records ) cela n' aurait rien changé puisqu' il ne s' agissait pas d' elections présidentielles et dés qu' ils ont commencé à revendiquer des elections présidentielles la confrontation était ineluctable !
+Ne pas oublier que le FIS , le RCD étaient des partis crées en violation de la constitution qui prévoyait qu' aucun parti ne pouvait etre crée sur une base religieuse ou ethnique !
+La bipolarité militaire / Islamistes empeche tout idée de démocratie et le plus grave c' est qu' il existe une 3éme voie qui est majoritaire mais que personne n' a jamais pu conquérir car non intérréssée par la politique et qui dit qu' aucun homme politique n' est digne de confiance !
+Les Européens , démocrates ont été élus sur la base de programmes qui n' évoquent pas l' austérité et pourtant c' est la seule chose qu' ils proposent et s' ils avaient parlé de celle ci , le taux d' abstention battrait des records !
+Concernant la légitmité , en pcp ne peut etre légitime que celui qui travaille pour le progrès de son pays !
+•
+La réalité arabe , depuis <TIMEX3 tid="t143" type="DURATION" value="P2CE" mod="MORE_THAN">plus de deux siècles</TIMEX3> , c' est : •
+Une agression continue de la part des pays occidentaux , initiée par l' expédition d' Egypte de Bonaparte , agression , je le rappelle , effectuée en dehors de toute attaque , menace ou provocation ! •
+Une guerre d' agression de la France contre l' Algérie , longue de <TIMEX3 tid="t156" type="DURATION" value="P42Y">42 ans</TIMEX3> ( <TIMEX3 tid="t146" type="DATE" value="1830">1830</TIMEX3>
+- <TIMEX3 tid="t147" type="DATE" value="1872">1872</TIMEX3> ) , qui a coûté à cette même Algérie 875 000 morts sur 3 millions d' habitants , plus l' exploitation éhontée de ce pays , la réduction au servage de ses habitants par le Code de l' Indigénat , l' enrôlement de ses hommes dans les guerres de la France , les massacres de Sétif et Guelma , et l' atroce guerre d' Algérie , • L' enkystement , depuis <TIMEX3 tid="t148" type="DATE" value="1918">1918</TIMEX3> , des pays occidentaux dans la partie arabe de l' empire ottoman , qui s' est traduit , entre autres , par le bombardement des populations irakiennes dans <TIMEX3 tid="t150" type="DATE" value="192">les années 1920</TIMEX3> .
+Auquel faisait pendant , de l' autre côté , l' utilisation des gaz durant la guerre du Rif .
+•
+L' énorme entourloupe de la Déclaration Balfour , au moins trois fois illégitime : parce que le Royaume-Uni n' avait aucun droit sur un territoire qui , à l' époque ne lui appartenait pas ;
+parce qu' il a violé le principe des nationalités qu' il ne cessait de revendiquer en Europe centrale ;
+parce que les immigrants d' Europe centrale qui sont venus en Palestine n' avaient rien en commun avec les juifs des époques de Titus et d' Hadrien .
+•
+La réalité arabe , c' est le soutien constant des Etats-Unis et de l' Europe à tous les empiètements d' Israël en Cisjordanie , le deux poids deux mesures systématique !
+• Et vous vous étonnez de l' existence du Hamas ?
+Surtout quand on sait que celui-ci a été sciemment favorisé par les Israéliens pour affaiblir l' OLP ...
+Marre d' entendre les disciples occidentalistes d' Edward Saïd nier le pire d' une réalité arabe dont ils ne souffrent bien sur pas , eux ont été éduqués dans des écoles occidentales , ont un bon passeport , un appartement à Paris ou une maison dans le Vermont .
+Bouchez vous les oreilles , allez ailleurs !
+Sinon je vois recommande de bloguer plutôt sur : Alain Gresh vous faites une analyse inverse de celle de Caroline Fourest ( <TIMEX3 tid="t157" type="TIME" value="2013-07-08TMO">ce matin</TIMEX3> sur France Culture ) mais tout aussi erronée .
+Dans les deux cas , aucun ne tient compte des rapports de classes .
+Il serait peut être temps de faire appel à l' analyse marxiste et notamment à celle de la révolution permanente que tout le monde invoque sans jamais la comprendre .
+En se fondant sur cette analyse on peut faire émerger les points suivants : • l' armée défend ses intérêts et donc ceux de la classe des possédants .
+Comme partout , elle est une menace pour les classes populaires ( ceux qui parlent de l' armée comme une alliée du peuple trompent ) .
+L' objectif pour le camp progressiste devrait être de scinder l' armée , de gagner ses couches populaires , de dresser les soldats du rang contre leurs officiers .
+Mais quel parti défendra ce programme ?
+• mais les islamistes et les " frères musulmans " défendent eux aussi une conception bourgeoise de la propriété et de l' économie .
+Leur contestation par une grande partie de la population ( alliance de la bourgeoisie libérale et de la classe ouvrière ) est légitime .
+• il faut revenir à l' analyse de Lénine dans " l' Etat et la révolution " pour comprendre comment se conquiert la légitimité .
+La légitimité est une notion relative qui se constitue dans la lutte .
+Si <TIMEX3 tid="t158" type="DATE" value="2013-07-09">demain</TIMEX3> un groupe de trois individus qui s' auto - proclame " comité révolutionnaire " lance un appel à la grève générale et que cet appel est suivi d' effet , que la grève générale s' étende et que le pays est paralysé , de fait ce groupe de 3 individus est légitime .
+Il faut toujours privilégier le mouvement réel au formalisme démocratique .
+• dans des pays comme l' Egypte , la bourgeoisie est incapable de mener la révolution démocratique jusqu' au bout ( c' est précisément la leçon de la " révolution permanente " ) .
+Dès lors elle sera la première à se réfugier derrière le parapluie militaire si elle sent la moindre menace contre ses intérêts .
+• le problème des classes populaires est celui d' une politique indépendante , indépendante d' abord de la bourgeoisie libérale qui abandonnera ses revendications dès les premières menaces contre son existence en tant que classe .
+Le malheur c' est que la classe ouvrière égyptienne n' a pas de parti pour la représenter et la défendre jusqu' au bout .
+Tout compte fait , oui , les Palestinien ont bien mal voté .
+Ça aurait changé quoi puisque les sionistes adorent voler leurs terres , leurs ressources et le peu de richesses qui leur restent et qu' ils sont plus puissants militairement .
+Pour une foi je suis à 100 % d' accord avec Alain Gresh , toujours dangereux que l' armée renverse un pouvoir constitutionnel élu .
+J' ai peur pour l' Egypte .
+Tout le monde n' est pas De Gaulle : revenir au pouvoir par un coup de force militaire , éliminer la IVeme République , et concerver la démocratie .
+D' ailleurs lors de la crise du <TIMEX3 tid="t162" type="DATE" value="1958-05-13">13 mai 1958</TIMEX3> , De Gaulle tenait à revenir au pouvoir en étant investi par le Parlement , et a voir sa constitution approuvée par référendum .
+• Si on est aussi sensible à ce coup d' Etat , c' est qu' il pose un problème de principe qui nous concerne aussi .
+•
+Que ferions nous par exemple , nous Français , si le Front National arrivait au pouvoir et appliquait une grande partie de son programme ?
+•
+Par exemple , mesures discriminatoires contre les résidents ( Français ou non ) originaires des pays du Sud , contre les musulmans , contre les homosexuels , contre les syndicats - car le F.N. , en dépit de ses déclarations , est profondément antisocial
+- rétablissement de la peine de mort , sortie de l' euro et de l' Europe , autarcie économique ?
+•
+Il est peu probable ( ne serait - ce que pour des raisons sociologiques et politiques ) que l' armée chercherait à renverser un gouvernement Front National .
+• Cette initiative , en revanche , pourrait être prise soit par les autorités européennes , soit par les institutions financières ( Banques , IFI ) , soit par certains pays - Etats-Unis , Allemagne .
+Si ces acteurs intervenaient contre un gouvernement de gauche de la gauche , nombre d' entre nous serions scandalisés , indignés , révoltés , ulcérés !
+Mais , contre un gouvernement Front National , que dirions - nous ?
+• Que ferions
+- nous passer en premier : notre sentiment national ou nos opinions politiques ?
+Rappelons nous que lorsque Morsi a gagné les élections présidentrielles , c' est difficilement que l' on a accepté le proclamé Président .
+Ensuite lorsqu' il a été proclamé Président l' armée a tenté de vider le Poste de Président de tout son pouvoir en dissolvant l' assemblée , pourtant élu démocratiquement .
+Il a fallu le courage de Morsi pour remplacer le chef major de l' armée d' alors par Al sisi .
+Donc dès le départ l' armée et les opposants défaits à l' élection présidentielle ne voulait pas de Morsi .
+Donc tout a été organisé pour Morsi échoue .
+Le FMI a refusé jusqu' à ce qu' on fasse le coup d' Etat de débloquer l' aide financière demandée par Morsi .
+Durant son année Morsi n' a jamais eu ni la sérénité ni les moyens de mettre en œuvre les réformes nécessaires à la relance de l' économie .
+Ensuite lorsque l' on gagne des élections , c' est normal que l(on mette ses hommes aux postes stratégiques .
+François Hollande l' a fait au ministère de l' intérieur au <TIMEX3 tid="t166" type="DATE" value="2013-07-09">lendemain</TIMEX3> de son élection .
+S' il l' on veut être logique , comme Hollande a échoué sur tous ses engagements , l' armée française aurait dû lui faire un coup d' Etat .
+Je me demande ce vous écririez si Sarkozy <TIMEX3 tid="t168" type="DATE" value="2007-05-17">le 17 Mai 2007</TIMEX3> se déclarait au dessus de tout contrôle constitutionnel .
+" Le problème ici et qui fait que vous tournez en rond , c' est que vous simplifiez les problèmes ... " Il faut faire un peu d' histoire .
+La confrérie des FM , dont le fondateur est Hassan
+Al Bana
+, s' est formé durant le colonialisme britannique .
+Durant les régimes militaires , les FM ont été ostracisés , persécutés , emprisonnés , torturés , exilés .
+Ce qui les a conduit , pour certains , a se radicaliser , à contracter des alliances et , probablement , être manipulés .
+La politique de répression produit tôt ou tard un effet boomerang .
+La répression a surtout commencé Sous Nasser , qui a réalisé de bonnes choses du reste .
+Nasser avait du charisme , une bonne communication .
+C' était l' époque de la rivalité est-ouest , avec leurs zones d' influence , donc il y avait des accords tacites de part et d' autre .
+Dans une démocratie parlementaire les choses auraient probablement été différentes . "
+Et même l' emploi du terme " les américains " laisserait entendre qu' ils sont les deus ex machina de ce qui se passe au Moyen Orient - ce qui me semble loin d' être le cas - et qu' ils formeraient un groupe monolithique ...
+"
+Vous avez raison , il y a bien plusieurs puissances rivales , surtout en Syrie .
+Ce n' est pas nouveau , le moyent - orient , à causes de ses ressources et de sa position stratérique à toujours attisé cupidité et convoitise !
+La seule différence , ce sont les civils innocents qui payent la facture , puisque les pays sont préalablement plongé dans le chaos , presque permanent ( Irak , Libye ) .
+Egypte : Coup d' Etat , Acte II .
+L' armée égyptienne n' est pas revenue dans le jeu politique , elle ne l' a jamais quitté .
+La chute de Moubarak fut un premier « coup d' Etat » militaire interne qui a permis à une nouvelle génération de militaires de se positionner de nouvelle façon sur l' échiquier politique , derrière l' écran d' un gouvernement civil .
+Dans un article du <TIMEX3 tid="t175" type="DATE" value="2012-06-29">29 juin 2012</TIMEX3> , je rappelais les propos du Commandement armé affirmant que les élections présidentielles étaient temporaires , pour une période de <TIMEX3 tid="t181" type="DURATION" value="P6M">6 mois</TIMEX3> à <TIMEX3 tid="t180" type="DURATION" value="P1Y">un an</TIMEX3> ( le titre de l' article explicitait la prémonition : «
+Une élection pour rien ?
+» ) .
+L' Administration américaine a suivi l' ensemble du processus : l' allié objectif de l' Administration US en Egypte est clairement l' Armée et ce depuis <TIMEX3 tid="t182" type="DURATION" value="P50Y" mod="MORE_THAN">plus de cinquante ans</TIMEX3> , et non pas les Frères Musulmans .
+Les révélations se multiplient <TIMEX3 tid="t189" type="DATE" value="PRESENT_REF">désormais</TIMEX3> ( International Herald
+Tribune du <TIMEX3 tid="t186" type="DATE" value="2013-07-05">5 juillet</TIMEX3> , Le Monde du <TIMEX3 tid="t184" type="DATE" value="2013-07-06">6 juillet 2013</TIMEX3> ) : la décision de renverser Muhammad Morsi a été prise bien avant <TIMEX3 tid="t185" type="DATE" value="2013-06-30">le 30 juin</TIMEX3> et une conversation entre le Président Morsi et le Général al - Sissi révèle que ce dernier avait planifié le renversement et l' emprisonnement du Président Morsi des semaines avant le soulèvement populaire qui allait justifier le coup d' Etat militaire « au nom de la volonté du peuple » .
+Tiens donc : orchestrer des manifestations de plusieurs millions d' individus pour faire croire que l' Armée se soucie essentiellement du peuple !
+Coup d' Etat , acte second .
+Comment analyser la réaction immédiate de l' Administration américaine qui justement ne parle pas de « Coup d' Etat » ( si elle le reconnaissait , elle ne pourrait soutenir financièrement le nouveau régime ) ?
+Etrange situation d' une Administration qui , soi-disant surprise , dit exactement ce qu' il faut pour se donner les moyens politiques , économiques et légaux de soutenir les protagonistes du renversement .
+Les Administrations européennes vont leur emboiter le pas : l' Armée aurait simplement suivi le peuple et répondu , « démocratiquement » , à son appel .
+La belle affaire !
+Les coupures d' électricité que subissait le peuple depuis des mois , les pénuries d' essence et de gaz cessent étonnamment après la destitution .
+Tout se passe comme si on avait voulu priver le peuple des biens de première nécessité pour le pousser à se mobiliser .
+Amnesty International a même relevé l' étrange attitude des forces de l' ordre égyptiennes qui n' intervenaient pas dans certaines manifestations ( alors qu' elles étaient à proximité et observaient les faits ) et laissaient la violence empirer , comme à dessein .
+L' Armée va ensuite accompagner son intervention d' une opération de communication de grande envergure : c' est elle qui transmet aux agences de presse internationales les images prises de ses hélicoptères , montrant la population égyptienne criant et célébrant son rôle salvateur , comme nous en informe , entre autres , Le Monde .
+Nous serions donc dans la poursuite du « <TIMEX3 tid="t194" type="DATE" value="2013-SP">printemps</TIMEX3> arabe » et de la « révolution » égyptienne … accompagnée et protégée par l' armée du Général Abdul Fatah Al
+- Sissi .
+Formé par l' Armée américaine , celui-ci n' a jamais cessé d' être en lien avec l' Administration US .
+Le International Herald
+Tribune ( <TIMEX3 tid="t199" type="DATE" value="2013-07-06">6</TIMEX3>
+- <TIMEX3 tid="t196" type="DATE" value="2013-07-07">7 juillet 2013</TIMEX3> ) nous révèle d' ailleurs que celui-ci est bien connu des Américains mais également du gouvernement israélien avec lequel lui et son cabinet , nous dit - on , continuaient « de communiquer et de coordonner » leurs actions alors même que Morsi était en charge de la présidence .
+Al
+- Sissi travaillait <TIMEX3 tid="t203" type="DATE" value="PAST_REF">auparavant</TIMEX3> dans les Services de renseignement militaire au Nord du Sinaï et était le contact des deux Administrations américaine et israélienne .
+Les Israéliens , comme les Américains , ne pouvaient voir que d' un bon œil le déroulement des événements en Egypte .
+Voire davantage donc .
+Tout a fait d' accord avec Ines , ainsi qu' avec Serge ( ce qui n' enleve rien
+aux erreurs commises par le President Morsi ) .
+Le parallele avec Salvador Allende est assez pertinent , meme si la situation economique et politique du Chili a l' epoque ( le plus avance de toute l' Amerique Latine economiquement et democratiquement ) et de l' Egypte actuelle est radicalement differente .
+Voila 2 Presidents elus de justesse ( ce qui n' ote rien a leur legitimite ! ) qui , des le debut , sont confrontes a une opposition majoritaire : •
+Allende n' avait recueilli qu' une majorite relative , dans une " triangulaire " ;
+• une partie des electeurs de Morsi du 2nd tour avaient vote , non POUR LUI , mais CONTRE CHAFIK .
+La comparaison s' arrete la , puisque la junte chilienne a pris directement le pouvoir , alors que les putschistes egyptiens se contenteront de placer quelqu'un qui leur laissera les mains libres .
+Ph .
+Arnaud pose une vraie question : que ferions
+- nous si le FN arrivait legalement au pouvoir ?
+Pour qu' on comprenne vraiment l' analyse de Tariq Ramadan , et qu' on ne le traite pas de simpliste ou de partisan aveugle de Morsi et des FM , il faut aussi recopier les passages où il fait une critique très sévère de ces derniers et leur gestion économique , politique et leur naiveté .
+Ce qui surprend , a posteriori , c' est la naïveté , le manque d' expérience et la nature
+des erreurs de Muhammad Morsi , de ses alliés et de l' organisation des Frères Musulmans .
+Depuis <TIMEX3 tid="t208" type="DURATION" value="P3Y">3 ans</TIMEX3> , je n' ai eu de cesse de faire la critique de la pensée , de l' action et de la stratégie du parti « Justice et Liberté » autant que des leaders des Frères Musulmans ( par ailleurs depuis <TIMEX3 tid="t209" type="DURATION" value="P25Y">25 ans</TIMEX3> , mes analyses et commentaires , en tant qu' observateur , ont été ,
+et demeurent , sévères ) .
+En sus , le piège paraissait si évident et l' ensemble de mes écrits ( livre et articles de <TIMEX3 tid="t214" type="DATE" value="2012-03">mars</TIMEX3> à <TIMEX3 tid="t213" type="DATE" value="2012-12">décembre 2012</TIMEX3> ) relevait ces graves manquements .
+On ne peut reprocher au Président Morsi de ne pas avoir essayé d' établir des relations avec l' opposition et de les inviter soit au Gouvernement soit à un large dialogue national : ses initiatives ont toutes <TIMEX3 tid="t215" type="DATE" value="2013-SU">été</TIMEX3> rejetées et l' opposition n' a eu de cesse de s' opposer à toutes ses initiatives .
+Il demeure que la critique de sa gestion des affaires de l' Etat , de sa relation exclusiviste avec la direction de l' organisation des Frères Musulmans , de sa surdité envers le peuple et certains de ses conseillers , que ses décisions intempestives ( dont il a admis que certaines étaient des erreurs après coup ) doivent faire l' objet d' une critique sans concession .
+Plus fondamentalement , c' est l' absence de vision politique et de gestion des priorités quant à la politique économique , à la lutte contre la corruption et la pauvreté , à la gestion des affaires sociales et éducatives , qui fut le plus grave manquement .
+Les exigences du Fonds Monétaire International ( et les atermoiements de ce dernier de la même façon ) mettaient le pouvoir dans une situation intenable : le gouvernement de Morsi pariait naïvement sur un soutien de cette institution .
+Ce n' est pourtant qu' aujourd' hui , une fois le Président Morsi parti , que le FMI semble vouloir débloquer la situation ( seulement <TIMEX3 tid="t216" type="DURATION" value="P3D">trois jours</TIMEX3> après la chute du gouvernement démocratiquement élu ) .
+On reste effectivement atterré par la naïveté du Président , de son gouvernement et des Frères Musulmans .
+Après <TIMEX3 tid="t217" type="DURATION" value="P60Y" mod="MORE_THAN">plus de soixante ans</TIMEX3> d' opposition et de répression de l' Armée à l' encontre des membres de la Confrérie ( avec la bénédiction directe et indirecte de l' Administration US et de l' Occident ) , comment ceux-ci ont - ils pu penser que ceux-là allaient soutenir leur accession au pouvoir , au nom de la démocratie ?
+N' ont - ils rien retenu de leur histoire , de l' Algérie et de la Palestine plus <TIMEX3 tid="t218" type="DATE" value="PAST_REF">récemment</TIMEX3> ?
+J' ai été , et je demeure critique , quant au contenu ( superficiel ) du programme et à la stratégie politique discutable du Président Morsi et des Frères
+Musulmans } ( compromis avec l' Armée et l' Administration américaine , compromission sur le plan économique et jusqu' à la question palestinienne , etc. ) mais c' est bien cette inconscience politique qui suscite la stupeur .
+Entendre le Président Morsi dire au Général al - Sissi , <TIMEX3 tid="t219" type="DURATION" value="P10D">dix jours</TIMEX3> avant son renversement , qu' il pourrait , lui le Président , le révoquer ( puisqu' il l' a nommé ) et que les Américains ne « permettront pas ce coup d' Etat » est simplement sidérant , et simplement surréaliste .
+Tout à fait , j' aurais dû aussi souligner que T.Ramadan évoque également briévement des compromissions de Morsi y compris en ce qui concerne la question palestinienne : J' ai été , et je demeure critique , quant au contenu ( superficiel ) du programme et à la stratégie politique discutable du Président Morsi et des Frères Musulmans ( compromis avec l' Armée et l' Administration américaine , compromission sur le plan économique et jusqu' à la question palestinienne , etc. ) mais c' est bien cette inconscience politique qui suscite la stupeur .
+Entendre le Président Morsi dire au Général al - Sissi , <TIMEX3 tid="t220" type="DURATION" value="P10D">dix jours</TIMEX3> avant son renversement , qu' il pourrait , lui le Président , le révoquer ( puisqu' il l' a nommé ) et que les Américains ne « permettront pas ce coup d' Etat » est simplement sidérant , et simplement surréaliste .
+Tout à fait , j' aurais dû aussi souligner que T.Ramadan évoque également briévement des compromissions de Morsi y compris en ce qui concerne la question palestinienne : J' ai été , et je demeure critique , quant au contenu ( superficiel ) du programme et à la stratégie politique discutable du Président Morsi et des Frères Musulmans ( compromis avec l' Armée et l' Administration américaine , compromission sur le plan économique et jusqu' à la question palestinienne , etc. ) mais c' est bien cette inconscience politique qui suscite la stupeur .
+Entendre le Président Morsi dire au Général al - Sissi , <TIMEX3 tid="t221" type="DURATION" value="P10D">dix jours</TIMEX3> avant son renversement , qu' il pourrait , lui le Président , le révoquer ( puisqu' il l' a nommé ) et que les Américains ne « permettront pas ce coup d' Etat » est simplement sidérant , et simplement surréaliste .
+Bref j' encourage à lire l' article en entier , c' est un bon récapitulatif avec des liens vers des articles éclairants qui parlent de faits ) ayant d' ailleurs été évoqués ici .
+T. Ramadan rappele aussi que l' Arabie Saoudite mais aussi le Qatar ont été prompts à soutenir le régime militaire nouvellement installé , je creuserais bien la question surtout pour ce qui concerne le Qatar .
+Une partie très intéressante sur les salafistes qu' on présente souvent comme les alliés des FM , à tort .
+D' aucuns furent également surpris de la position des salafis , notamment du parti an - Nur , qui a rejoint les militaires et se sont présentés dans le clans des « démocrates » anti - Morsi .
+Nous ne sommes pas loin d' une belle farce , et pourtant .
+Les agences de presse occidentales ont présenté les salafis « islamistes » comme les alliés des Frères Musulmans alors que dans les faits , ils ont été les vrais alliés des régimes des pays du Golfe , alliés régionaux des Américains .
+Il s' agissait de mettre à mal la crédibilité religieuse des Frères Musulmans et de les pousser à une surenchère .
+Au moment du renversement de Morsi , ils ne le trahissent pas mais révèlent leur stratégie et leur véritable alliance .
+Il n' est pas étonnant que les premiers pays à reconnaître le nouveau régime issu du coup d' Etat militaire soient les Emirats Arabes Unis , l' Arabie Saoudite et le Qatar dont les organisations finançaient , et financent encore , directement ou indirectement , les salafis égyptiens ( comme tunisiens d' ailleurs ) .
+La lecture politique superficielle tendrait à faire croire que l' Arabie Saoudite ou le Qatar soutiennent les Frères Musulmans alors qu' ils sont essentiellement les garants d' une politique américaine dans la région : il s' agit de diviser les diverses tendances de l' islam politique et les pousser à des confrontations déstabilisant les différents pays de la région .
+Cette stratégie est double et fonctionne entre les organisations politiques sunnites comme par l' entretien de la fracture entre shiites et sunnites .
+Les Etats-Unis comme l' Europe n' ont aucun problème avec l' islam politique des salafis littéralistes des Etats du Golfe ( avec leur refus de la démocratie , leur non respect des minorités , la discrimination des femmes , l' application d' un strict code pénal « islamique » qualifié de « shari' a » ) : ils protègent leurs intérêts géostratégiques et économiques régionaux et leurs politiques répressives et rétrogrades s' appliquent surtout sur le plan intérieur dont l' Occident n' a cure .
+A Sarah et Ines
+Merci pour votre information .
+J' ai lu le texte integral de Tariq Ramadan , que je trouve remarquable .
+PS : Bon Ramadan a tous ceux qui sont concernes !
+Si l' on doit établir un paralléle avec l' Amérique latine et les FM à leur début , ce serait par rapport à la " théologie de la libération " .
+Les FM ont toujours été présents sur le terrain social , éducatif , carritatif , empêchant une implosion dûe aux inégalités dans un pays pauvre .
+L' islam va dans ce sans , puisqu' il est dit que les " hommes sont égaux comme les dents d' un peigne " .
+On nous dit , probablement à juste titre , que les FM ne sont pas contre une économie capitaliste .
+Soit !
+Mais qui oserait refuser ce néo-suprémacisme ?
+Non , aucun rapport entre les FM et la théologie de la libération qui n' est pas un simple amour des pauvres .
+Ça c' est le pape François qui d' ailleurs l' a férocement combattu en Argentine .
+La théologie de la libération est une vision qui allie le christianisme et la lutte des classes et des références forte aux marxismes et aux mouvements de libération nationale ...
+Sinon l' analyse de Tariq Ramadan qui semble tant vous plaire me parait quant à moi encore trop indulgente , malgré ses critiques , envers Morsi et les frères Musulmans et il ne tire pas la conclusion qui s' impose de la " naïveté " de Morsi sur l' attitude américaine :
+n' est –elle pas la conséquence du fait que Morsi croyait ce que lui disait les américain et qu' il croyait au deal entre FM et américains ?
+Mais la donne à changé et tout prouve un revirement de la politique américaine ( mais certain , comme el républicain Mc Cain soutienne encore Morsi contre l' armée ... ) .
+Enfin sur les élection rappelons que tenir des élections vraiment démocratiques après de longues années de dictature , surtout quand il n ' y a pas eu de vrai révolution , que tout les membres de l' ancien régimes ( sauf le président et son parti ) sont resté en place , qu' aucune structure politique ou économique n' a changé , celui qui gagne c' est soit un représentant masqué ou non de l' ancien régime , soit la force la mieux organisés dans l' opposition , mais au détriment des forces les plus dynamiques mais peu organisés .
+C' est pourquoi si le FM avaient respectés leur promesse de ne pas présenter de candidat à la présidence , on n' en serait pas là ...
+Enfin Tariq Ramadan
+sous estime le rôle du Qaar , oubliant que ce pays vient de connaître un changement de direction sous la pression des Etats Unis .
+Enfin ne peut - on émettre l' hypothèse que cela soit aussi la conséquence des développements de la guerre en Syrie qui rabat complètement les cartes , et ce aux détriments , du moins <TIMEX3 tid="t222" type="DATE" value="PRESENT_REF">pour le moment</TIMEX3> , des frères musulmans qui semblaient pourtant triompher il y a peu … ( ce ne sont que des questions basées sur mes lectures … ) A Caius
+Gracchus
+Il a ete beaucoup reproche aux FM d' avoir presente un candidat aux presidentielles , apres avoir declare qu' ils ne le feraient pas .
+Mais on oublie que ce revirement a ete annonce juste apres la decision du sinistre
+General
+Omar Suleiman , ephemere Vice
+- President designe par Moubarak , de se porter candidat , alors qu' il avait annonce qu' il ne le serait pas , et qu' il y avait un risque reel qu' il gagne l' election .
+A propos de la theologie de la liberation , je vous rappelle ce constat desabuse de Dom Helder Camara : " j' aime les pauvres , et vous , vous detestez les riches " .
+@ Cauis Gracchus : Est
+- il possible pour vous d' introduire un peu de nuance dans vos " analyses " ?
+D' abord LES FM ne sont pas un courant monolithique : il existe en leur sein des divergences concernant le rôle de le religion , concernant l' économie(certains sont libéraux , d' autres ont des positions plus proches de la gauche dite " alternative"),concernant leur relation avec les USA(certains sont pour une attitude plutôt accommodante alors que d' autres sont plus intransigeants),sur la stratégie politique , sur l' attitude à adopter concernant la question palestinienne(même si sur cette question , tous admettent leur soutien à la cause palestinienne ) .
+Par ailleurs , il y a un conflit de génération entre les"jeunes FM " et les anciens , ce qui entraîne parfois des conséquences politiques graves .
+Toute analyse simpliste , binaire et manichéenne est forcément fausse , et pas seulement pour tout ce qui concerne le moyen-orient .
+Cela s' applique aussi pour le rôle du Qatar qu' on a présenté si vite comme le " parrain " des FM .
+Que ce pays ait profité de l' accession au pouvoir des FM dans certains Etats pour faire avancer ses propres intérêts , et se donner le beau rôle en surestimant par ailleurs son importance , c' est tout à fait vrai , mais de là à le présenter comme la tête pensante des FM et de leur stratégie , c' est tout à fait exagéré .
+D' ailleurs , le Qatar se contentera très bien <TIMEX3 tid="t223" type="DATE" value="2013-07-09">demain</TIMEX3> du nouveau pouvoir égyptien , quel qu' il soit .
+Personnellement , je trouve l' analyse de Ramadan pertinente en grande partie , même si je ne suis pas d' accord avec tout ce qu' il dit . ( Et je ne suis pas du tout d' accord avec vous quand vous dites qu' il épargne les FM dans son texte , moi je trouve ses critiques très sévères , pas de programme économique , immaturité , naiveté , compromissions avec les USA , l' armée , etc .
+Mais Ramadan ne jette pas le bébé avec l' eau du bain : il pense que ce courant , dont une grande partie des dirigeants et de ses adhérents sont des gens sincères , plutôt moins corrompus que la plupart des autres courants politiques arabes , peut se réformer et doit se réformer en faisant une auto-critique constructive et nécessaire de leurs succès comme de leurs échecs .
+Là où je ne suis pas d' accord avec Ramadan c' est quand il parle du rôle des USA et de l' occident en général : à mon sens , il surestime leur influence , déclinante au moyen-orient .
+Ce que les stratèges de la longue durée comme Zbigniew Brzezinski reconnaissent lucidement .
+Et à mon sens , le " <TIMEX3 tid="t224" type="DATE" value="2013-SP">printemps</TIMEX3> arabe " n' est pas une conspiration " américano - occidentale",m^me si ces puissances feront tout pour protéger leurs intérêts .
+Le <TIMEX3 tid="t225" type="DATE" value="2013-SP">printemps</TIMEX3> arabe risque de connaître encore beaucoup de péripéties et de révolutions et de contre-révolutions .
+Mais c' est ainsi que va l' histoire ...
+@ Caius Gracchus : Mais au fait la critique est toujours facile , mais il est très difficile de proposer des solutions alternatives concrètes .
+Cela s' applique pour les FM comme pour la " gauche arabe",dont une partie ne trouve aucun problème à s' allier avec des armées corrompues et tortionnaires et des membres de l' ancien régime , en Egypte comme en Tunisie .
+Sans parler de l' indigence des débats dans le monde arabe où vous avez des " islamistes " contre des laiques(pour la version francophone)ou des " liberals"(pour la version anglophone ) sans aucun des deux courants ne fasse une auto-critique constructive et propose des solutions concrètes .
+Il est là le vrai problème : la polarisation de la vie politique arabe autour de questions secondaires sans aborder les vrais problèmes .
+Que ferions nous par exemple , nous Français , si le Front National arrivait au pouvoir et appliquait une grande partie de son programme ?
+Par exemple , mesures discriminatoires contre les résidents ( Français ou non ) originaires des pays du Sud , contre les musulmans , contre les homosexuels , contre les syndicats - car le F.N. , en dépit de ses déclarations , est profondément antisocial
+- rétablissement de la peine de mort , sortie de l' euro et de l' Europe , autarcie économique ?
+Bonne question .
+Cependant , pour que la comparaison puisse avoir un peu de sens ajoutons que le gouvernement issu du FN aurait profité de sa majorité ( et de sa popularité à la suite d' une action quelconque qui lui aurait donné une certaine stature à l' intérieur comme à l' extérieur du pays ) pour apporter des réformes constitutionnels dont l' objectif est d' accroître de façon significative les pouvoir du président .
+Et que le président et son gouvernement se sont montré très inompétent dans la gestion des affaires de l' état et extrémement naïfs notamment avec des pays innemis de la France ( cf Tariq Ranadan ) .
+Et ajouter aussi que des manifestations par millions pour et contre le FN et surtout que les affrontements entre les deux ait déjà fait pas loin d' une vingtaine de morts dans les rues parisienne .
+Enfin ajouter que sans l' intervention de l' armée française rien n' indique que les choses allaient se calmer bien au contraire .
+Là vous pouvez peut peut être poser votre question : que doit faire l' armée française ?
+En fait à la lecture des extrait de l' article de T. Ramadan et des commentaire Caius
+Gracchus il ne manque plus qu' une conclusion : les FM et Morsi ont creusé leur propre tombe .
+Ce que M. Ramadan ne veut pas dire pour des raison qu' on comprend .
+J' ajouterais deux points : • les FM savaient qu' ils inspiraient la méfiance et qu' ils étaient sous surveillance .
+Ils ont voulu tellement plaire à l' Occident , et aux USA en particulier , au point qu' ils ont oublié l' essentiel : les égyptiens et la cause palestinienne .
+• je n' ai pas lu l' article complet de Tariq Ramadan , mais il me semble que l' une des erreurs les plus grave qu' ils ont commis est d' avoir aussi agi dans l' intérêt des FM et non dans l' intérêt général .
+Et à mon sens , le " <TIMEX3 tid="t226" type="DATE" value="2013-SP">printemps</TIMEX3> arabe " n' est pas une conspiration " américano - occidentale",m^me si ces puissances feront tout pour protéger leurs intérêts .
+Le <TIMEX3 tid="t227" type="DATE" value="2013-SP">printemps</TIMEX3> arabe risque de connaître encore beaucoup de péripéties et de révolutions et de contre-révolutions .
+Vaut mieux tard que jamais , n' est ce pas ?
+Sérieusement , au - delà des questions théoriques vous croyez vraiment que l' armée égyptienne , responsable de la situation catastrophique du pays , est intervenue pour " sauver la démocratie " et répondre aux demandes du peuple ?
+? ?
+Surtout que des éléments apparaissent <TIMEX3 tid="t228" type="DATE" value="2013-07-08">aujourd'hui</TIMEX3> qui montrent que le coup d' état était préparé depuis longtemps et bien avant les manifestations .
+Si l' armée égyptienne ne cherchait pas le pourrissement de la situation , quid des coupures de gaz , d' essence , d' électricité , de la passivité des forces de police ?
+Et surtout disons que ce " sauvetage de la démocratie " commence bien mal avec une censure massive et une répression à l' égard des opposants .
+Il faut être bien naif ou hypocrite pour s' en remettre à une armée aussi corrompue et aussi anti-démocratique pour " sauver la démocratie " .
+Vaut mieux tard que jamais , n' est ce pas ?
+Où et quand ai - je prétendu le contraire .
+Par contre , pour l' instant le dernier épisode de la " Révolution égyptienne " avec l' intervention de l' armée fait partie de la contre-révolution .
+Sérieusement , au - delà des questions théoriques vous croyez vraiment que l' armée égyptienne , responsable de la situation catastrophique du pays , est intervenue pour " sauver la démocratie " et répondre aux demandes du peuple ?
+? ?
+•
+Ce que Tariq ramadan à dit n' a rien de théorique , les FM ne se sont pas montrés dignes de diriger un pays qui ne peut pas se permettre le luxe de 3 autres années de Morsi et des FM .
+• le seul responsable de la situation actuelle est M. Morsi .
+Je pense que s' il avait démissionné on n' en serait pas là <TIMEX3 tid="t229" type="DATE" value="2013-07-08">aujourd'hui</TIMEX3> .
+• par contre personne , même pas vous , ne peut dire que sans l' intervention de l' armée les choses auraient été revenues à la normale <TIMEX3 tid="t230" type="DATE" value="2013-07-08">aujourd'hui</TIMEX3> .
+Je vous rappelle qu' il y' avait déjà un peu moins de 20 morts en <TIMEX3 tid="t234" type="DURATION" value="P3D">3 jours</TIMEX3> avant l' intervention de l' armée .
+Les opposants de Morsi auraient tout simplement laissé tomber ?
+Ils n' en avaient pas l' air .
+• l' armée n' est pas intervenue pour restaurer la démocratie , mais pour ramener le calme .
+La démocratie n' est pas l' affaire de l' armée mais des acteurs politiques ( majorité et opposition ) .
+L' ultimatum de l' armée n' était pas adressé à Morsi seul mais au politiciens pour trouver un terrain d' entente .
+Il faut être bien naif ou hypocrite pour s' en remettre à une armée aussi corrompue et aussi anti-démocratique pour " sauver la démocratie " .
+Pour fin de discussion imaginons que les affrontements entre les millions pour et les millions contre les FM , ce qui était certain vu les position des uns et des autres et supposons que le nombre de mort aurait continué à grimper .
+L' armée ne devrait jamais intervenir selon vous ?
+Pour l' autre message ( vaut mieux tard que jamais ) je m' excuse je pensais que c' était Shanaa , fausse alerte .
+Je ne croyais pas mes yeux mais tout fini par s' expliquer .
+Cet article de Tariq Ramadan datant du <TIMEX3 tid="t235" type="DATE" value="2014-06-29">29 juin</TIMEX3> 2012(donc il y a un an)est stupéfiant de vérité et de prévisions quand on le lit <TIMEX3 tid="t236" type="DATE" value="2013-07-08">aujourd'hui</TIMEX3> .
+EGYPTE : UNE ÉLECTION POUR RIEN ?
+Depuis le début
+du soulèvement populaire , force est de constater que la seule institution qui n' ait jamais vraiment perdu le contrôle de la situation est bien l' Armée .
+Après quelques hésitations ( essentiellement dues à des tensions entre le clan des pro
+- Moubarak et une majorité de militaires désireux de se débarrasser du gênant leader tout en protégeant leurs prérogatives et leurs intérêts ) , la hiérarchie a d' abord décidé de ne pas intervenir ( suivant l' exemple tunisien ) et de laisser le peuple protester jusqu' à la chute du dictateur .
+Le Conseil Supérieur des Forces Armées ( CSFA ) a ensuite accompagné , voire piloté , chacune des étapes de la refondation des institutions : les élections parlementaires , la commission chargée de l' écriture de la nouvelle Constitution , l' officialisation des partis politiques et de leur candidat aux élections présidentielles , le procès de l' ancien président , etc. Jamais l' armée n' a perdu le contrôle des opérations et à chaque étape elle a imposé aux représentants de la société civile et aux partis politiques de composer avec elle .
+Les divers candidats , les Frères Musulmans comme les salafis , ont dialogué , rassuré ( quant aux possibles futurs procès des responsables de l' armée ) et déterminé les termes d' un accord possible avec l' institution militaire .
+Il faut dire et rappeler que celle-ci ne représente pas seulement la « force armée » en Egypte mais un pouvoir financier qui a de puissants intérêts dans de nombreux secteurs de l' économie égyptienne .
+Depuis <TIMEX3 tid="t239" type="DURATION" value="PXW">quelques semaines</TIMEX3> , les choses se sont accélérées et ce qui était perceptible dans les coulisses est <TIMEX3 tid="t238" type="DATE" value="PRESENT_REF">désormais</TIMEX3> apparu au grand jour de façon opportune et parfaitement calculée .
+La commission chargée de l' écriture de la Constitution a été jugée non constitutionnelle et stoppée .
+Hosni Moubarak , vieux et mourant , a été condamné et ses jeunes enfants acquittés <TIMEX3 tid="t240" type="DURATION" value="PXD">quelques jours</TIMEX3> avant le premier tour qui consacre la courte victoire des Frères Musulmans .
+Impossible de fait de contester la transparence du processus électoral .
+Entre les deux tours , c' est le Parlement qui a été dissous ( pour des irrégularités , dit - on ) et les prérogatives du futur président ont été réduites de façon substantielle ( le vrai pouvoir décisionnaire est transféré vers le pouvoir militaire ) .
+Alors que les deux candidats annonçaient leur victoire respective , la proclamation des résultats a été ajournée .
+Muhammad Morsi a été annoncé vainqueur d' une " élection démocratique historique " .
+Voire .
+Les fondements institutionnels et légaux de ladite élection présidentielle ont volé en éclat au gré de ces décisions : le président élu exercera un pouvoir sans autorité et sera gratifié d' une autorité symbolique sans pouvoir .
+Les responsables de l' armée n' ont pas hésité à annoncer que cette élection pourrait même temporaire et qu' il faudrait revenir aux urnes quand la Constitution et le Parlement seront rétablis , dans une période de <TIMEX3 tid="t241" type="DURATION" value="P6M">six mois</TIMEX3> .
+On murmure même que le poste de Premier ministre a été négocié , avec une possible , et très opportune , réapparition de Muhammad al - Baradei sur qui l' administration américaine avait beaucoup compté ( 2 ) .
+Des élections pour rien , somme toute .
+A moins qu' il s' agisse du temps nécessaire à l' armée pour reprendre définitivement les choses en main en ayant fait perdre de leur crédibilité aux acteurs politiques .
+Les Frères Musulmans ont commis une succession d' erreurs stratégiques qui leur a fait perdre une partie de leur popularité et , symboliquement aux commandes , les défis à relever sont inextricables .
+Les salafis sont un épouvantail utile ( comme c' est le cas en Tunisie ) et les autres forces politiques sont désorganisées , voire profondément divisées .
+Par ailleurs , il faut rappeler les intérêts très forts qui lient l' administration américaine et l' Union Européenne , à la hiérarchie militaire égyptienne depuis des décennies ( contrairement aux analyses trop rapides formulées au gré d' un étrange oubli de l' histoire
+des relations internationales dans la région ) .
+La situation en Egypte est très inquiétante , comme elle l' est d' ailleurs en Syrie , en Lybie , au Yémen , au Bahreïn et , dans une moindre mesure , en Tunisie ( il se pourrait d' ailleurs que les relatives avancées en Tunisie –même si rien n' est encore gagné en termes de démocratisation réelle – soient un écran quant aux échecs de tous les autres pays ) .
+Si l' énergie des soulèvements veut se transformer en force révolutionnaire , il faut que les voix que l' on entend sur la place de la Libération ( Midân at - Tahir ) disent <TIMEX3 tid="t242" type="DATE" value="PRESENT_REF">désormais</TIMEX3> davantage que leur espérance de la fin du régime mais détermine plus lucidement et plus clairement les priorités nationales et régionales de leur résistance .
+La mobilisation populaire est nécessaire , alors que le projet révolutionnaire reste encore à établir et à faire .
+A moins qu' il s' agisse du temps nécessaire à l' armée pour reprendre définitivement les choses en main en ayant fait perdre de leur crédibilité aux acteurs politiques .
+Les Frères Musulmans ont commis une succession d' erreurs stratégiques qui leur a fait perdre une partie de leur popularité et , symboliquement aux commandes , les défis à relever sont inextricables .
+Les salafis sont un épouvantail utile ( comme c' est le cas en Tunisie ) et les autres forces politiques sont désorganisées , voire profondément divisées .
+Par ailleurs , il faut rappeler les intérêts très forts qui lient l' administration américaine et l' Union Européenne , à la hiérarchie militaire égyptienne depuis des décennies ( contrairement aux analyses trop rapides formulées au gré d' un étrange oubli de l' histoire
+des relations internationales dans la région ) .
+La situation en Egypte est très inquiétante , comme elle l' est d' ailleurs en Syrie , en Lybie , au Yémen , au Bahreïn et , dans une moindre mesure , en Tunisie ( il se pourrait d' ailleurs que les relatives avancées en Tunisie –même si rien n' est encore gagné en termes de démocratisation réelle – soient un écran quant aux échecs de tous les autres pays ) .
+Si l' énergie des soulèvements veut se transformer en force révolutionnaire , il faut que les voix que l' on entend sur la place de la Libération ( Midân at - Tahir ) disent <TIMEX3 tid="t243" type="DATE" value="PRESENT_REF">désormais</TIMEX3> davantage que leur espérance de la fin du régime mais détermine plus lucidement et plus clairement les priorités nationales et régionales de leur résistance .
+La mobilisation populaire est nécessaire , alors que le projet révolutionnaire reste encore à établir et à faire .
+Pourquoi aucun avocat n' a - t
+- il depose un recours devant le Tribunal Administratif , demandant l' invalidation de la nomination du " President interimaire " et des Ministres qu' il a nommes ?
+<TIMEX3 tid="t244" type="DATE" value="2013-07-10">10 juillet</TIMEX3> @02h13 «
+Pourquoi aucun avocat n' a - t
+- il depose un recours devant le Tribunal Administratif , demandant l' invalidation de la nomination du " President interimaire " et des Ministres qu' il a nommes ?
+Probablement parce que ça relève de la cour constitutionnelle , dont le président est justement le président intérimaire qui ne peut qd même s' auto invalider .
+Et ensuite parce que avant la nomination en question la constitution à <TIMEX3 tid="t246" type="DATE" value="2013-SU">été</TIMEX3> suspendue .
+Il faut être bien naif ou hypocrite pour s' en remettre à une armée aussi corrompue et aussi anti-démocratique pour " sauver la démocratie " .
+Rappeler vous que le scénario que je défendais était la démission de Morsi .
+Qui aurait permis à l' armée de rester dans ses casernes .
+Ce qui se déroule devant nos yeux est votre scénario , c' est à vous de vous expliquer : Avec l' ultimatum de l' armée , les millions de signatures pour le départ de Morsi et les millions à la place Tahrir et ailleurs comment avez vous pensé que ça allait finir ?
+En fiesta générale .
+Personne ne peut nier que Tariq Ramadan fait preuve d' une certaine finesse dans ses analyses , mais je maintiens que , malgré ses critiques qui sont bien réelles , on sent une certaine indulgence pour les frères musulmans .
+On peut penser que les FM ont mal compris la changement de paradigme après la chute de Moubarak que , quelque part , ils étaient eux aussi une survivance de l' ancien régime , et qu' il n' ont pas su passé du rôle ( plutôt habile ) d' opposants officiels à celui de force du changement …
+Ils ne sont pas un bloc certes ( mais leur direction semble quand même assez unis ) mais les membres les plus critiques et les plus « progressistes » ont souvent quitté les FM …
+Sinon la sous estimation de la question sociale biaise les analyses et que , s' il ne faut pas le surestimer , le rôle de l' Arabie Saoudite et du Qatar n' a pas été non plus négligeable … Quant à penser que l' armée est intervenu pour rétablir le calme
+… si je ne crois pas qu' ils ont manipulé de bout en bout les foules de manifestants anti Morsi ( bien que pour une fois les chiffres de la police étaient supérieurs à ceux des organisateurs des manifs … ) , il s' agissait bien d' un prétexte pour reprendre la main … Et je ne suis pas sur que massacrer des manifestants , même un peu agressif , ce qui n' est pas sur d' ailleurs , soit le meilleur moyen de rétablir l' ordre …
+on peut se demander si une partie de l' armée ne choisit pas la politique du pire afin de pousser à la guerre civile et de reprendre tout le pouvoir au nom de la sécurité nationale , écartant ainsi les « révolutionnaire » qui se retrouveraient dans le rôle d' idiots utiles des militaires … Je ne suis pas certain que cela releve de la Cour Constitutionnelle .
+Ce n' est pas elle qui avait invalide la loi electorale , provoquant de facto l' invalidation de l' election des deputes .
+Quant a la suspension de la Constitution : de quel droit ?
+• Le site
+antiwar.com d' <TIMEX3 tid="t247" type="DATE" value="2013-07-07">hier</TIMEX3> signale que le général Al
+- Sissi , qui a fait le coup d' Etat en Egypte , a fréquenté l' Army War College de Carlisle en Pennsylvanie .
+[ D' après l' auteur de l' article , cela se passait en <TIMEX3 tid="t248" type="DATE" value="2006">2006</TIMEX3> et Al
+- Sissi avait déjà une étoile de général ] .
+L histoire nous montre que les états unis d Amérique sont les promoteurs de leurs intérêts dans le monde , Iraq , Afghanistan , Egypte , Libye .
+Ils ont attaque l Iraq pour le petrole , la libye pour ne pas rater les contrats juteux d apres qaddafi via Cameron , et enfin l Egypte dont ils manipulent les généraux de l armée a coup de milliard de dollars .
+Mais la question est : ou est la démocratie tant défendu a coup de canon par les USA en Iraq .
+Wikileaks et Snowden sont WANTED parce que ils diffusent les programmes reelles , illegales adoptes par l armée US et les services d espionnage .
+Pire ils espionnent même leurs allies européens .
+Semer le désordre dans le monde arabo musulman va dans les années a venir couter très cher aux USA .
+Je crains pour l Egypte , un scenario a l algérienne , palestinienne ou la guerre civile fratricide a fait d énormes dégâts parfois irréparables .
+L avance technologique et militaires ne sera pas éternelle et il faudra s attendre a une course a la technologie militaire et atomique de la part des pays arabo musulman dans les années a venir .
+PS : Bon Ramadan a tous ceux qui sont concernes !
+Pour en revenir à la question de Ph .
+Arnaud sur une éventuelle " arrivée au pouvoir de l' extrême droite " .
+Pour rappel , cela a faillit être le cas .
+Les français sont sortis dans la rue , et on été obligés , quel que soit leur idéologie , à voter pour un candidat de droite !
+Par ailleurs , il y a , je crois , des villes françaises qui sont gouvernés par l' étrême droite et , de maniére générale , le populisme a le vent en poupe dans quasiment tous les pays européens , comme l' illustre le massacre de Breivik .
+On note aussi , la contagion du discours de cette idéologie chez beaucoup de politiciens et d' acteurs publics , surtout dans la sur-enchére de l' islamo - phobie .
+Cependant , la comparaison avec les FM est boiteuse , parceque les populistes occidentaux détestent les étrangers , surtout les musulmans , et que l' éthique de l' islam est universaliste , syncrétique ( " nous vous avons créés en tribus multiples , afin que vous vous connaissiez ... ' ) .
+Bref , on accuse les fm d' Egypte , non pas sur ce qu' ils ont fait , mais sur ce qu' ils pourraient faire .
+Ici la part du fantasme est déterminante , aggravée par le mauvais traitement médiatique de l' islam en général .
+C' est cette vision faussée , unilatérale , qui laissent les mains libres aux pires des régimes de persécuter des musulmans , comme en Birmanie .
+Ils savent que l' indignation est à géométrie variable .
+En lisant vos commentaires au sujet de la position de T. Ramadan , je pense finalement que je me méfie tellement des critiques complétement malhonnêtes qu' on lui fait en France que j' en viens personellement à me braquer sur les critiques honnêtes et sans arrière-pensées qu' on pourrait lui faire .
+Alors pour vous répondre , oui peut-être que T. Ramadan est plutôt indulgent envers les Frères Musulmans ( même si je ne vois pas en quoi ) .
+Tant qu' on est d' accord sur le fait que ça n' implioque aucun jugement de valeur ( pas comme dans un média français où on en profiterait pour le traiter d ' " islamiste " ) , ma foi , pourquoi pas .
+J' avoue sans problème être moi-même plus encline à l' indulgence envers les FM qu' envers les laïcs ou plutôt les laïcistes ( je ne peux pas faire de tort aux laïcs arabes qui sont respectueux et vraiment démocrates ) , et ceci est lié à la réalité du " laïcisme " dans les dictatures arabes .
+Car le monde arabe n' a pas la même histoire par rapport à la laïcité que le monde occidental : en Occident on persiste à expliquer que les arabes devraient adorer les " laïcs " ( laïcistes ) , que vriament on ne comprend pas pourquoi ils n' ont pas plus de soutien ...
+Tout cela en faisant fi des compromissions de certains laïcistes , de leur tendance à l' autoritarisme et à la répression sauvage envers ce qu' ils appelent les " barbus " , en niant l' instrumentalisation de la laïcité par les dictatures arabes , et enfin en oubliant l' histoire de ce concept dans le monde arabe , c'est-à-dire le fait de son exportation par le biais de la colonisation .
+C' est très juste , les reproches concernant des sujets liés de près ou de loin à l' Islam portent souvent sur les intentions qu' on lui prête plutôt que la réalité .
+Ces reproches en disent plus long sur leurs auteurs que sur l' objet de leurs critiques .
+Je me souviens par exemple en <TIMEX3 tid="t249" type="DATE" value="2011">2011</TIMEX3> ou 2012 d' un article dont le titre était en substance : " Les islamistes sont ' modérés ' lorsqu' ils n' ont pas le pouvoir et changent lorsqu' ils le prennent " .
+Procès d' intention !
+Je ne suis pas certain que cela releve de la Cour Constitutionnelle .
+Ce n' est pas elle qui avait invalide la loi electorale , provoquant de facto l' invalidation de l' election des deputes .
+Quant a la suspension de la Constitution : de quel droit ?
+Si ça ne relève pas de la cour constitutionnelle ça doit relever moins du tribunal administratif .
+Je ne veux pas prendre le fauteuil de qqun qui défend l' armée , je suis tout simplement opposé aux FM non à cause de ce qu' ils sont )
+j' ai été un de leur plus grands défenseurs sur ce blog ) mais d' avoir trahi les espoirs des jeunes et de la révolution .
+Ceci dit , est ce que l' armée avait le droit de suspendre la constitution ?
+La réponse est non , mais elle le fait peut être pour éviter un bain de sang .
+Mais au lieu de débattre sur ces question à mon avis sans intérêt pourquoi personne ne répond à la question suivante : que ce serait il passé si l' armée n' était pas intervenu ?
+Disons qu' une bonne partie du peuple était pour le maintien de Morsi et une autre partie voulait le contraire .
+Et ces parties commençaient à s' affronter et il y' avait déjà des morts une quinzaine en <TIMEX3 tid="t254" type="DURATION" value="P3D">3</TIMEX3> ou <TIMEX3 tid="t253" type="DURATION" value="P4D">4 jours</TIMEX3> .
+Comment vous pensez que ça allait finir ?
+Comment selon vous sans l' instauration d' une situation d' exception par la suspension de la constitution pensez vous régler une telle situation ?
+Et si vous étiez l' armée que feriez vous ?
+Rien ?
+Et si le nombre de victimes des deux côtés avait atteint 100 , <TIMEX3 tid="t255" type="DATE" value="1000">1000</TIMEX3> ou plus , vous ne feriez rien ?
+Alors mettons 50 000 vous ne feriez rien ?
+Arrivera t il un moment où vous vous donneriez ce droit de suspendre la constitution ?
+Une solution " à l' algérienne " se profile derrière cette alliance du sabre et du procureur général : La justice égyptienne ordonne l' arrestation du chef des Frères musulmans - ÉGYPTE - FRANCE 24 ... contre le goupillon " une quinzaine de morts en <TIMEX3 tid="t259" type="DURATION" value="P3D">3</TIMEX3> ou <TIMEX3 tid="t258" type="DURATION" value="P4D">4 jours</TIMEX3> "
+L' armee en fait 50 en une seule journee !
+Vous trouvez que c' est mieux ?
+Le risque est <TIMEX3 tid="t260" type="DATE" value="PRESENT_REF">maintenant</TIMEX3> de voir une partie des Freres tomber dans le terrorisme ...
+Rabbena yostor , dirait - on en Egypte
+Coup d' état ou complot américain , armée ou alliés de l' ancien régime , il y avait bien une quinzaine de millions d' égyptiens dans les rues , réclamant le départ du Président Morsi .
+Le bilan de Morsi est absolument accablant , et même ceux qui l' ont soutenu un temps sont perplexes devant tant d' incompétence et de manque de vision politique .
+Les égyptiens sont dans une logique de révolution , et ce n' est pas parce que des élections libres ont eu lieu il y a une douzaine de mois , que cette logique perd toute légitimité .
+Allez dire aux égyptiens qu' après les sacrifices et l' euphorie du changement , il faut attendre <TIMEX3 tid="t261" type="DURATION" value="P3Y">trois ans</TIMEX3> pour se débarrasser d' un président qui n' a pratiquement tenu aucune de ses promesses électorales et a exacerbé les tensions entre les différentes composantes de la société égyptienne .
+Sans parler de l' effondrement économique du pays qui a enfoncé les classes populaires encore plus bas .
+<TIMEX3 tid="t262" type="DATE" value="2013-07-10">10 juillet</TIMEX3> @20h18
+« » " une quinzaine de morts en <TIMEX3 tid="t266" type="DURATION" value="P3D">3</TIMEX3> ou <TIMEX3 tid="t265" type="DURATION" value="P4D">4 jours</TIMEX3> "
+L' armee en fait 50 en une seule journee !
+Vous trouvez que c' est mieux ?
+Le risque est <TIMEX3 tid="t267" type="DATE" value="PRESENT_REF">maintenant</TIMEX3> de voir une partie des Freres tomber dans le terrorisme ...
+Rabbena yostor , dirait - on en Egypte Je ne trouve pas que c' est mieux , vous essayez de me faire dire ce que je n' ai pas dit .
+J' ai défendu l' idée de la démission de Morsi et non son renversement par l' armée , ce sont deux choses différentes .
+Je suis certain que si Morsi avait démissionné ça aurait été mieux .
+Vous n' êtes pas d' accord ?
+Pourquoi vous ne voulez pas répondre à ma question , comme Sarah d' ailleurs , alors je vous la reformule : Puisque Morsi n' a pas démissionné , et que les affrontements entre les pour et contre Morsi semblaient s' acheminer vers le pire comment auriez vu le dénouement de cette situation sans l' intervention de l' armée ?
+Si vous étiez à la place de l' armée , assisteriez vous en spectateur tout simplement aux affrontements entre ces deux clans ?
+Prendriez vous une telle responsabilité ?
+Ce sont qd même des questions simples , allez ! !
+Je suis tout à fait d' accord avec vous .
+Les égyptiens sont dans une logique de révolution , et ce n' est pas parce que des élections libres ont eu lieu il y a une douzaine de mois , que cette logique perd toute légitimité .
+Allez dire aux égyptiens qu' après les sacrifices et l' euphorie du changement , il faut attendre <TIMEX3 tid="t268" type="DURATION" value="P3Y">trois ans</TIMEX3> pour se débarrasser d' un président qui n' a pratiquement tenu aucune de ses promesses électorales et a exacerbé les tensions entre les différentes composantes de la société égyptienne .
+Sans parler de l' effondrement économique du pays qui a enfoncé les classes populaires encore plus bas .
+Il qd même ahurissant de voir ces bon pensant qui ne sont même pas foutu de répondre à une question aussi simple que celle qu' est ce que vous auriez fait si vous étiez à la place de l' armée puisque Morsi après avoir déçu a fait descendre des millions dans les rues qui ne veulent rien savoir d' autre que son départ .
+Je rappelle que je posais ces question à Sarah , Nathan & co avant l' échéance du fameux ultimatum de <TIMEX3 tid="t271" type="DURATION" value="P2D">48 heures</TIMEX3> .
+Tout ce qu' il demande c' est que Morsi reste puisqu' il a été élu , l' autre partie du peuple : les déçu ce n' est pas leur problème , les affrontements non plus ce n' est pas leur problème .
+Des questions qu' on ne se pose pas qd on se dit progressiste .
+Super .
+On a trouvé un sphinx datant de min <TIMEX3 tid="t272" type="DATE" value="2500">2500</TIMEX3> a.c .
+durant une excavation dans la Galilée .
+Les Egyptiens vont pouvoir revendiquer l' endroit ..... et les ethnocentrée ( suivez mon regard ) vont nous ' expliquer ' que la civilisation pharaonique fut juive ....
+Exclusive : US bankrolled anti
+- Morsi activists
+Documents reveal US
+money trail to Egyptian groups that pressed
+for president' s removal .
+The Salvation
+Front main
+opposition bloc , of which some members received US funding , has backed street protest campaigns that turned violent against the elected government , in contradiction of many of the State Department' s own guidelines A longtime grantee of the National Endowment for Democracy and other US democracy groups is a 34-year old Egyptian woman , Esraa Abdel
+- Fatah , who sprang to notoriety during the country' s pitched battle over the new constitution in December <TIMEX3 tid="t273" type="DATE" value="2012">2012</TIMEX3> .
+She exhorted activists to lay siege to mosques and drag from pulpits all
+Muslim preachers and religious figures
+who supported
+the country' s the proposed constitution , just before it went to a public referendum .
+The act of besieging mosques has continued ever since , and several people have died in clashes defending them .
+Federal records show Abdel
+- Fatah' s NGO , the Egyptian Democratic Academy , received support from NED , MEPI and NDI , among other State Department
+- funded groups " assisting democracy " .
+Records show
+NED gave
+her organisation a one - year $ 75,000 grant in <TIMEX3 tid="t274" type="DATE" value="2011">2011</TIMEX3> .
+À la « une »
+Le Monde diplomatique
+</TimeML>
+

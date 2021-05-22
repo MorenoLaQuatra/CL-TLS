@@ -1,6 +1,6 @@
 # CL-TLS
 
-Data collection and resulting timelines for the paper **Cross-lingual timeline summarization**. Currently under review.
+ML-Crisis data collection for the paper **Cross-lingual timeline summarization**. Currently under review.
 
 ## Data Collection - ML-Crisis
 

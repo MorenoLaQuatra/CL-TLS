@@ -1,0 +1,25 @@
+Collegamenti ad aree di contenuto della pagina var d_names = new Array("Domenica " , " Lunedì " , " Martedì " , " Mercoledì " , " Giovedì " , " Venerdì " , " Sabato " ) ;
+var m_names = new Array("Gennaio " , " Febbraio " , " Marzo " , " Aprile " , " Maggio " , " Giugno " , " Luglio " , " Agosto " , " Settembre " , " Ottobre " , " Novembre " , var d = new Date ( ) ;
+var minutes = d.getMinutes ( ) ;
+if ( minutes < 10){minutes = " 0"+minutes ; } document.write('<strong > ' + d_names[d.getDay ( ) ] + ' , ' + d.getDate ( ) + ' ' + m_names[d.getMonth ( ) ] + ' ' + d.getFullYear ( ) + ' < /strong > ' ) ;
+document.write ( ' | < em class="hour " > ' + d.getHours ( ) + ' :
+' + minutes + ' < /em > ' ) ;
+ti trovi qui :
+Grecia :
+morto Dertilis , l'ultimo dei colonnelli in prigione Aveva 92 anni ed aveva rifiutato la scarcerazione 29 gennaio , 18:02 ( di Furio Morroni ) - ( ANSAmed ) - ATENE , 29 GEN - Inflessibile sino alla fine , anche con se stesso .
+Cosi ' ha vissuto ed e ' morto ieri ad Atene per un'ischemia cerebrale Nikolaos Dertilis , 92 anni , l'ultimo dei protagonisti del colpo di Stato del 21 aprile 1967 in Grecia che - per sua volonta ' - era ancora detenuto .
+Dertilis , un ex colonnello dell'esercito , per " motivi di principio " , come egli stesso sosteneva , ha sempre rifiutato di firmare la domanda di scarcerazione alla quale aveva diritto a causa dell'eta ' avanzata e delle non buone condizioni di salute .
+Lo scorso dicembre aveva inoltre respinto il permesso speciale che gli era stato accordato dal ministero della Giustizia per prendere parte ai funerali del figlio Vassilis morto all'eta ' di 62 anni .
+Dertilis era stato condannato all'ergastolo per l'uccisione del ventenne Mihalis Myroyiannis durante la rivolta degli studenti del Politecnico di Atene che porto ' alla caduta del regime dei colonnelli nel 1974 .
+Il 21 aprile 1967 , poche settimane prima delle elezioni politiche , alcuni ufficiali di destra dell'esercito - tra cui il tenente generale Stylianos Pattakos ( 100 anni , da quasi cinque in coma irreversibile ) e i colonnelli Giorgos Papadopoulos , Nikos Makarezos e Dimitrios Ioannidis - mettendo in atto le direttive del ' Piano Prometeo ' predisposto dalla Nato per contrastare eventuali turbolenze interne , fecero un golpe defenestrando l'allora premier Panagiotis Kanellopoulos e imponendo alla Grecia una dittatura militare durata sette anni .
+La giustificazione ufficiale dei golpisti fu che una " cospirazione comunista " aveva eroso il sistema politico , l'Universita ' , la stampa e addirittura , sostenevano , le stesse forze armate .
+L'intervento dell'esercito - secondo loro - si era reso necessario per riportare l'ordine nel Paese .
+Dopo la caduta del regime , tutti i protagonisti furono condannati all'ergastolo .
+A Dertilis vennero comminati altri 20 di carcere per l'assassinio del giovane Myroyiannis .
+I giudici lo condannarono in base alla testimonianza del suo autista che giuro ' di aver visto l'allora colonnello Dertilis estrarre la pistola dalla fondina e sparare a sangue freddo contro lo stidente .
+Dertilis , figlio di un generale dell'esercito , era stato prigioniero dei tedeschi durante l'occupazione nazista della Grecia .
+In seguito aveva preso parte alla guerra civile come ufficiale dell'esercito e , agli ordini del generale Giorgio Grivas , il fondatore e capo del gruppo di resistenza cipriota ' Eoka ' , aveva partecipato poi alla lotta per l'indipendenza di Cipro dalla Gran Bretagna .
+Lo Stato greco ha cercato piu ' volte - senza successo - di facilitare la scarcerazione dell'ex colonnello golpista per motivi di salute e ben tre governi , tramite intermediari , avevano suggerito a Dertilis di firmare la domanda di grazia per dare l'opportunita ' alle autorità di scarcerarlo .
+Anche Pattakos , scarcerato e messo agli arresti domiciliari , aveva cercato inutilmente di convincere il vecchio collega a firmare quella richiesta .
+" E ' piu ' probabile che cada neve nera oppure che il sole sorga a Occidente piuttosto io firmi un foglio privo di legalita ' " , era stata la risposta dell'irremovibile Dertilis .
+Il sistema informativo sulle opportunità di business all'estero Unione Europea e Mediterraneo Ministero degli affari esteri Cooperazione e imprese italiane nel Mediterraneo e il Golfo News dal Mediterraneo © Copyright 2010 ANSAmed Contatti | Disclaimer | Privacy | Modifica consenso Cookie | Copyright

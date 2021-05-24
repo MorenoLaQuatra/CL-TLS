@@ -1,0 +1,51 @@
+Siria, Damasco: "Esercito controlla gran parte di Aleppo Est". 10mila civili in fuga
+Dopo la riconquista del quartiere di Hanano, l'esercito fedele al governo siriano, sostenuto da russi e miliziani sciiti, hanno strappato ai ribelli il controllo del quartiere di al-Sakhour. L'Aleppo Media Center, una piattaforma di giornalisti presenti nella zona orientale e vicini alle opposizioni, afferma che sono ancora in corso combattimenti dentro e fuori Sakhur. Secondo gli analisti, gli oppositori potrebbero rimanere assediati in due sacche, nei quartieri che restano sotto il loro controllo
+Dopo la riconquista del quartiere di Hanano, l'esercito fedele al governo siriano, sostenuto da russi e miliziani sciiti, hanno strappato ai ribelli il controllo del quartiere di al-Sakhour, situato nella parte orientale di Aleppo, città nel nord della Siria. Lo ha riferito la tv di Stato di Damasco, citando una fonte militare. La notizia è stata confermata da attivisti, raggiunti telefonicamente dal Ilfattoquotidiano.it, che si trovano nei quartieri assediati e che hanno riferito di un "numero imprecisato di sfollati in fuga dai combattimenti". Mentre l'Aleppo Media Center, una piattaforma di giornalisti presenti nella zona orientale e vicini alle opposizioni, afferma che sono ancora in corso combattimenti dentro e fuori Sakhur. Secondo gli analisti, le forze dell'opposizione siriana rischiano di finire divise in due sacche assediate.
+Ieri, l'esercito lealista ha riconquistato altri due quartieri di Aleppo, quelli di Hanano e Jabal Badro. L'offensiva dei militari di Damasco su Aleppo est va avanti da circa due settimane. Secondo l'Osservatorio siriano per i diritti umani, tutta la zona settentrionale dell'area di Aleppo est controllata dai ribelli, dopo la riconquista di al-Sakhur, è tornata sotto il controllo delle forze lealiste. I ribelli, ha precisato il direttore dell'Osservatorio, Rami Abdel-Rahman, hanno perso da sabato il 30% dei loro territori, in quello che è il peggior rovescio militare da quando, nel 2012, hanno preso il controllo della parte orientale della seconda città più importante del Paese.  Le difese dei ribelli nella parte settentrionale della loro enclave – hanno raccontato alcuni attivisti – sono crollate improvvisamente dopo aver resistito a cinque mesi di assedio da parte di governativi, interrotto solo da una breve offensiva durata poche settimane ad agosto.
+Sempre l'Osservatorio, ha riferito che sono stati uccisi almeno 219 civili, tra i quali 27 bambini, mentre circa 10mila civili sono fuggiti dalla periferia orientale della città siriana, dopo che l'esercito ha ripreso il controllo. Gli sfollati hanno raggiunto zone della città sotto il controllo delle Forze siriane democratiche (Fsd), un'alleanza curda-arabo armata sostenuta dagli Stati Uniti. La Ong ha precisato che circa 6.000 civili sono fuggiti da Aleppo orientale al quartiere Shaykh Maqsud, nel nord, controllato da Fsd, mentre altre 4mila persone circa si sono spostate in zone nelle mani delle forze governative.
+Il Fatto Internazionale - Le notizie internazionali dalle principali capitali e il dossier di Mediapart
+Sostieni ilfattoquotidiano.it: mai come in questo momento
+abbiamo bisogno di te.
+In queste settimane di pandemia noi giornalisti, se facciamo con coscienza il nostro lavoro,
+svolgiamo un servizio pubblico. Anche per questo ogni giorno qui a ilfattoquotidiano.it siamo orgogliosi
+di offrire gratuitamente a tutti i cittadini centinaia di nuovi contenuti: notizie, approfondimenti esclusivi,
+interviste agli esperti, inchieste, video e tanto altro. Tutto questo lavoro però ha un grande costo economico.
+La pubblicità, in un periodo in cui l'economia è ferma, offre dei ricavi limitati.
+Non in linea con il boom di accessi. Per questo chiedo a chi legge queste righe di sostenerci.
+Di darci un contributo minimo, pari al prezzo di un cappuccino alla settimana,
+fondamentale per il nostro lavoro.
+Diventate utenti sostenitori cliccando qui.
+GRAZIE PER AVER GIÀ LETTO XX ARTICOLI QUESTO MESE.
+Ora però siamo noi ad aver bisogno di te.
+Perché il nostro lavoro ha un costo.
+Noi siamo orgogliosi di poter offrire gratuitamente a tutti i cittadini centinaia di nuovi contenuti ogni giorno.
+Ma la pubblicità, in un periodo in cui l'economia è ferma, offre ricavi limitati.
+Non in linea con il boom accessi a ilfattoquotidiano.it.
+Per questo ti chiedo di sostenerci, con un contributo minimo, pari al prezzo di un cappuccino alla settimana.
+Una piccola somma ma fondamentale per il nostro lavoro. Dacci una mano!
+Diventa utente sostenitore!
+Francia, sondaggi: Fillon vincerebbe alla grande su Marine Le Pen. Per il presidente Hollande sarebbe un disastro
+Cronache dal Niger: cari portatori della cosiddetta civiltà, non ci avrete mai come sudditi
+Gentile lettore, la pubblicazione dei commenti è sospesa dalle 20 alle 9, i commenti per ogni articolo saranno chiusi dopo 72 ore, il massimo di caratteri consentito per ogni messaggio è di 1.500 e ogni utente può postare al massimo 150 commenti alla settimana. Abbiamo deciso di impostare questi limiti per migliorare la qualità del dibattito. È necessario attenersi Termini e Condizioni di utilizzo del sito (in particolare punti 3 e 5): evitare gli insulti, le accuse senza fondamento e mantenersi in tema con la discussione. I commenti saranno pubblicati dopo essere stati letti e approvati, ad eccezione di quelli pubblicati dagli utenti in white list (vedere il punto 3 della nostra policy). Infine non è consentito accedere al servizio tramite account multipli. Vi preghiamo di segnalare eventuali problemi tecnici al nostro supporto tecnico
+"Manutenzioni? Più passava il tempo meno facevamo, così distribuiamo più utili. La famiglia era contenta". Autostrade, così parlava il braccio destro dei Benetton
+Gentiloni: "Possibile prorogare la sospensione del Patto di stabilità anche nel 2022". Lagarde: "C'è rischio di effetto domino nei fallimenti"
+Discoteche in Sardegna, il Cts disse no alla riapertura decisa dalla Regione a cavallo di Ferragosto
+© 2009 - 2020 SEIF S.p.A. - C.F. e P.IVA 10460121006
+// INIT FB Pixel when global var initADV is set to true or when global event gdpr-initADV GETS FIRED
+var loadAsyncFB = function(){
+!function (f, b, e, v, n, t, s) {
+n = f.fbq = function () {
+n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+f._fbq = n;
+n.push = n;
+n.loaded = !0;
+n.version = '2.0';
+n.queue = [];
+t = b.createElement(e);
+t.async = !0;
+t.src = v;
+s = b.getElementsByTagName(e)[0];
+}(window, document, 'script', '//connect.facebook.net/it_IT/fbevents.js');
+} else {
+} else {
+document.addEventListener('gdpr-initADV', loadAsyncFB, false);

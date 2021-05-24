@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+L'Egitto ha una nuova Costituzione
+Che cosa prevede il testo <TIMEX3 tid="t1" type="DATE" value="PRESENT_REF">ora</TIMEX3> ufficialmente approvato dal referendum e contestato dagli oppositori del presidente Morsi L'Egitto ha una nuova Costituzione .
+Nel referendum che si è tenuto <TIMEX3 tid="t3" type="DATE" value="2012-12-15">il 15</TIMEX3> e <TIMEX3 tid="t2" type="DATE" value="2012-12-22">il 22 dicembre</TIMEX3> la bozza redatta dai sostenitori del presidente Muhammad Morsi e dai Fratelli Musulmani è stata approvata dal 63,8 per cento degli elettori .
+<TIMEX3 tid="t5" type="DATE" value="PRESENT_REF">Ora</TIMEX3> ci si aspetta che Morsi indica nuove elezioni parlamentari nei <TIMEX3 tid="t6" type="DURATION" value="P2M">prossimi due mesi</TIMEX3> , così da eleggere un Parlamento legittimato dalla nuova Costituzione .
+<TIMEX3 tid="t8" type="DATE" value="PRESENT_REF">Per il momento</TIMEX3> i poteri legislativi conferiti al presidente , relativi soprattutto all'emanazione di decreti legge , sono stati trasferiti alla camera alta del Parlamento , il Consiglio della Shura .
+Anche l'efficacia dei decreti precedenti è sospesa :
+in teoria la cosa vale anche per quelli che hanno tolto il potere a Hosni Mubarak e per quelli emanati dal consiglio militare prima dell'elezione di Morsi , ma non ci si aspettano grandi stravolgimenti istituzionali .
+Verrà rivista anche la composizione della Corte Suprema , che passerà da 19 a 10 membri , e nei <TIMEX3 tid="t10" type="DURATION" value="PXD">prossimi giorni</TIMEX3> il presidente Morsi dovrebbe annunciare chi sarà il suo nuovo presidente .
+La nuova Costituzione è stata contestata per <TIMEX3 tid="t12" type="DURATION" value="PXW">settimane</TIMEX3> dai movimenti laici , di sinistra e cristiani e dall'opposizione ai Fratelli Musulmani ( che appoggiano Muhammad Morsi ) , e si è anche parlato di brogli e irregolarità nelle operazioni di voto .
+Il presidente del comitato per le elezioni , Samir Abu al - Matti , ha detto che la commissione « ha indagato seriamente su ogni denuncia » senza riscontrare problemi .
+L'affluenza è stata relativamente bassa :
+sono andati a votare il 32,9 per cento dei 52 milioni di cittadini aventi diritto al voto .
+Morsi ha sempre sostenuto che questa nuova Costituzione ( qui il testo integrale in inglese ) offre sufficiente protezione alle minoranze del paese e che adottarla in fretta avrebbe aiutato il paese a mettersi alle spalle <TIMEX3 tid="t14" type="DURATION" value="P2Y">due anni</TIMEX3> di tumulti e incertezza politica che hanno avuto pesanti conseguenze sull'economia .
+I suoi oppositori sostengono che il testo si basa troppo sulla sharia , la legge islamica , e non tutela adeguatamente una serie di diritti civili , soprattutto nei confronti della libertà religiosa e delle donne .
+Per <TIMEX3 tid="t15" type="DURATION" value="PXD">giorni</TIMEX3> i sostenitori e gli oppositori di Morsi hanno manifestato nelle principali città dell'Egitto , soprattutto al Cairo , e i cortei hanno avuto spesso dei momenti di tensione e violenza .
+Dopo il risultato del voto i gruppi di opposizione non hanno indetto altre manifestazioni , anche se <TIMEX3 tid="t16" type="DATE" value="2012-12-25">ieri</TIMEX3> alcune donne per protesta si sono tagliate i capelli in strada .
+I lavori per la nuova Costituzione sono iniziati a <TIMEX3 tid="t17" type="DATE" value="2012-03">marzo</TIMEX3> , ma le sedute sono state rallentate dopo una sentenza di un tribunale che in <TIMEX3 tid="t18" type="DATE" value="2012-04">aprile</TIMEX3> aveva sciolto la prima Assemblea Costituente che stava elaborando il testo , per una prevalenza ingiustificata al suo interno dei membri islamici , vicini al presidente .
+La nuova Assemblea Costituente è stata formata a <TIMEX3 tid="t21" type="DATE" value="2012-06">giugno</TIMEX3> , dopo accordi tra le due parti politiche che hanno deciso di inserire alcuni rappresentanti delle forze armate , del sistema giudiziario , dei sindacati :
+nonostante questo però , i liberali e i cattolici hanno continuato a lamentarsi della distribuzione dei seggi , tanto che negli <TIMEX3 tid="t22" type="DURATION" value="PXM">ultimi mesi</TIMEX3> i membri di questi gruppi non hanno voluto prendere parte ai lavori , lasciando così un ampio margine di vantaggio ai gruppi musulmani durante le votazioni finali .
+I 100 membri dell'Assemblea Costituente , in base a un decreto deciso da Morsi <TIMEX3 tid="t26" type="DATE" value="2012-11-22">il 22 novembre scorso</TIMEX3> , avevano tempo di approvare il nuovo testo costituzionale fino al <TIMEX3 tid="t25" type="DATE" value="2013-01">gennaio prossimo</TIMEX3> :
+ma dopo che la Suprema Corte Costituzionale aveva annunciato una causa di legittimità sull'assemblea , i gruppi che appoggiano il presidente hanno deciso di votare la Costituzione in tutta fretta , prima che fosse stata emessa una sentenza al riguardo .
+Da questa decisione sono poi stati organizzati una serie di scioperi da parte dei membri dell'autorità giudiziaria che ha chiesto ai propri iscritti di boicottare il voto .
+Una posizione rivista <TIMEX3 tid="t31" type="DATE" value="2012-12-03">il 3 dicembre scorso</TIMEX3> , quando il Consiglio Superiore della Magistratura egiziano ha nominato alcuni giudici a svolgere i controlli nei seggi , per monitorare il corretto andamento delle operazioni di voto .
+Proprio per la mancanza di giudici nei seggi il governo ha deciso di organizzare il referendum nell'arco di <TIMEX3 tid="t34" type="DURATION" value="P2D">due giorni</TIMEX3> .
+Il testo della nuova Costituzione egiziana si ispira , in molti suoi articoli , ai principi della sharia , la legge basata sulla religione islamica .
+Tra le novità più importanti ci sono il mandato del presidente , che passa da <TIMEX3 tid="t36" type="DURATION" value="P6Y">sei</TIMEX3> a <TIMEX3 tid="t35" type="DURATION" value="P4Y">quattro anni</TIMEX3> con la possibilità di essere rieletto una sola volta ( prima non c'erano limiti ) , oltre alla previsione di nuove modalità di controllo da parte della società civile sul sistema militare .
+L'associazione internazionale Human Rights Watch ha detto più volte di essere preoccupata per i limiti che sono stati introdotti sulla libertà d'espressione , sulla libertà religiosa e riguardo i diritti delle donne .
+Il testo , comunque , prevede e tutela da parte dello Stato che i luoghi di culto di tutte le religioni siano rispettati , compresi quelli di ebrei e cristiani .
+Su questo punto , Human Rights Watch denuncia che la libertà religiosa appare piuttosto limitata in quanto non è stata garantita la libertà di creare luoghi di culto .
+Viene invece garantita la libera manifestazione del pensiero con ogni mezzo , ma è stato scritto , esplicitamente , che è vietato insultare " i profeti " .
+Per quanto riguarda il ruolo delle donne , uno dei punti più contestati dagli oppositori , nel nuovo testo costituzionale non si fa esplicitamente riferimento ai loro diritti :
+non è stato scritto , per esempio , che la donna è giuridicamente in « uno stato di parità con gli uomini nel campo della vita politica , sociale , culturale ed economica » , come era previsto invece nella Costituzione del <TIMEX3 tid="t37" type="DATE" value="1971">1971</TIMEX3> .
+Infine i mezzi di comunicazione :
+nella nuova Costituzione egiziana c'è scritto che non possono essere sospesi né chiusi , a meno che non ci sia un decreto giudiziario che lo stabilisca .
+Questo articolo non è più commentabile .
+Abbonati al Post per commentare le altre notizie .
+</TimeML>
+

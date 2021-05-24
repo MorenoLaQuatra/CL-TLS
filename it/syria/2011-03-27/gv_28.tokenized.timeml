@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+In Siria , i volti del Presidente Bashar al - Assad e di suo padre , l'<TIMEX3 tid="t1" type="DATE" value="PAST_REF">ex</TIMEX3> Presidente Hafez al - Assad , si vedono regolarmente sui tabelloni pubblicitari , sugli edifici e sotto forma di statue .
+Chi visita il Paese è spesso sorpreso dalla prevalenza di queste immagini , mentre i siriani , abituati dalla nascita a queste rappresentazioni , le considerano parte della vita di <TIMEX3 tid="t2" type="SET" value="P1D" quant="EVERY">tutti i giorni</TIMEX3> .
+<TIMEX3 tid="t3" type="DATE" value="2011-03-26">Ieri</TIMEX3> sono apparsi in rete un certo numero di video nei quali i manifestanti venivano ripresi mentre facevano a pezzi i simboli del regime :
+poster e statue della famiglia Assad , da <TIMEX3 tid="t4" type="DURATION" value="PXY">anni</TIMEX3> al potere nel Paese .
+Questa immagine di Bashar al - Assad , scattata durante una visita a Tartous nel <TIMEX3 tid="t5" type="DATE" value="2009">2009</TIMEX3> , mostra gli anni delle <TIMEX3 tid="t6" type="DATE" value="FUTURE_REF">future</TIMEX3> elezioni presidenziali .
+Il video che segue , caricato da 42Maher , arriva da Dar'a e mostra alcuni dimostranti mentre distruggono una statua di Hafez al - Assad :
+Questo video , caricato ancora da 42Maher e proveniente sempre da Dar'a , mostra un uomo mentre strappa un grande poster dell'<TIMEX3 tid="t7" type="DATE" value="PRESENT_REF">attuale</TIMEX3> Presidente Bashar al - Assad , incitato dai presenti :
+Le proteste si sono ormai estese ben oltre Dar'a in altre città del Paese .
+A Homs è stato fatto a pezzi un poster dell'<TIMEX3 tid="t8" type="DATE" value="PAST_REF">ex</TIMEX3> Presidente Hafez al - Assad ( video per gentile concessione di thehawkofsyria ) :
+Ad Arihah , nella parte nord - ovest della Siria , i manifestanti urlano " Abbasso Bashar al - Assad " ( video caricato da sailor999999990 ) :
+</TimeML>
+

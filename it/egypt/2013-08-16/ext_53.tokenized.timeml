@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+Il " Giorno della rabbia " in Egitto Ci sono stati scontri alle manifestazioni dei Fratelli Musulmani , l'esercito dice che al Cairo sono morte 50 persone <TIMEX3 tid="t3" type="DATE" value="2013-08-16">Venerdì 16 agosto</TIMEX3> i Fratelli Musulmani hanno organizzato una serie di manifestazioni in tutto il paese chiamate " Giorno della rabbia " , dopo l'uccisione di centinaia di persone negli scontri di <TIMEX3 tid="t4" type="DATE" value="2013-08-14">mercoledì 14 agosto</TIMEX3> .
+Al Cairo , migliaia di persone organizzate in diversi cortei si sono concentrate in piazza Ramses , un importante punto di snodo dei trasporti nel centro della città .
+La situazione è peggiorata in breve tempo e intorno alle <TIMEX3 tid="t11" type="TIME" value="2013-08-14T14:00" mod="APPROX">14 ora italiana</TIMEX3> è arrivata la notizia di un poliziotto ucciso al Cairo e alcuni manifestanti uccisi a Ismailia ( sulle rive del canale di Suez ) .
+Dopo il coprifuoco e lo stato di emergenza imposti <TIMEX3 tid="t14" type="DATE" value="2013-08-14">mercoledì</TIMEX3> in diverse province del paese , le forze di sicurezza erano nelle strade con mezzi blindati e posti di blocco già dalle <TIMEX3 tid="t15" type="DURATION" value="PTXH">prime ore</TIMEX3> di <TIMEX3 tid="t13" type="DATE" value="2013-08-16">oggi</TIMEX3> .
+Esponenti dell'esercito avevano dichiarato che eventuali attacchi a strutture governative sarebbero stati respinti dai soldati con le armi .
+( attenzione , alcune immagini sono forti ) Per tutto <TIMEX3 tid="t22" type="TIME" value="2013-08-16TAF">il pomeriggio di oggi</TIMEX3> ci sono stati scontri e testimonianze dell'uso di armi da fuoco in diverse zone del Cairo ( visualizzate qui ) :
+oltre a piazza Ramses , intorno ai ponti del <TIMEX3 tid="t17" type="DATE" value="2013-05-15">15 Maggio</TIMEX3> e del <TIMEX3 tid="t18" type="DATE" value="2013-10-06">6 Ottobre</TIMEX3> , sulle rive del Nilo nel centro della città e vicino a piazza Tahrir .
+Altri scontri sono avvenuti in altre città dell'Egitto .
+I mezzi di comunicazione egiziani sono divisi tra il governo e i militari , <TIMEX3 tid="t24" type="DATE" value="PRESENT_REF">attualmente</TIMEX3> al potere , e l'opposizione , la cui forza più importante è il movimento politico - religioso dei Fratelli Musulmani .
+Come nei <TIMEX3 tid="t27" type="DURATION" value="PXD">giorni scorsi</TIMEX3> , fonti diverse hanno dato numeri molto diversi dei morti negli scontri di <TIMEX3 tid="t26" type="DATE" value="2013-08-16">oggi</TIMEX3> .
+Alcuni giornalisti occidentali hanno parlato di circa quaranta morti nelle strutture di soccorso nei dintorni di piazza Ramses , mentre membri dell'esercito hanno parlato di circa 50 morti in tutta la città tra manifestanti e poliziotti .
+— — —
+<TIMEX3 tid="t28" type="TIME" value="2013-08-16T19:15">19.15</TIMEX3> – È iniziato il coprifuoco in Egitto .
+Alcuni descrivono il Cairo come una " città fantasma " , ma le immagini in diretta delle televisioni egiziane mostrano alcune zone con gruppi numerosi di persone che rimangono in strada nonostante sia calato il buio .
+<TIMEX3 tid="t29" type="TIME" value="2013-08-16T18:50">18.50</TIMEX3> – Piazza Tahrir , il luogo in cui si sono tenute le proteste più importanti del paese a partire da quelle contro Hosni Mubarak , è stata chiusa con mezzi blindati dalle forze di sicurezza .
+Tahrir Square in Cairo empty Friday , guarded by armored vehicles pic.twitter.com/yz3yFPM3EN pic.twitter.com/HzsGd7nML2 — BuzzFeed News ( @BuzzFeedNews ) August 16 , <TIMEX3 tid="t30" type="DATE" value="2013">2013</TIMEX3> <TIMEX3 tid="t32" type="TIME" value="2013-08-16T18:23">18.23</TIMEX3> –
+L'archeologa egiziana Monica Hanna ha creato una pagina Facebook in cui ha raccolto i reperti archeologici del museo di Mallawi , una piccola città a circa 300 chilometri a sud del Cairo , che <TIMEX3 tid="t31" type="DATE" value="2013-08-15">ieri</TIMEX3> sarebbero stati rubati da alcuni manifestanti pro Morsi .
+Secondo il quotidiano egiziano Al - Ahram ( controllato dal Ministero dell'Informazione ) sono stati trafugati più di mille reperti , e un dipendente del Ministero delle Antichità è stato ucciso dai manifestanti .
+Il ministro delle Antichità Mohamed Ibrahim si è detto " molto dispiaciuto " di quanto è accaduto al museo e ai suoi reperti .
+Monica Hanna , in uno degli ultimi aggiornamenti della pagina Facebook , ha scritto che tutti i 49 oggetti che i manifestanti non hanno portato via sono stati bruciati nel corso della <TIMEX3 tid="t33" type="TIME" value="2013-08-15TNI">notte scorsa</TIMEX3> , e che il ministero delle Antichità ha offerto una ricompensa e la promessa di non sporgere denuncia a chi volesse restituire i reperti rubati .
+<TIMEX3 tid="t37" type="TIME" value="2013-08-15T18:04">18.04</TIMEX3> – Per dare un'idea dell'atteggiamento dell'<TIMEX3 tid="t35" type="DATE" value="PRESENT_REF">attuale</TIMEX3> governo egiziano nei confronti dei Fratelli Musulmani , una sua <TIMEX3 tid="t36" type="DATE" value="PAST_REF">recente</TIMEX3> dichiarazione riportata da BBC dice :
+" Il governo , le forze armate , la polizia e il grande popolo dell'Egitto sono uniti nel fronteggiare il malvagio piano terroristico dei Fratelli Musulmani " .
+<TIMEX3 tid="t43" type="TIME" value="2013-08-15T17:58">17.58</TIMEX3> – Sul fronte della diplomazia internazionale , i rapporti tra Turchia ed Egitto sono peggiorati molto negli <TIMEX3 tid="t44" type="DURATION" value="PXD">ultimi giorni</TIMEX3> :
+entrambi i paesi hanno ritirato i loro ambasciatori , con l'Egitto che accusa la Turchia di " interferire con gli affari interni " del paese e il presidente turco Erdogan – sostenitore dell'<TIMEX3 tid="t42" type="DATE" value="PAST_REF">ex</TIMEX3> presidente Morsi – che ha descritto gli avvenimenti degli <TIMEX3 tid="t45" type="DURATION" value="PXD">ultimi giorni</TIMEX3> " un massacro " di manifestanti pacifici .
+<TIMEX3 tid="t50" type="TIME" value="2013-08-15T17:47">17.47</TIMEX3> – Alcuni membri dell'esercito hanno detto che nel corso delle proteste di <TIMEX3 tid="t48" type="DATE" value="2013-08-16">oggi</TIMEX3> al Cairo sono morte <TIMEX3 tid="t49" type="DATE" value="PRESENT_REF">finora</TIMEX3> circa 50 persone , scrive Crispian Balmer di Reuters .
+<TIMEX3 tid="t52" type="TIME" value="2013-08-16T17:21">17.21</TIMEX3> – Il Guardian ha una mappa che mostra le tre zone principali degli scontri di <TIMEX3 tid="t51" type="DATE" value="2013-08-16">oggi</TIMEX3> al Cairo .
+<TIMEX3 tid="t54" type="TIME" value="2013-08-16T17:07">17.07</TIMEX3> – Il giornalista egiziano Sharif Kuddus ha pubblicato su YouTube un video degli scontri di <TIMEX3 tid="t53" type="DATE" value="2013-08-16">oggi</TIMEX3> vicino a piazza Ramses , in cui si sentono bene il suono di colpi di arma da fuoco .
+<TIMEX3 tid="t56" type="TIME" value="2013-08-16T16:59">16.59</TIMEX3> – La televisione di stato egiziana ha mandato in onda un messaggio audio del re saudita Abdullah , che ha detto che il paese è al fianco dell'Egitto nella lotta contro il " terrorismo " :
+una dichiarazione dunque di sostegno all'<TIMEX3 tid="t55" type="DATE" value="PRESENT_REF">attuale</TIMEX3> governo egiziano .
+<TIMEX3 tid="t57" type="TIME" value="2013-08-16T16:50">16.50</TIMEX3> – Gli scontri sono in corso in molte altre zone nel centro del Cairo , oltre a piazza Ramses :
+tra cui le rive del Nilo – si sono sentite esplosioni vicino all'hotel 4 Seasons – e la zona di Al - Jala .
+Smoke pouring from front of 4 Seasons Hotel just on banks of Nile .
+Large crowd .
+Gunfire + explosions # Cairo pic.twitter.com/PjjVPAekKO — Richard Colebourn ( @rcolebourn ) August 16 , <TIMEX3 tid="t58" type="DATE" value="2013">2013</TIMEX3> <TIMEX3 tid="t60" type="TIME" value="2013-08-16T16:50">16.50</TIMEX3> –
+La ricostruzione di quanto successo <TIMEX3 tid="t59" type="DATE" value="2013-08-16">oggi</TIMEX3> in piazza Ramses , nel centro del Cairo , dell'inviato di BBC ( qui , alle <TIMEX3 tid="t61" type="TIME" value="2013-08-16T14:01">14.01</TIMEX3> ) .
+Le dimostrazioni sono cominciate in forma pacifica , poi una stazione di polizia ai margini della piazza è stata presa a sassate .
+Civili che sostenevano i militari si sono scontrati con manifestanti pro - Morsi e da <TIMEX3 tid="t62" type="DATE" value="2013-08-16T14:01">allora</TIMEX3> in poi la situazione è peggiorata velocemente , con lacrimogeni e armi automatiche usate dall'interno della stazione di polizia .
+Gli scontri intorno alla stazione di polizia a piazza Ramses sono stati registrati anche in un video pubblicato dal sito di news El Badil , in cui si vedono uomini in uniforme sul tetto dell'edificio .
+Questo articolo non è più commentabile .
+Abbonati al Post per commentare le altre notizie .
+</TimeML>
+

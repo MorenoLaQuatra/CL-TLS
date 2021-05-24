@@ -1,0 +1,164 @@
+LE ELEZIONI PRESIDENZIALI IN EGITTO , VINCE MORSI .
+LA Casa bianca :
+« passo importante » Egitto , vince Mohammed Morsi«Sarò il presidente di tutti gli egiziani » Vince l'esponente dei Fratelli Musulmani con il 52 % dei voti .
+Su Israele :
+« Rispetteremo i trattati internazionali » LE ELEZIONI PRESIDENZIALI IN EGITTO , VINCE MORSI .
+LA Casa bianca :
+« passo importante » Egitto , vince Mohammed Morsi«Sarò il presidente di tutti gli egiziani » Vince l'esponente dei Fratelli Musulmani con il 52 % dei voti .
+Su Israele :
+« Rispetteremo i trattati internazionali » Egitto , il presidente è Mohammed Morsi // callback per flash :
+function LoadPlayerText1(idVideo , playerId , videoLink ) var subdirectory = idVideo.substring(0 , 2 ) ;
+pl_video_link = videoLink ;
+//use_community_temp = ' ( none ) ' ;
+use_community_temp = 1 ;
+} catch ( e ) { if(use_community_temp = = '
+1 ' ) use_community = 1 ;
+use_community = 0 ;
+function loadTitle1(idVideo , subdirectory ) success :
+function ( data ) { } catch ( e ) { error : function ( data )
+{ function loadBoxInfoVar1(idVideo , subdirectory ) success :
+function ( data ) { error : function ( data )
+{ function loadDescription1(idVideo , subdirectory ) success :
+function ( data ) { var descriptiondiv = $ ( ' # js_DescriptionAndTools_1 ' ) ;
+error : function ( data ) { function loadOldDescription1(idVideo , subdirectory ) success :
+function ( data ) { var descriptiondiv = $ ( ' # js_DescriptionAndTools_1 ' ) ;
+vote_IDL_1 = null ;
+vote_IL_1 = null var visualVote = $ ( " .box_Voting_Results .box_Vote_Ok
+.ico_Icon").attr("id",'sp_iLike_'+idVideo+'_400 ' ) ;
+var visualVote2 = $ ( " .box_Voting_Results
+.box_Vote_Ko .ico_Icon").attr("id",'sp_iDontLike_'+idVideo+'_400 ' ) ;
+vote_IDL_1 = new Voting ( { vote_IL_1 = new Voting ( { var voteok = $ ( descriptiondiv).find('.box_Voting .btn_Vote_Ok ' ) ;
+var voteokhref = ' Javascript : vote_IL_1.doVote ( ) ;
+' ;
+var voteko = $ ( descriptiondiv).find('.box_Voting .btn_Vote_Ko ' ) ;
+var votekohref = ' Javascript : vote_IDL_1.doVote ( ) ;
+' ;
+error : function ( data ) { var player1 = new CTVPlayer ( 3,'null ' , ' dateDesc ' , ' 566aab50-be15 - 11e1-a8f4 - 59710be8ebe6 ' , ' false ' , ' true','logo_overlay.png','null ' , ' null',1,null , null , true ) ;
+//var player = new Player("3 " , null , null , " 566aab50-be15 - 11e1-a8f4 - 59710be8ebe6 " , " false","false " , null , " PRIMO PIANO " , " idcanale " , " StringaDiProvaPopout",null , null , " false " ) ;
+var enableComment = true ;
+var startDate = " 2012/06/24.17:57:45 " ;
+var titleForUrl = " http://video.corriere.it/egitto-nuovo-presidente-mohamed-morsi/566aab50-be15-11e1-a8f4-59710be8ebe6 " ;
+var countPreTitle = titleForUrl.indexOf("566aab50-be15 - 11e1-a8f4 - 59710be8ebe6 " ) ;
+var urlToComment = titleForUrl.substr(0 , countPreTitle ) + " commenti/ " + titleForUrl.substr(countPreTitle , titleForUrl.length ) ;
+var urlToAllComment = titleForUrl.substr(0 , countPreTitle ) + " commenti - full/ " + titleForUrl.substr(countPreTitle , titleForUrl.length ) ;
+Un risultato impensabile fino a un anno e mezzo fa .
+Mohammed Morsi , esponente dei Fratelli Musulmani è il nuovo presidente dell'Egitto , con il 51.7 % dei voti .
+Sconfitto l'avversario Ahmed Shafik , che conquista il 48.3 % dei voti .
+La commissione elettorale egiziana , per voce del suo presidente Faruk Sultan , dopo una lunghissima conferenza stampa che ha suscitato grande ilarità su Twitter per la sua prolissità e che ha ripercorso tutti i casi di brogli elettorali , alle 16.30 di domenica ha annunciato i risultati ufficiali del secondo turno delle elezioni presidenziali .
+La proclamazione era attesa tre giorni fa , ma la commissione ha richiesto ulteriore tempo per valutare i ricorsi presentati dai due candidati in lizza che entrambi rivendicavano la vittoria .
+La folla di Piazza Tahrir prima e dopo l'annuncio della vittoria UN MILIONE DI VOTI IN PIU ' - Si tratta di una vittoria abbastanza di stretta misura :
+Morsi ha ottenuto oltre 13 milioni di voti contro gli oltre 12 milioni andati al suo sfidante , Ahmad Shafik , ex premier di Hosni Mubarak .
+L'affluenza alle urne è stata del 51 % degli aventi diritto .
+Il capo del consiglio militare egiziano Hussen Tantawi ha telefonato al vincitore per congratularsi della sua vittoria , mentre il portavoce del nuovo presidente ha dichiarato :
+« Siamo arrivati a questo momento grazie al sangue versato dai martiri della rivoluzione .
+L'Egitto inizierà una nuova fase della sua storia » .
+Le parole , ha aggiunto , non possono descrivere la « gioia in questo momento storico » .
+// callback per flash :
+function LoadPlayerText2(idVideo , playerId , videoLink ) var subdirectory = idVideo.substring(0 , 2 ) ;
+pl_video_link = videoLink ;
+//use_community_temp = ' ( none ) ' ;
+use_community_temp = 1 ;
+} catch ( e ) { if(use_community_temp = = '
+1 ' ) use_community = 1 ;
+use_community = 0 ; function loadTitle2(idVideo , subdirectory ) success :
+function ( data ) { } catch ( e ) { error : function ( data )
+{ function loadBoxInfoVar2(idVideo , subdirectory ) success :
+function ( data ) { error : function ( data )
+{ function loadDescription2(idVideo , subdirectory ) success :
+function ( data ) { var descriptiondiv = $ ( ' # js_DescriptionAndTools_2 ' ) ;
+error : function ( data ) { function loadOldDescription2(idVideo , subdirectory ) success :
+function ( data ) { var descriptiondiv = $ ( ' # js_DescriptionAndTools_2 ' ) ;
+vote_IDL_2 = null ;
+vote_IL_2 = null var visualVote = $ ( " .box_Voting_Results .box_Vote_Ok
+.ico_Icon").attr("id",'sp_iLike_'+idVideo+'_400 ' ) ;
+var visualVote2 = $ ( " .box_Voting_Results
+.box_Vote_Ko .ico_Icon").attr("id",'sp_iDontLike_'+idVideo+'_400 ' ) ;
+vote_IDL_2 = new Voting ( { vote_IL_2 = new Voting ( { var voteok = $ ( descriptiondiv).find('.box_Voting .btn_Vote_Ok ' ) ;
+var voteokhref = ' Javascript : vote_IL_2.doVote ( ) ;
+' ;
+var voteko = $ ( descriptiondiv).find('.box_Voting .btn_Vote_Ko ' ) ;
+var votekohref = ' Javascript : vote_IDL_2.doVote ( ) ;
+' ;
+error : function ( data ) { var player2 = new CTVPlayer ( 3,'null ' , ' dateDesc ' , ' c0e25184-be8f-11e1 - 8494 - 460da67b523f ' , ' false ' , ' true','logo_overlay.png','null ' , ' null',2,null , null , true ) ;
+//var player = new Player("3 " , null , null , " c0e25184-be8f-11e1 - 8494 - 460da67b523f " , " false","false " , null , " PRIMO PIANO " , " idcanale " , " StringaDiProvaPopout",null , null , " false " ) ;
+var enableComment = true ;
+var startDate = " 2012/06/25.08:34:02 " ;
+var titleForUrl = " http://video.corriere.it/egitto-primo-discorso-morsi-saro-presidente-tutti-egiziani/c0e25184-be8f-11e1-8494-460da67b523f " ;
+var countPreTitle = titleForUrl.indexOf("c0e25184-be8f-11e1 - 8494 - 460da67b523f " ) ;
+var urlToComment = titleForUrl.substr(0 , countPreTitle ) + " commenti/ " + titleForUrl.substr(countPreTitle , titleForUrl.length ) ;
+var urlToAllComment = titleForUrl.substr(0 , countPreTitle ) + " commenti - full/ " + titleForUrl.substr(countPreTitle , titleForUrl.length ) ;
+PRESIDENTE DI TUTTI - E Mohammed Morsi lancia messaggi di riconciliazione .
+« Sarò il presidente di tutti gli egiziani » ha detto nel suo primo discorso da presidente dell'Egitto .
+Il candidato dei Fratelli musulmani ha anche reso omaggio ai « martiri » della rivoluzione e ha assicurato che intende rispettare i trattati internazionali e che vuole la pace .
+« Manterremo tutti gli accordi e i trattati internazionali perché siamo interessati alla pace dinanzi a tutto il mondo » .
+Il riferimento evidente è all'accordo di pace firmato nel 1979 dall'Egitto con Israele e che è stato tradizionalmente criticato dagli islamisti .
+L'Egitto è stato il primo Paese arabo e confinante a firmare la pace con Israele e il regime di Hosni Mubarak manteneva una situazione di stabilità alle relazioni bilaterali , anche se questo non coincideva con i sentimenti della strada e della comunità intellettuale .
+Intanto il Consiglio militare egiziano ha augurato buona fortuna al presidente Mohamed Morsi sottolineando che « questo momento storico necessita di una grande riconciliazione nazionale » .
+Sulla pagina Facebook il Consiglio militare augura a Morsi che possa assumersi la responsabilità « di questo popolo in rivolta che gli ha dato fiducia » .
+Quindi l'invito a migliaia di manifestanti radunati in piazza Tahrir da parte di Mohamed el Beltagui , segretario generale del partito della Fratellanza , Giustizia e Libertà :
+« Abbiamo un presidente che è il comandate in capo delle forze armate e sta quindi ai militari di ritornare nelle loro caserme » .
+LA CASA BIANCA - « Gli Stati Uniti si congratulano con Mohamed Morsi per la sua vittoria alle elezioni presidenziali egiziane » , è il primo commento arrivato dalla Casa Bianca .
+Gli Usa hanno definito la sua elezione « una pietra miliare nella transizione dell'Egitto verso la democrazia » e si sono augurati che l'Egitto rimanga « un pilastro di pace , sicurezza e stabilità regionale » e auspicano anche che nelle trattative per il nuovo governo siano consultate tutte le componenti sociali e politiche .
+L'urlo di Piazza Tahrir // callback per flash :
+function LoadPlayerText3(idVideo , playerId , videoLink ) var subdirectory = idVideo.substring(0 , 2 ) ;
+pl_video_link = videoLink ;
+//use_community_temp = ' ( none ) ' ;
+use_community_temp = 1 ;
+} catch ( e ) { if(use_community_temp = = '
+1 ' ) use_community = 1 ;
+use_community = 0 ; function loadTitle3(idVideo , subdirectory ) success :
+function ( data ) { } catch ( e ) { error : function ( data )
+{ function loadBoxInfoVar3(idVideo , subdirectory ) success :
+function ( data ) { error : function ( data )
+{ function loadDescription3(idVideo , subdirectory ) success :
+function ( data ) { var descriptiondiv = $ ( ' # js_DescriptionAndTools_3 ' ) ;
+error : function ( data ) { function loadOldDescription3(idVideo , subdirectory ) success :
+function ( data ) { var descriptiondiv = $ ( ' # js_DescriptionAndTools_3 ' ) ;
+vote_IDL_3 = null ;
+vote_IL_3 = null var visualVote = $ ( " .box_Voting_Results .box_Vote_Ok
+.ico_Icon").attr("id",'sp_iLike_'+idVideo+'_400 ' ) ;
+var visualVote2 = $ ( " .box_Voting_Results
+.box_Vote_Ko .ico_Icon").attr("id",'sp_iDontLike_'+idVideo+'_400 ' ) ;
+vote_IDL_3 = new Voting ( { vote_IL_3 = new Voting ( { var voteok = $ ( descriptiondiv).find('.box_Voting .btn_Vote_Ok ' ) ;
+var voteokhref = ' Javascript : vote_IL_3.doVote ( ) ;
+' ;
+var voteko = $ ( descriptiondiv).find('.box_Voting .btn_Vote_Ko ' ) ;
+var votekohref = ' Javascript : vote_IDL_3.doVote ( ) ;
+' ;
+error : function ( data ) { var player3 = new CTVPlayer ( 3,'null ' , ' dateDesc ' , ' 4565dfae - be0c-11e1-a8f4 - 59710be8ebe6 ' , ' false ' , ' true','logo_overlay.png','null ' , ' null',3,null , null , true ) ;
+//var player = new Player("3 " , null , null , " 4565dfae - be0c-11e1-a8f4 - 59710be8ebe6 " , " false","false " , null , " PRIMO PIANO " , " idcanale " , " StringaDiProvaPopout",null , null , " false " ) ;
+var enableComment = true ;
+var startDate = " 2012/06/24.16:52:51 " ;
+var titleForUrl = " http://video.corriere.it/allah-grande-urlo-piazza-tahrir/4565dfae-be0c-11e1-a8f4-59710be8ebe6 " ;
+var countPreTitle = titleForUrl.indexOf("4565dfae - be0c-11e1-a8f4 - 59710be8ebe6 " ) ;
+var urlToComment = titleForUrl.substr(0 , countPreTitle ) + " commenti/ " + titleForUrl.substr(countPreTitle , titleForUrl.length ) ;
+var urlToAllComment = titleForUrl.substr(0 , countPreTitle ) + " commenti - full/ " + titleForUrl.substr(countPreTitle , titleForUrl.length ) ;
+« BUON GIORNO CAIRO » - È la prima volta che i Fratelli Musulmani vanno democraticamente al potere .
+Nel frattempo migliaia di egiziani che avevano affollato piazza Tahrir in attesa di conoscere , il nome del primo presidente del dopo Mubarak .
+E all'annuncio della vittoria un boato si alzato dalla piazza , dove i sostenitori di Morsi stanno ballando e cantando .
+Islamisti fedeli
+Mohamed Morsi , si sono aggiunti ad altri sostenitori dei Fratelli Musulmani che già affollavano la piazza per protestare contro lo scioglimento del Parlamento da parte della giunta militare .
+Nel resto della metropoli egiziana ha regnato una calma carica di attesa , inusuale per un giorno lavorativo .
+Su Twitter la giornalista e attivista Mona Eltahawy , aggredita dalla polizia in piazza Tahrir lo scorso novembre , scrive :
+« Buongiorno Cairo .
+Oggi avremo un nuovo presidente .
+Augurateci buona fortuna » .
+In vista della comunicazione ufficiale dei risultati delle elezioni , nelle strade del Cairo e intorno ai luoghi sensibili è stata rafforzata la sicurezza .
+Alla polizia è stato ordinato di « affrontare con durezza » ogni violazione della legge , mentre il clima resta teso e si temono violenze successive all'annuncio del risultato del ballottaggio del 16 e 17 giugno .
+Entrambi i candidati avevano rivendicato la vittoria .
+LA RINUNCIA ALLA MILITANZA - E Morsi ha rinunciato alla sua militanza nei Fratelli Musulmani , come aveva promesso che avrebbe fatto se avesse vinto .
+Lo ha annunciato il Partito Libertà e Giustizia , espressione del gruppo islamista e presieduto dallo stesso Morsi , attraverso il suo account su Twitter .
+Il presidente della commissione Faruk Sultan ( Afp ) LA TENSIONE - Circa 2mila sostenitori di Ahmed Shafik si sono radunati invece nel distretto di Nasr City , al Cairo , in attesa del risultato ufficiale .
+A proposito del timore di disordini , un ufficiale dell'esercito ha dichiarato , dopo che agli agenti schierati in forze è stato ordinato di rispondere con fermezza a eventuali violenze :
+« Questa volta non scherzeremo , prima siamo stati gentili » con chi ha violato la legge , se necessario sarà imposto un coprifuoco .
+Blindati e agenti sono stati schierati alle uscite ed entrate dell'aeroporto del Cairo , intorno al Parlamento e nelle strade verso il palazzo del governo .
+SI FESTEGGIA ANCHE A GAZA - Festeggiamenti e colpi d'arma da fuoco esplosi in aria a Gaza per celebrare la vittoria dell'islamista Mohamed Morsi .
+Per Hamas si tratta di un « momento storico » .
+In campagna elettorale il leader della Fratellanza ha promesso sostegno ai palestinesi « nella loro lotta legittima » .
+Peccato però che una persona sia morta e cinque siano rimaste ferite dagli spari in aria a Rafah .
+Redazione Online24 giugno 2012 ( modifica il 25 giugno 2012 ) ©
+RIPRODUZIONE RISERVATA RCS MediaGroup S.p .
+A. - Divisione Quotidiani Sede legale :
+via Angelo Rizzoli , 8 - 20132 Milano | Capitale sociale :
+€ 270.000.000,00 Codice Fiscale , Partita I.V.A. e Iscrizione al Registro delle Imprese di Milano n.12086540155 | R.E.A. di Milano :
+1524326 | ISSN 2499 - 0485

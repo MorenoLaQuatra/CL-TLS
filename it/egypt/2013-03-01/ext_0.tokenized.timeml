@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+Collegamenti ad aree di contenuto della pagina var d_names = new Array("Domenica " , " <TIMEX3 tid="t1" type="DATE" value="2013-02-25">Lunedì</TIMEX3> " , " <TIMEX3 tid="t2" type="DATE" value="2013-02-26">Martedì</TIMEX3> " , " <TIMEX3 tid="t3" type="DATE" value="2013-02-27">Mercoledì</TIMEX3> " , " <TIMEX3 tid="t4" type="DATE" value="2013-02-28">Giovedì</TIMEX3> " , " <TIMEX3 tid="t5" type="DATE" value="2013-03-01">Venerdì</TIMEX3> " , " <TIMEX3 tid="t6" type="DATE" value="2013-02-23">Sabato</TIMEX3> " ) ;
+var m_names = new Array("Gennaio " , " <TIMEX3 tid="t7" type="DATE" value="2013-02">Febbraio</TIMEX3> " , " <TIMEX3 tid="t8" type="DATE" value="2013-03">Marzo</TIMEX3> " , " <TIMEX3 tid="t9" type="DATE" value="2012-04">Aprile</TIMEX3> " , " <TIMEX3 tid="t10" type="DATE" value="2012-05">Maggio</TIMEX3> " , " <TIMEX3 tid="t11" type="DATE" value="2012-06">Giugno</TIMEX3> " , " <TIMEX3 tid="t12" type="DATE" value="2012-07">Luglio</TIMEX3> " , " <TIMEX3 tid="t13" type="DATE" value="2012-08">Agosto</TIMEX3> " , " <TIMEX3 tid="t14" type="DATE" value="2012-09">Settembre</TIMEX3> " , " <TIMEX3 tid="t15" type="DATE" value="2012-10">Ottobre</TIMEX3> " , " <TIMEX3 tid="t16" type="DATE" value="2012-11">Novembre</TIMEX3> " , var d = new Date ( ) ;
+var minutes = d.getMinutes ( ) ;
+if ( minutes < 10){minutes = " 0"+minutes ; } document.write('<strong > ' + d_names[d.getDay ( ) ] + ' , ' + d.getDate ( ) + ' ' + m_names[d.getMonth ( ) ] + ' ' + d.getFullYear ( ) + ' < /strong > ' ) ;
+document.write ( ' | < em class="hour " > ' + d.getHours ( ) + ' :
+' + minutes + ' < /em > ' ) ;
+ti trovi qui :
+Egitto :
+deputata copta , voto urgente .
+Inutile boicottaggio Kamal , andare a urne unica via per stabilita ' e modifica Carta <TIMEX3 tid="t17" type="DATE" value="2013-03-01">01 marzo</TIMEX3> , <TIMEX3 tid="t19" type="TIME" value="2013-03-01T17:37">17:37</TIMEX3> ( di Cristiana Missori ) ( ANSAmed ) - ROMA - ' ' Boicottare le elezioni non ha senso .
+Non sono d'accordo con la decisione adottata dal fronte di salvezza nazionale .
+Lasciare il tavolo della Costituente e ' stato un grande errore .
+A cosa ci ha portato ?
+A nulla , se non a fare approvare una Carta costituzionale che ha diviso l'Egitto , che limita le liberta ' e che non protegge i diritti umani .
+Il tutto senza l'apporto della componente laica , cristiana e liberale '' .
+A parlare e ' Marianne Malak Kamal , la piu ' giovane deputata egiziana , in <TIMEX3 tid="t21" type="DATE" value="PRESENT_REF">questi giorni</TIMEX3> a Roma per seguire la prima edizione della ' Women in Diplomacy School ' , corso ideato dal ministero degli Esteri e dalla Sioi e rivolto a venti giovani donne provenienti da Algeria , Egitto , Giordania , Libano e Libia .
+' ' Soltanto partecipando alle elezioni , candidandosi , andando a votare e ' possibile cambiare questo Parlamento .
+Soltanto cosi ' sara ' possibile modificare la Costituzione '' , spiega ad ANSAmed la parlamentare .
+Copta , per giunta donna in un emiciclo dominato dagli uomini della Fratellanza musulmana e dai salafiti , con altre due correligionarie Marianne Kamal e ' nel gruppo di quanti sono stati nominati dal Consiglio superiore delle Forze armate alle prime elezioni libere del dopo Mubarak ( <TIMEX3 tid="t25" type="DATE" value="2011-11">novembre 2011</TIMEX3>-<TIMEX3 tid="t26" type="DATE" value="2012-02">febbraio 2012</TIMEX3> ) .
+' ' Rappresento i cristiani , le donne e i giovani '' , come lei stessa sottolinea .
+Scegliere di andare alle elezioni come previsto dal presidente Morsi , afferma , e ' vitale per l'Egitto ' ' Dobbiamo andare al voto .
+La situazione economica e ' drammatica '' .
+Non e ' possibile , prosegue , lasciare il Paese al collasso e nella paralisi politica .
+Una laurea in legge , un master in diritti dell'Uomo e un Phd in diritto internazionale quasi in dirittura d'arrivo , Marianne ha fatto parte dell'Assemblea costituente ed e ' membro del Consiglio nazionale per i diritti umani .
+Racconta di come sia riuscita a farsi accettare dai suoi compagni di scranno e a trovare un qualche punto di contatto con gli islamisti .
+Si definisce un caso anomalo , ' ' amica di molti giovani del partito Al Nour ( salafita ) e della Fratellanza '' .
+Difficile comprendere dall'esterno come riesca a trovare punti di accordo con i suoi avversari politici .
+' ' Niente affatto '' , replica .
+' ' Rappresento un ponte tra musulmani , salafiti e componente laica della societa ' .
+Seduta in Parlamento cerco di difendere i diritti di tutti '' .
+Lei in piazza Tahrir c'era dal <TIMEX3 tid="t32" type="DATE" value="2011-01-25">25 gennaio 2011</TIMEX3> .
+Una volta entrata alla Camera bassa ha lucidamente scelto di adottare un modus operandi che ha consentito a lei e agli altri componenti della Camera un punto su cui concordino tutti :
+' ' Quel che ci ha avvicinati e ' il rispetto dell'essere umano e per i suoi diritti '' .
+In definitiva ' ' il nostro interesse comune e ' quello che l'Egitto esca da questa terribile fase '' .
+Da qui , dice , e ' possibile affrontare le questioni molto piu ' complesse che indubbiamente dividono .
+Si votera ' <TIMEX3 tid="t36" type="DURATION" value="P1W">una settimana</TIMEX3> prima rispetto a quanto previsto inizialmente dalla presidenza .
+' ' Tutti potranno votare , perche ' il voto non cadra ' con <TIMEX3 tid="t37" type="DATE" value="2013-03-03">la domenica</TIMEX3> delle Palme per i copti '' .
+Tempi stretti dunque per fare campagna elettorale .
+' ' Correro ' da sola '' , annuncia .
+Come indipendente .
+' ' Ho davvero molti sostenitori non soltanto fra i copti , ma anche fra i giovani musulmani '' .
+Vogliamo tutti vivere in un Paese civilizzato '' .
+La questione e ' capire in che modo le varie anime del Paese intendano raggiungere questo obiettivo .
+( ANSAmed ) .
+Il sistema informativo sulle opportunità di business all'estero Unione Europea e Mediterraneo Ministero degli affari esteri Cooperazione e imprese italiane nel Mediterraneo e il Golfo News dal Mediterraneo © Copyright <TIMEX3 tid="t38" type="DATE" value="2010">2010</TIMEX3> ANSAmed Contatti | Disclaimer | Privacy | Modifica consenso Cookie | Copyright
+</TimeML>
+

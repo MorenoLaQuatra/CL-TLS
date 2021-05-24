@@ -1,0 +1,117 @@
+GUERRA CIVILE IN SIRIA|
+I RIBELLI RIVENDICANO ATTENTATO E ARRIVANO AL PALAZZO PRESIDENZIALE Damasco , bomba nel palazzo del potere :
+ucciso ministro della Difesa e cognato di Assad Morti anche il ministro dell'Interno e il capo della « cellula di crisi » .
+Responsabile forse guardia del corpo .
+Slitta voto Onu GUERRA CIVILE IN SIRIA|
+I RIBELLI RIVENDICANO ATTENTATO E ARRIVANO AL PALAZZO PRESIDENZIALE Damasco , bomba nel palazzo del potere :
+ucciso ministro della Difesa e cognato di Assad Morti anche il ministro dell'Interno e il capo della « cellula di crisi » .
+Responsabile forse guardia del corpo .
+Slitta voto Onu È il giorno della paura e del sangue per Bashar al - Assad e gli uomini più vicini al presidente siriano .
+Il ministro siriano della Difesa , Dawoud Rajiha , e il suo vice Assef Shawkat ( cognato di Assad ) sono morti nell'attentato contro il quartier generale della sicurezza a Damasco dove era in corso un vertice tra il governo Assad e i capi dell'intelligence .
+Non è ancora chiaro se si sia trattato di un attacco kamikaze o di una bomba lasciata nel palazzo probabilmente da un infiltrato .
+Nell'esplosione sarebbero rimasto ferito anche il capo dell'intelligence , Hisham Bekhtyar , che è stato sottoposto ad un'operazione chirurgica .
+Feriti « in maniera critica » anche alti funzionari della sicurezza .
+È morto anche il ministro dell'Interno , Mohamed Ibrahim Al Shaar .
+Mentre è stato ucciso anche il generale siriano Hassan Turkmani , capo della " cellula di crisi che coordina le azioni contro i ribelli » .
+CIRCONDATO OSPEDALE - L'edificio dove è avvenuto l'attentato si trova sulla Piazza Rauda , nel quartiere di Abu Roummaneh .
+La zona è vicina alle ambasciate italiana e americana ed è sottoposta normalmente a strette misure di sicurezza .
+La Guardia repubblicana ha circondato l'ospedale Shami , dove sono stati portati i feriti .
+Nel frattempo le truppe fedeli al regime siriano di Bashar al - Assad si sarebbero ritirate dal quartiere di Midan , nella periferia di Damasco , dove da giorni combattono con le milizie dell'opposizione .
+Lo ha annunciato Abu Bakr , capo della brigata Abu Omar che fa capo all'Esercito siriano libero , alla tv satellitare al - Arabiya .
+I soldati di Assad avrebbero anche abbandonato in strada alcuni mezzi militari Il fumo che si alza su Damasco BOMBA O KAMIKAZE - A provocare l'esplosione potrebbe essere stata una bomba lasciata prima della riunione tra ministri e funzionari da qualcuno « interno » all'apparato di sicurezza e non un kamikaze , come riferito dalle fonti ufficiali .
+Ma a causare l'attentato potrebbe essere stato anche un kamikaze che indossava una cintura esplosiva .
+L'uomo sarebbe appartenuto alla ristretta cerchia delle guardie del corpo incaricate di proteggere i principali gerarchi del regime .
+« TAGLIEREMO LE MANI AI RIBELLI » - Assad non molla .
+In un comunicato letto alla televisione di Stato , le forze armate siriane hanno detto che rimangono « più determinate che mai ad affrontare tutte le forme di terrorismo e a tagliare le mani di chi mette in pericolo la Siria » .
+Il comunicato aggiunge che l'attentato odierno è opera di « mani prese in prestito da stranieri » .
+Poi la minaccia :
+« Le forze armate sono determinate a finire di uccidere le bande terroristiche e i criminali e a ricercarli ovunque si trovino » .
+« Chiunque pensi che colpendo i comandanti può piegare la Siria , si illude » .
+Poi il governo siriano ha nominato nuovo ministro della Difesa il generale Fahd al - Furayj , in seguito all'attacco costato la vita oggi a Damasco al suo predecessore Daoud Rajiha e al vice Assef Shawkat , cognato del presidente Bashar al Assad .
+Attentato a Damasco contro i vertici di Assad // callback per flash :
+function LoadPlayerText2(idVideo , playerId , videoLink ) var subdirectory = idVideo.substring(0 , 2 ) ;
+pl_video_link = videoLink ;
+//use_community_temp = ' ( none ) ' ;
+use_community_temp = 1 ;
+} catch ( e ) { if(use_community_temp = = '
+1 ' ) use_community = 1 ;
+use_community = 0 ; function loadTitle2(idVideo , subdirectory ) success :
+function ( data ) { } catch ( e ) { error : function ( data )
+{ function loadBoxInfoVar2(idVideo , subdirectory ) success :
+function ( data ) { error : function ( data )
+{ function loadDescription2(idVideo , subdirectory ) success :
+function ( data ) { var descriptiondiv = $ ( ' # js_DescriptionAndTools_2 ' ) ;
+error : function ( data ) { function loadOldDescription2(idVideo , subdirectory ) success :
+function ( data ) { var descriptiondiv = $ ( ' # js_DescriptionAndTools_2 ' ) ;
+vote_IDL_2 = null ;
+vote_IL_2 = null var visualVote = $ ( " .box_Voting_Results .box_Vote_Ok
+.ico_Icon").attr("id",'sp_iLike_'+idVideo+'_400 ' ) ;
+var visualVote2 = $ ( " .box_Voting_Results
+.box_Vote_Ko .ico_Icon").attr("id",'sp_iDontLike_'+idVideo+'_400 ' ) ;
+vote_IDL_2 = new Voting ( { vote_IL_2 = new Voting ( { var voteok = $ ( descriptiondiv).find('.box_Voting .btn_Vote_Ok ' ) ;
+var voteokhref = ' Javascript : vote_IL_2.doVote ( ) ;
+' ;
+var voteko = $ ( descriptiondiv).find('.box_Voting .btn_Vote_Ko ' ) ;
+var votekohref = ' Javascript : vote_IDL_2.doVote ( ) ;
+' ;
+error : function ( data ) { var player2 = new CTVPlayer ( 3,'null ' , ' dateDesc ' , ' 50e64938-d0d4 - 11e1-bab4-ef0963e166ba ' , ' false ' , ' true','logo_overlay.png','null ' , ' null',2,null , null , true ) ;
+//var player = new Player("3 " , null , null , " 50e64938-d0d4 - 11e1-bab4-ef0963e166ba " , " false","false " , null , " PRIMO PIANO " , " idcanale " , " StringaDiProvaPopout",null , null , " false " ) ;
+var enableComment = true ;
+var startDate = " 2012/07/18.14:30:10 " ;
+var titleForUrl = " http://video.corriere.it/siria-attentato-uccisi-ministro-difesa-cognato-assad/50e64938-d0d4-11e1-bab4-ef0963e166ba " ;
+var countPreTitle = titleForUrl.indexOf("50e64938-d0d4 - 11e1-bab4-ef0963e166ba " ) ;
+var urlToComment = titleForUrl.substr(0 , countPreTitle ) + " commenti/ " + titleForUrl.substr(countPreTitle , titleForUrl.length ) ;
+var urlToAllComment = titleForUrl.substr(0 , countPreTitle ) + " commenti - full/ " + titleForUrl.substr(countPreTitle , titleForUrl.length ) ;
+PALAZZO PRESIDENZIALE - A Damasco si combatte per il quarto giorno consecutivo e la battaglia tra forze governative e ribelli si è avvicinata al palazzo presidenziale .
+Nel distretto di Dummar , una caserma dell'esercito - che si trova a poche centinaia di metri dal palazzo del popol - è finita sotto il fuoco dell'opposizione .
+« Sentiamo il rumore di armi da fuoco leggere .
+Le esplosioni stanno diventando sempre più forti dalla parte della base militare » , ha riferito un architetto , Yasmine , al telefono dalla zona di Dummar .
+E una forte esplosione ha interessato una caserma dell'esercito siriano a Damasco .
+Secondo quanto riferisce al - Jazeera è stata colpita la sede del quarto battaglione dell'esercito .
+Si tratta della seconda
+esplosione registrata .
+COMBATTIMENTI A DAMASCO-
+A Damasco « nelle ultime 48 ore si registra una escalation di violenza » , con esplosioni e scontri a fuoco « in un raggio di 4 chilometri dal quartier generale degli Osservatori delle Nazioni Unite » , nel pieno centro della capitale siriana .
+È il commento di alcuni membri della missione Onu a Damasco .
+« Da ieri udiamo esplosioni , continue sparatorie » , anche se « non si tratta di una vera e propria battaglia » , precisano le fonti .
+Gli Osservatori dell'Onu « non sono stati coinvolti fino a ora , anche se a Damasco tutti sono in pericolo , è ovvio » .
+E più di sessanta soldati sono stati uccisi nella battaglia in corso nella Capitale con i ribelli dell'opposizione :
+è la stima dell'Osservatorio siriano sui diritti umani , che ha sede a Londra .
+Combattimenti a Damasco NUOVE DISERZIONI - Assad sempre più solo , dunque .
+E dopo che lo hanno abbandonato militari e diplomatici , si sono verificate nuove diserzioni tra le file delle forze armate siriane .
+Due generali di brigata hanno attraversato nella notte il confine con la Turchia , portando così a 20 il numero di ufficiali che hanno abbandonato l'esercito del presidente , Bashar al - Assad .
+« Circa 330 siriani , inclusi due generali di brigata , sono fuggiti nella notte .
+Sono in tutto 20 gli alti ufficiali siriani rifugiati in Turchia » ha detto un funzionario del ministero degli Esteri turco .
+MOSCA - In Siria sono in corso « combattimenti decisivi » :
+lo ha detto il ministro degli Esteri russo , Sergei Lavrov , affermando anche che Mosca è contraria a una risoluzione in favore di un « movimento rivoluzionario » in Siria .
+Mercoledì il premier turco , Recep Tayyip Erdogan è arrivato a Mosca su invito del presidente russo Vladimir Putin « per una visita di lavoro » e « uno scambio di vedute sulle relazioni bilaterali e un confronto sulle principali questioni internazionali e regionali , compresa la situazione in Siria » .
+PARIGI - E dalla Francia è arrivata un appello affinché disertino e abbandonino Assad anche gli « ultimi appoggi del regime » .
+« La lotta del presidente siriano Bashar Al - Assad per mantenere il potere è vana » , ha aggiunto un portavoce del ministero degli Esteri francese .
+Bashar al Assad , ha detto il portavoce del Quai d'Orsay Bernard Valero , « deve capire che la sua lotta per conservare il potere è vana e che niente fermerà la marcia del popolo siriano verso la democrazia , che è nelle sue aspirazioni .
+Gli ultimi appoggi al regime - ha quindi aggiunto Valero - devono capire che la repressione non porta a nulla e li invitiamo a dissociarsi da questa sanguinosa repressione che va avanti da sedici mesi » .
+LONDRA - Di altro avviso rispetto a Mosca è il Foreign Office inglese .
+La Siria « è minacciata dal caos e dal collasso » , nei quali rischia di precipitare data la situazione attuale , che è « persino peggiore di quella , terribile , prevalsa negli ultimi mesi » :
+così il ministro degli Esteri britannico , William Hague , ha commentato l'attentato suicida di a Damasco , costato la vita tra gli altri al ministro della Difesa siriano , Daoud Rajha , e ad Assef Shawkat , cognato del presidente Bashar al - Assad .
+« Ecco » , ha spiegato il capo della diplomazia di Londra , « l'urgenza di garantire l'adozione non solo di una risoluzione da parte del Consiglio di Sicurezza delle Nazioni Unite , ma di una risoluzione che possa condurre alla soluzione del problema , all'avvicinamento verso un processo politico di natura pacifica , e all'avvento in Siria di un governo transitorio » .
+Hague ha quindi sottolineato che il provvedimento , sul quale il Consiglio medesimo voterà in giornata , oltre a non doversi limitare a richiamare le versioni che lo hanno preceduto , non deve neppure porre le basi per un tipo d'intervento militare quale quello della Nato in Libia .
+USA -Preoccupati per la situazione in Siria sono gli Stati Uniti .
+Lo afferma il segretario alla Difesa Leon Panetta , sottolineando che c'è bisogno di aumentare la pressione su Assad .
+Il Pentagono ritiene che la guerra civile siriana stia « rapidamente finendo fuori controllo » .
+Sulla stessa linea l'omologo britannico , Philip Hammond , a Washington , secondo il quale la situazione in Siria si sta deteriorando e sta diventando sempre più imprevedibile .
+Il presidente Usa , Barack Obama ha poi avuto un colloquio telefonico con il presidente russo Vladimir Putin sulla Siria .
+Lo rende noto la Casa Bianca spiegando che tra i due restano « divergenze » .
+ANKARA - La Turchia non ha nulla a che vedere con l'attentato di Damasco di oggi dove sono morti tre alti responsabili della sicurezza .
+Lo ha dichiarato in serata il primo ministro turco Recep Tayyip Erdogan .
+« I regimi autocratici ricorrono in questi casi ai metodi che conoscono meglio :
+la disinformazione .
+La Turchia non ha nulla a che vedere con questo attacco » , ha detto Erdogan ritornando da una breve visita a Mosca dove ha incontrato il presidente russo con il quale ha parlato della crisi siriana ONU - Dato lo stallo diplomatico slitta l'atteso voto in Consiglio di Sicurezza all'Onu di una risoluzione che proroga la missione degli osservatori sul territorio slitta a domani , confermando le difficoltà al raggiungimento di un'intesa .
+Da un lato la Russia rimane a fianco di Assad , dall'altro i paesi occidentali non sono intenzionati a cedere sul riferimento a possibili sanzioni .
+Posizioni quindi opposte , indurite dall'attentato contro il Palazzo di Sicurezza di Damasco nel quale è rimasto ucciso anche il cognato di Assad .
+L'Italia , con il ministro degli esteri Giulio Terzi , conferma il proprio appoggio ad Annan ma ritiene urgente un'azione dell'Onu .
+Sulla crisi in Siria la Lega araba convoca una riunione straordinaria dei suoi ministri degli Esteri per domenica a Doha .
+Redazione Online18 luglio 2012 ( modifica il 19 luglio 2012 )
+© RIPRODUZIONE RISERVATA RCS MediaGroup S.p .
+A. - Divisione Quotidiani Sede legale :
+via Angelo Rizzoli , 8 - 20132 Milano | Capitale sociale :
+€ 270.000.000,00 Codice Fiscale , Partita I.V.A. e Iscrizione al Registro delle Imprese di Milano n.12086540155 | R.E.A. di Milano :
+1524326 | ISSN 2499 - 0485

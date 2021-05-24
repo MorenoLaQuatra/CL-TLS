@@ -1,0 +1,109 @@
+Le manifestazioni che chiedono le dimissioni del Presidente Ali Abdullah Saleh sono entrate (il 7 marzo) nella loro quarta settimana. Se da un lato i dimostranti non sembrano volersi arrendere, lo stesso Presidente pare non aver alcuna intenzione di abbandonare l'incarico prima delle prossime elezioni, previste per il 2013.
+Saleh ha invitato al dialogo tutte le forze politiche, incassando il rifiuto dell'opposizione. Nel frattempo, le forze dell'ordine e i fedelissimi del Presidente hanno continuato ad aggredire i manifestanti.
+"I poliziotti yemeniti e le forze di sicurezza hanno lasciato via libera alle scorribande di gruppetti armati ai danni dei manifestanti che contestavano il Governo fuori dalla capitale Sanaa, mentre in alcuni casi non sono intervenuti per impedire le aggressioni", riferisce Human Rights Watch [en, come tutti i link tranne ove diversamente segnalato].
+Nella città di Ibb, domenica scorsa le proteste antigovernative sono culminate in violenti scontri provocati dalle gang del regime, che hanno assalito i manifestanti provocando un morto e dozzine di feriti.
+Jane Novak scrive:
+Circa 200.000 i manifestanti oggi a Ibb, altre violenze ad Aden. Secondo nuove stime, il numero dei feriti sarebbe di 70 persone.
+Domenica scorsa sostenitori del Governo armati di coltelli e pistole hanno assalito i dimostranti che protestano da settimane chiedendo le dimissioni del Presidente. L'incidente è avvenuto nel sud dello Yemen, e ha provocato un morto.
+Noha Zaki (@Izbella) scrive su Twitter:
+Gli scagnozzi mandati dal regime hanno assalito i manifestanti nel "Golfo della Libertà", a Ibb, e ne hanno feriti 52, di cui 6 in modo grave. #yemen.
+Più oltre, aggiunge:
+A Ibb, in #yemen, i manifestanti arrestano i violenti che confessano di esser stati pagati da esponenti governativi. La cosa ricorda da vicino l'Egitto.
+Il 5 marzo è stato caricato un video su YouTube [ar] dove un uomo d'affari locale, Wahb Eddine Al-Sururi, dichiarare di essere stato assalito da alcuni facinorosi per essere fuoriuscito dal partito di Governo pur di partecipare alle pacifiche proteste di Hodeidah.
+Sulla pagina Facebook Yemen Rights Monitors, Ahmed riferisce:
+URGENTE | Le forze dell'ordine hanno assalito i manifestanti con bastoni elettrici e confiscato le tende presso il sit-in #Sanaa #yemen #ArabRev
+Anche il gruppo Aden To Freedom testimonia che lunedì 7 sono stati esplosi colpi d'arma da fuoco per disperdere una manifestazione studentesca:
+اليوم طلاب المدارس في مسيرة سلمية من المنصورة والشيخ صباحا ً قد تعرضوا لإطلاق نار وهناك وجرحى بين اولاد الإعدادي الذين خرجوا سلميا ً تنديداً بآلة القمع ومطالبة النظام برحيله فورا ً وكل رموزه وهناك إعتقالات طالت اوساط الشباب السلمي ولاتوجد إلا الآن نتيجة الحصيلة للإشتباكات وسنوافيكم لاحقا ً بأي جديد
+Stamattina hanno sparato addosso ad alcuni studenti che marciavano pacificamente da Al-Mansura e Al-Shaikh, provocando alcuni feriti. I liceali erano scesi in piazza per denunciare il sistema d'oppressione e chiedere la fine immediata del regime e di tutti i suoi simboli. Ci sono stati anche arresti ma, almeno per il momento, non abbiamo una stima dei feriti.
+Continuate a seguire gli aggiornamenti qui su Global Voices, in inglese e in italiano.
+Share this:  twitter facebook reddit googleplusEmail versione stampabile
+scritto da Afef Abrougui
+tradotto daStefano Ignone
+* Initialize attempt counter variable to
+var attemptCounter = 0;
+* Add blind toggle to the trigger to slide the box out on click
+// Load form if it doesn't exist yet
+// Also handles toggling so that it slides AFTER content is loaded
+if ( 0 == $("#email-share-form").length ) {
+// Otherwise just toggle the box (only used if form was already loaded)
+} else {
+* Use AJAX to load the email form
+* Depends on gv_esf_ajax_load_form() php function being hooked correctly
+function gvEsfAjaxLoadForm() {
+// Prepare ajax data with form fields to autofill
+var ajaxData = {
+// Show the loading icon
+// Send ajax request
+success: function(response) {
+// Insert response (presumed to be HTML of form) into wrapper
+if (typeof grecaptcha != 'undefined') {
+var holderId = grecaptcha.render('email-share-recaptcha-holder', {
+'sitekey': '6LeusxoUAAAAACPdQ6XgmLNImULpa-gRylyMwpTZ',
+'size': 'invisible',
+'badge': 'inline',
+'callback': function (recaptchaToken) {
+'expired-callback': function () {
+// Add click event for AJAX sending to submit button
+if (typeof grecaptcha != 'undefined') {
+} else {
+// Toggle slide the box
+// Get the current scroll distance from the top of the window
+// var windowtop = $(window).scrollTop();
+// Fetch vertical position of container div
+// jquery ref http://api.jquery.com/offset/
+// var offsettop = $('#email-share-form-contents').offset().top;
+// Use container because it results in better position, can be changed to anything
+var offsettop = $('#email-share-wrapper').offset().top;
+// Scroll to the top of the container div
+// Debug values
+// $('#email-share-form-contents').append("offset().top = "+offsettop+" window.scrolltop="+windowtop);
+// Hide the loading icon
+* ESF - Send AJAX request to send email from form
+* Prepares and sends form data to WordPress AJAX where it will
+* be handled and a reply with errors/sucess messages sent back.
+function gvEsfAjaxSend() {
+var ajaxData = {
+// Show the loading icon
+type: 'POST',
+url: 'https://it.globalvoices.org/wp-admin/admin-ajax.php',
+data: ajaxData,
+success: gvEsfAjaxSendResponseHandler
+* Handle JSON response returned by Form AJAX Request.
+* Should be called in gvEsfAjaxSend() as success of ajax request.
+function gvEsfAjaxSendResponseHandler(jsonResponse) {
+var output = '';
+// Make sure we recieved a response
+if (!jsonResponse) {
+output += '<p class="error">ERROR: NO AJAX RESPONSE</p>';
+// Parse the response into an object
+// NOTE: new jQuery version means we don't need to parse JSON any more
+// var response = JSON.parse(jsonResponse);
+var response = jsonResponse;
+// Ghettoize error
+if (response.ghettoize) {
+// If counter is too high then also ghettoize
+if (3 <= attemptCounter) {
+// Email form error
+if (response.email_form_error) {
+output += '<p class="error">ERRORE! Inserisci indirizzo email nome e cognome, testo del messaggio - e riprova</p>' ;
+// Captcha Error
+if (response.captcha_error) {
+output += '<p class="error">ERRORE! Risposta sbagliata. Copia esattamente testo e numeri. </p>' ;
+// Email Sent message
+if (response.email_sent) {
+// Clear any errors
+// Clear the captcha field
+// Clear the recipient email field for next sending
+// Reset the counter in case they want to send another message for some reason.
+attemptCounter = 0;
+// Add success message to output
+output += '<p class="success">email inviata correttamente</p>' ;
+// Append any output to the messages div
+// Hide the loading icon
+* Ghettoize this visitor (send them to a dead end error page)
+* Used to avoid bots retrying the form indefinitely.
+* Depends on gv_email_ghetto() php function to serve ghetto
+function gvAefGhettoize() {
+var message = $('#gv_esf_message').val();
+var messageEscaped = escape(message);
+window.location = '?gv_email_ghetto=1\&email_text=' + messageEscaped;

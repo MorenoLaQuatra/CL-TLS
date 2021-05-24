@@ -1,0 +1,59 @@
+LUSSEMBURGO, CONSIGLIO DEGLI AFFARI ESTERI
+Siria, Damasco avverte la Nato:«Il nostro territorio è sacro»
+Sale ancora la tensione dopo l'abbatimento del jetdi Ankara da parte della contraerea siriana
+LUSSEMBURGO, CONSIGLIO DEGLI AFFARI ESTERI
+Siria, Damasco avverte la Nato:«Il nostro territorio è sacro»
+Sale ancora la tensione dopo l'abbatimento del jetdi Ankara da parte della contraerea siriana
+Siria, Terzi: «Incidente inaccettabile»
+// callback per flash:
+function LoadPlayerText1(idVideo, playerId, videoLink)
+var subdirectory = idVideo.substring(0, 2);
+pl_video_link = videoLink;
+//use_community_temp = '(none)';
+use_community_temp = 1;
+} catch (e) {
+if(use_community_temp == '1')
+use_community = 1;
+use_community = 0;
+function loadTitle1(idVideo, subdirectory)
+success: function (data){
+} catch (e) {
+error: function (data){
+function loadBoxInfoVar1(idVideo, subdirectory)
+success: function (data){
+error: function (data){
+function loadDescription1(idVideo, subdirectory)
+success: function (data){
+var descriptiondiv = $('#js_DescriptionAndTools_1');
+error: function (data){
+function loadOldDescription1(idVideo, subdirectory)
+success: function (data){
+var descriptiondiv = $('#js_DescriptionAndTools_1');
+vote_IDL_1 = null;
+vote_IL_1 = null
+var visualVote = $(".box_Voting_Results .box_Vote_Ok .ico_Icon").attr("id",'sp_iLike_'+idVideo+'_400');
+var visualVote2 = $(".box_Voting_Results .box_Vote_Ko .ico_Icon").attr("id",'sp_iDontLike_'+idVideo+'_400');
+vote_IDL_1 = new Voting({
+vote_IL_1 = new Voting({
+var voteok = $(descriptiondiv).find('.box_Voting .btn_Vote_Ok');
+var voteokhref = 'Javascript:vote_IL_1.doVote();';
+var voteko = $(descriptiondiv).find('.box_Voting .btn_Vote_Ko');
+var votekohref = 'Javascript:vote_IDL_1.doVote();';
+error: function (data){
+var player1 = new CTVPlayer( 3,'null', 'dateDesc', '7e4341c0-bed1-11e1-8494-460da67b523f', 'false', 'true','logo_overlay.png','null', 'null',1,null,null,true );
+//var player = new Player("3", null, null, "7e4341c0-bed1-11e1-8494-460da67b523f", "false","false", null,  " PRIMO PIANO", "idcanale", "StringaDiProvaPopout",null, null, "false");
+var enableComment = true;
+var startDate = "2012/06/25.16:24:37";
+var titleForUrl = "http://video.corriere.it/siria-terzi-aereo-turco-abbattuto-coscientemente-incidente-inaccettabile/7e4341c0-bed1-11e1-8494-460da67b523f";
+var countPreTitle = titleForUrl.indexOf("7e4341c0-bed1-11e1-8494-460da67b523f");
+var urlToComment = titleForUrl.substr(0, countPreTitle) + "commenti/" +titleForUrl.substr(countPreTitle, titleForUrl.length);
+var urlToAllComment = titleForUrl.substr(0, countPreTitle) + "commenti-full/" +titleForUrl.substr(countPreTitle, titleForUrl.length);
+Sale ancora la tensione in Siria. Damasco ha lanciato un avvertimento alla Nato, che si riunisce martedì su richiesta del governo turco per affrontare la vicenda del jet di Ankara abbattuto dalla contraerea siriana. Il nostro territorio «è sacro», ha ammonito il portavoce del ministero degli Esteri Jihad Makdissi. «Se l'obiettivo della riunione di domani è calmare la situazione e promuovere la stabilità, sarà un successo. Ma se l'obiettivo dell'incontro è l'aggressione, noi diciamo che lo spazio aereo, il territorio e le acque siriane sono sacre per il nostro esercito, come lo spazio aereo, il territorio e le acque turche lo sono per l'esercito turco» ha detto Jihad Makdissi.
+Asma Assad provoca: maglietta per esaltare la Siria
+Poi ancora: il jet turco abbattuto dall'aviazione siriana «ha violato chiaramente la sovranità siriana». La Siria, ha aggiunto il portavoce «nega le menzogne» dei funzionari turchi. «Abbiamo reagito alla violazione, dovevamo reagire immediatamente, anche se l'aereo fosse stato siriano avremmo dovuto abbatterlo» ha aggiunto. La Siria, che inizialmente si era scusata per l'accaduto, si è comunque impegnata per «buone relazioni» con la Turchia, ha concluso Makdissi.
+Un caccia F-4 dell'aeronautica militare turca. Un velivolo di questo tipo è stato abbattuto dalla contraerea siriana (Ansa/Kuvvetleri)
+IL CONSIGLIO - Le dure parole da parte del governo di Damasco arrivano proprio nel giorno della riunione, a Lussemburgo, del consiglio degli Affari esteri che ha affrontato il caso. Un coro di critiche si è levato per l'abbattimento del jet turco, definito da molti ministri degli esteri dei 27 paesi europei come «inaccettabile». La Turchia deve «essere moderata nella sua reazione», il monito dell'Alto rappresentante Ue per la politica estera e di sicurezza comune Catherine Ashton, che si è detta «molto preoccupata» per quanto avvenuto e di essere in contatto con il ministro degli Esteri di Ankara Ahmet Davutoglu. Due le operazioni a cui l'Ue deve lavorare sulla Siria: da una parte, ha spiegato la Ashton in occasione del consiglio Affari esteri a Lussemburgo, «mettere insieme l'opposizione», con l'obiettivo che questa possa avere «un approccio inclusivo» e possa «iniziare a pensare al processo politico» di transizione . Dall'altra parte, i 27 devono «esaminare come sostenere» l'inviato speciale dell'Onu Kofi Annan, che ha un «ruolo estremamente difficile» perchè il suo piano in sei punti possa veramente essere messo in atto.
+L'INCIDENTE - Nel frattempo pare che un altro incidente, questa volta senza conseguenze materiali, ci sia stato sabato fra un aereo turco e i sistemi di difesa aerea siriani. Durante le ricerche del caccia di Ankara abbattuto venerdì al largo delle coste della Siria, un aereo turco Casa Cn 235 impegnato nelle ricerche lungo le coste siriane, è stato «puntato» da un sistema di difesa delle forze di Damasco. Il puntamento è stato registrato dai sistemi elettronici dell'aereo turco. Ma non c'è stato un successivo attacco, e l'incidente non ha avuto conseguenze materiali.
+Redazione Online25 giugno 2012 | 22:34© RIPRODUZIONE RISERVATA
+RCS MediaGroup S.p.A. - Divisione Quotidiani  Sede legale: via Angelo Rizzoli, 8 - 20132 Milano | Capitale sociale: € 270.000.000,00
+Codice Fiscale, Partita I.V.A. e Iscrizione al Registro delle Imprese di Milano n.12086540155 | R.E.A. di Milano: 1524326 | ISSN 2499-0485

@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+Reazione di una donna a Kiev , davanti ai corpi di due manifestanti uccisi durante gli scontri , <TIMEX3 tid="t3" type="DATE" value="2014-02-18">18 febbraio 2014</TIMEX3> , fermo immagine da YouTube .
+Prima che venissero inaugurati i Giochi Olimpici <TIMEX3 tid="t8" type="DATE" value="XXXX-WI">invernali</TIMEX3> di Sochi , <TIMEX3 tid="t9" type="DURATION" value="P2W" mod="LESS_THAN">meno di due settimane fa</TIMEX3> , l'autore di questo post ha dichiarato [ en ] all'US News & World Report che il malcontento in Ucraina avrebbe potuto deviare l'attenzione degli internauti russi dalle Olimpiadi .
+<TIMEX3 tid="t11" type="DATE" value="2014-02-22">Oggi</TIMEX3> , dopo un periodo di calma relativa , la violenza è ritornata nelle strade di Kiev , producendo un drammatico cambio di direzione nelle attività di RuNet .
+Sicuramente , le immagini che arrivano dall'Ucraina sono quasi quelle di una guerra civile .
+Mentre le notizie da Kiev riempiono le prime pagine di tutto il mondo , un ' analisi comparativa su Twitter ci dimostra che gli eventi del <TIMEX3 tid="t13" type="DATE" value="2014-02-18">18 febbraio</TIMEX3> in Ucraina hanno stimolati i commentatori russi ad un livello differente rispetto al resto del mondo .
+Infatti , su Twitter nelle ultime <TIMEX3 tid="t15" type="DURATION" value="P1D">24 ore</TIMEX3> , l'interesse verso l'Ucraina da parte degli utenti russi ha sorpassato l'attenzione verso le Olimpiadi .
+Questo dato ribalta una tendenza in atto dal <TIMEX3 tid="t17" type="DATE" value="2014-01-25">25 gennaio</TIMEX3> , cioè addirittura delle <TIMEX3 tid="t19" type="DURATION" value="PXW">settimane precedenti</TIMEX3> alla cerimonia di apertura , quando gli utenti russi pubblicavano più post su Sochi che su Kiev .
+La tendenza tra gli utenti anglofoni di Twitter durante <TIMEX3 tid="t21" type="DATE" value="2014-01">l'ultimo mese</TIMEX3> è simile , ma l'interesse per Sochi ha sempre dominato .
+Persino <TIMEX3 tid="t22" type="DATE" value="2014-02-22">oggi</TIMEX3> , mentre l'Ucraina è in fiamme , i tweet in lingua inglese su Kiev sono poco più della metà rispetto ai più di duecentomila tweet sui Giochi <TIMEX3 tid="t23" type="DATE" value="XXXX-WI">Invernali</TIMEX3> .
+Se da una parte non sorprende che gli utenti di Internet siano attratti dallo spettacolo rivoluzionario di Kiev , è notevole che il paese ospitante delle Olimpiadi <TIMEX3 tid="t24" type="DATE" value="XXXX-WI">invernali</TIMEX3> sembra abbia perso il proprio pubblico nazionale nell'ambito di un evento internazionale .
+Post su Twitter in lingua russa ( clicca per ingrandire ) :
+Post su Twitter in russo su " maidan " o " kiev " ( in arancio ) a confronto con i post su " sochi " o le " olimpiadi " ( in blu ) .
+Post su Twitter in lingua inglese ( clicca per ingrandire ) :
+Post su Twitter in inglese su " maidan " o " kiev " o " euromaidan " o " kyiv " ( in arancio ) a confronto con i post su " sochi " o le " olimpiadi " ( in blu ) .
+</TimeML>
+

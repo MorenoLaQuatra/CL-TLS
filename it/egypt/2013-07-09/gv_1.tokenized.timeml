@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<!DOCTYPE TimeML SYSTEM "TimeML.dtd">
+<TimeML>
+Mohamed Morsi non è più il presidente dell'Egitto [ it ] e in compenso scrive frasi deliranti sul suo profilo Twitter @EgyPresidency [ en , come tutti i link salvo dove diversamente indicato ] .
+Il mandato è stato interrotto dopo <TIMEX3 tid="t4" type="DURATION" value="P1Y">un anno</TIMEX3> , a seguito delle imponenti proteste diffusesi
+dal <TIMEX3 tid="t2" type="DATE" value="2013-06-30">30 giugno</TIMEX3> in tutto l'Egitto , in cui si reclamavano a gran voce le dimissioni di Morsi .
+<TIMEX3 tid="t5" type="DATE" value="2013-07-03">Il 3 luglio</TIMEX3> , nel corso di una diretta televisiva , il capo delle Forze armate egiziane Abdel Fattah Al Sisi [ it ] ha dichiarato che il presidente della Suprema Corte Costituzionale egiziana Adli Mansur [ it ] sarà il nuovo presidente ad interim e che verrà formato un governo tecnico .
+Inoltre , il generale Al Sisi ha annunciato che la Costituzione egiziana è stata sospesa e che si darà presto il via ai preparativi per le elezioni presidenziali e parlamentari .
+In alcuni tweet , Morsi ha descritto l'azione intrapresa contro di lui da parte dell'esercito come un vero e proprio colpo di Stato :
+@EgyPresidency :
+Pres .
+Morsy :
+Le misure annunciate dal comando delle forze armate rappresentano un vero e proprio colpo di stato , rifiutato nella maniera più assoluta da ogni uomo libero del nostro paese @EgyPresidency :
+Pres .
+Morsy :
+L'annuncio diffuso
+dalle forze armate viene rifiutato da tutti coloro che hanno lottato per un Egitto civile e democratico .
+@EgyPresidency :
+Il Pres .
+Morsy invita civili e membri dell'esercito a tutelare la legge e la Costituzione e a non accettare questo colpo di stato che catapulta l'Egitto [ # Egypt ] indietro nel tempo di anni Morsi chiede inoltre che vengano evitati spargimenti di sangue :
+@EgyPresidency :
+Il Pres .
+Morsy esorta alla pace e ad evitare spargimenti di sangue all'interno del paese .
+</TimeML>
+

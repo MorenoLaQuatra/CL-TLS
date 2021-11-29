@@ -1,6 +1,10 @@
 # CL-TLS
 
-ML-Crisis data collection for the paper **Cross-lingual timeline summarization**. Currently under review.
+ML-Crisis data collection for the paper **Cross-lingual timeline summarization** accepted as regular paper at IEEE AIKE 2021.
+
+```
+Citation coming soon!
+```
 
 ## Data Collection - ML-Crisis
 
